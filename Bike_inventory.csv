@@ -1,0 +1,1001 @@
+Bike_ID,Bike_Type,Manufacturer,Frame_Size,Availability,Purchase_Dates,Warranty_Expiry_Date,Maintenance_History,Condition
+BIKE335,E-Bike,Mercier,XL,TRUE,25-10-2022,02-09-2023,No,Good
+BIKE645,Traditional,Mercier,M,TRUE,29-12-2021,28-02-2024,No,Retired
+BIKE845,E-Bike,Mercier,L,TRUE,26-02-2023,13-03-2023,Yes,Needs Repair
+BIKE291,E-Bike,Mercier,XL,FALSE,24-06-2022,10-03-2024,Yes,Out of Service
+BIKE685,Traditional,Mercier,L,FALSE,05-02-2023,07-04-2023,Yes,New
+BIKE984,E-Bike,Mercier,XL,FALSE,19-06-2023,14-06-2023,Yes,Needs Repair
+BIKE076,Traditional,Mercier,L,TRUE,23-12-2022,30-04-2023,No,Out of Service
+BIKE351,Traditional,Mercier,S,FALSE,11-01-2022,14-10-2023,Yes,Good
+BIKE737,E-Bike,Mercier,M,TRUE,23-05-2023,11-02-2024,No,Refurbished
+BIKE307,E-Bike,Mercier,M,FALSE,15-12-2022,29-08-2023,No,New
+BIKE105,E-Bike,Mercier,XL,TRUE,06-01-2023,14-02-2023,Yes,Out of Service
+BIKE061,Traditional,Mercier,M,TRUE,17-07-2023,21-12-2023,Yes,Fair
+BIKE874,Traditional,Mercier,L,FALSE,27-01-2022,12-01-2023,Yes,Fair
+BIKE135,Traditional,Mercier,M,TRUE,12-03-2022,06-03-2024,No,Needs Repair
+BIKE577,Traditional,Mercier,XL,TRUE,03-02-2022,29-07-2023,Yes,Retired
+BIKE272,Traditional,Mercier,XL,FALSE,31-01-2022,30-10-2023,No,Good
+BIKE143,E-Bike,Mercier,L,FALSE,25-06-2022,19-01-2024,No,Out of Service
+BIKE891,E-Bike,Mercier,M,FALSE,29-05-2023,02-04-2024,No,Retired
+BIKE473,Traditional,Mercier,L,TRUE,13-12-2021,06-07-2023,No,Out of Service
+BIKE915,E-Bike,Mercier,L,TRUE,23-12-2021,28-04-2023,Yes,Refurbished
+BIKE160,E-Bike,Mercier,M,FALSE,25-02-2023,15-02-2023,Yes,Fair
+BIKE905,E-Bike,Mercier,S,FALSE,11-01-2022,19-02-2023,Yes,Retired
+BIKE888,E-Bike,Mercier,M,FALSE,23-12-2021,18-03-2024,No,Retired
+BIKE875,E-Bike,Mercier,XL,FALSE,25-07-2023,02-05-2023,Yes,Out of Service
+BIKE811,E-Bike,Mercier,L,TRUE,21-06-2023,21-09-2023,No,Refurbished
+BIKE778,Traditional,Mercier,L,TRUE,28-07-2023,12-02-2023,Yes,Out of Service
+BIKE795,E-Bike,Mercier,L,FALSE,18-12-2022,23-01-2023,No,New
+BIKE120,Traditional,Mercier,S,TRUE,23-02-2023,13-03-2024,Yes,Retired
+BIKE282,Traditional,Mercier,M,FALSE,25-06-2022,01-01-2024,No,Out of Service
+BIKE434,E-Bike,Mercier,XL,TRUE,21-06-2022,27-02-2024,No,Refurbished
+BIKE461,Traditional,Mercier,L,FALSE,07-12-2021,03-09-2023,Yes,Retired
+BIKE727,Traditional,Mercier,M,TRUE,17-07-2023,10-04-2024,No,Out of Service
+BIKE911,Traditional,Mercier,L,FALSE,16-08-2022,07-03-2023,Yes,Refurbished
+BIKE179,Traditional,Mercier,M,FALSE,13-05-2023,09-04-2023,No,Refurbished
+BIKE595,E-Bike,Mercier,M,TRUE,14-07-2023,21-12-2023,Yes,Retired
+BIKE524,E-Bike,Mercier,XL,TRUE,18-11-2022,25-04-2024,No,New
+BIKE388,E-Bike,Mercier,XL,TRUE,05-04-2022,21-12-2023,No,Refurbished
+BIKE152,Traditional,Mercier,M,FALSE,19-03-2023,16-11-2023,No,Out of Service
+BIKE226,E-Bike,Mercier,S,FALSE,16-01-2022,27-01-2023,Yes,Out of Service
+BIKE421,Traditional,Mercier,L,TRUE,17-12-2021,21-03-2023,No,Fair
+BIKE682,E-Bike,Mercier,XL,TRUE,18-04-2022,15-06-2023,Yes,Refurbished
+BIKE580,Traditional,Mercier,L,TRUE,16-02-2023,24-12-2023,No,Needs Repair
+BIKE862,Traditional,Mercier,M,FALSE,11-07-2022,16-03-2023,Yes,Refurbished
+BIKE368,E-Bike,Mercier,M,FALSE,10-06-2022,15-10-2023,Yes,Out of Service
+BIKE402,E-Bike,Mercier,L,TRUE,23-01-2023,25-05-2023,Yes,Good
+BIKE745,Traditional,Mercier,L,FALSE,02-08-2022,22-02-2024,Yes,Good
+BIKE777,E-Bike,Mercier,XL,FALSE,14-10-2022,09-04-2023,No,Good
+BIKE345,Traditional,Mercier,XL,TRUE,26-03-2022,16-08-2023,No,New
+BIKE649,E-Bike,Mercier,XL,TRUE,08-07-2022,15-02-2024,No,Good
+BIKE118,Traditional,Mercier,S,FALSE,19-12-2022,23-11-2023,No,Retired
+BIKE510,E-Bike,Mercier,XL,TRUE,12-03-2022,10-02-2024,Yes,Good
+BIKE808,E-Bike,Mercier,S,FALSE,17-04-2022,02-03-2024,No,Retired
+BIKE778,E-Bike,Mercier,XL,FALSE,24-02-2022,20-10-2023,Yes,New
+BIKE008,Traditional,Mercier,S,FALSE,10-03-2022,31-08-2023,No,Out of Service
+BIKE627,E-Bike,Mercier,L,TRUE,28-10-2022,09-07-2023,Yes,Refurbished
+BIKE858,E-Bike,Mercier,L,FALSE,02-05-2023,06-05-2024,Yes,Retired
+BIKE578,E-Bike,Mercier,S,TRUE,06-04-2022,24-02-2024,Yes,Good
+BIKE419,E-Bike,Mercier,S,FALSE,18-02-2022,05-03-2023,Yes,New
+BIKE327,Traditional,Mercier,L,TRUE,30-06-2022,28-05-2023,No,Refurbished
+BIKE879,Traditional,Mercier,M,FALSE,22-07-2022,13-03-2023,Yes,Retired
+BIKE672,E-Bike,Mercier,XL,FALSE,29-05-2022,27-08-2023,Yes,Out of Service
+BIKE276,E-Bike,Mercier,M,FALSE,22-07-2023,15-01-2023,Yes,New
+BIKE277,Traditional,Mercier,S,FALSE,06-01-2022,26-03-2023,Yes,Refurbished
+BIKE537,E-Bike,Mercier,XL,TRUE,30-05-2023,17-01-2024,Yes,New
+BIKE498,E-Bike,Mercier,S,TRUE,28-07-2023,03-03-2023,No,Needs Repair
+BIKE148,E-Bike,Mercier,L,FALSE,02-01-2023,24-08-2023,Yes,Out of Service
+BIKE006,E-Bike,Mercier,L,TRUE,29-01-2023,17-12-2023,Yes,New
+BIKE582,E-Bike,Mercier,L,FALSE,10-01-2022,18-05-2023,No,New
+BIKE869,Traditional,Mercier,M,FALSE,09-04-2023,08-09-2023,Yes,Good
+BIKE319,E-Bike,Mercier,L,TRUE,23-12-2022,13-02-2023,No,New
+BIKE047,Traditional,Mercier,XL,TRUE,18-12-2021,30-09-2023,Yes,Refurbished
+BIKE304,Traditional,Mercier,L,FALSE,06-05-2022,26-03-2024,No,Out of Service
+BIKE978,Traditional,Mercier,S,FALSE,29-06-2023,14-12-2023,No,Retired
+BIKE118,Traditional,Mercier,L,TRUE,17-05-2022,15-04-2023,No,Fair
+BIKE559,Traditional,Mercier,L,FALSE,01-05-2023,23-12-2023,Yes,Retired
+BIKE951,Traditional,Mercier,XL,TRUE,19-11-2022,08-01-2023,Yes,Good
+BIKE044,Traditional,Mercier,S,TRUE,15-10-2022,03-10-2023,Yes,Retired
+BIKE023,Traditional,Mercier,S,TRUE,09-08-2022,18-01-2023,No,Out of Service
+BIKE394,E-Bike,Mercier,L,TRUE,09-01-2022,19-12-2023,Yes,Refurbished
+BIKE061,E-Bike,Mercier,M,TRUE,17-07-2023,05-01-2023,No,Refurbished
+BIKE970,Traditional,Mercier,S,TRUE,15-04-2022,17-04-2024,No,Refurbished
+BIKE795,Traditional,Mercier,L,FALSE,17-04-2022,12-01-2023,Yes,Needs Repair
+BIKE330,Traditional,Mercier,M,TRUE,14-09-2022,13-04-2024,Yes,Retired
+BIKE352,Traditional,Mercier,XL,FALSE,26-03-2022,30-04-2023,Yes,Good
+BIKE064,E-Bike,Mercier,S,TRUE,30-12-2021,29-02-2024,Yes,Retired
+BIKE998,Traditional,Mercier,XL,FALSE,14-06-2022,02-12-2023,No,Fair
+BIKE330,Traditional,Mercier,S,FALSE,18-01-2022,06-05-2023,Yes,Out of Service
+BIKE553,Traditional,Mercier,L,FALSE,21-03-2023,12-04-2024,No,Good
+BIKE669,Traditional,Mercier,L,FALSE,07-12-2022,13-03-2023,Yes,Fair
+BIKE505,Traditional,Mercier,S,FALSE,11-02-2023,01-05-2024,No,Out of Service
+BIKE902,Traditional,Mercier,S,TRUE,09-12-2021,13-01-2024,Yes,Retired
+BIKE050,Traditional,Mercier,L,FALSE,01-02-2022,01-07-2023,No,Fair
+BIKE790,E-Bike,Mercier,S,FALSE,17-02-2022,06-10-2023,No,Needs Repair
+BIKE100,E-Bike,Mercier,XL,TRUE,17-06-2022,13-02-2024,Yes,Out of Service
+BIKE682,E-Bike,Mercier,XL,FALSE,18-06-2023,31-03-2023,No,Good
+BIKE006,Traditional,Mercier,L,TRUE,06-01-2022,03-05-2023,No,Refurbished
+BIKE523,E-Bike,Mercier,M,FALSE,02-06-2023,01-04-2023,Yes,Refurbished
+BIKE674,Traditional,Mercier,L,TRUE,07-05-2022,08-04-2024,Yes,Out of Service
+BIKE678,E-Bike,Mercier,S,FALSE,07-04-2022,06-04-2024,Yes,Good
+BIKE157,Traditional,Mercier,M,TRUE,11-09-2022,07-07-2023,No,Retired
+BIKE542,E-Bike,Mercier,XL,FALSE,24-01-2023,14-09-2023,Yes,Fair
+BIKE598,Traditional,Mercier,S,FALSE,05-03-2022,15-10-2023,Yes,Needs Repair
+BIKE522,Traditional,Mercier,L,FALSE,07-07-2022,11-10-2023,Yes,Needs Repair
+BIKE395,Traditional,Mercier,XL,TRUE,06-11-2022,18-01-2024,No,New
+BIKE579,E-Bike,Mercier,XL,FALSE,19-10-2022,21-11-2023,No,Retired
+BIKE307,Traditional,Mercier,M,TRUE,17-01-2023,07-09-2023,No,Fair
+BIKE959,Traditional,Mercier,M,FALSE,15-07-2022,31-10-2023,No,Refurbished
+BIKE104,Traditional,Mercier,XL,FALSE,27-06-2022,15-11-2023,No,Needs Repair
+BIKE576,Traditional,Mercier,L,FALSE,04-01-2022,15-11-2023,Yes,Out of Service
+BIKE906,E-Bike,Mercier,S,TRUE,10-01-2022,24-06-2023,Yes,Good
+BIKE083,E-Bike,Mercier,XL,FALSE,05-07-2023,28-11-2023,No,Out of Service
+BIKE313,E-Bike,Mercier,S,TRUE,10-06-2022,23-03-2023,Yes,Out of Service
+BIKE562,Traditional,Mercier,S,FALSE,05-05-2022,18-09-2023,No,Retired
+BIKE984,Traditional,Mercier,S,TRUE,28-04-2022,02-05-2024,Yes,New
+BIKE428,E-Bike,Mercier,XL,TRUE,07-01-2023,28-09-2023,No,Fair
+BIKE729,E-Bike,Mercier,XL,FALSE,31-01-2022,24-01-2024,No,Retired
+BIKE798,Traditional,Mercier,L,FALSE,11-03-2023,01-05-2024,Yes,Good
+BIKE905,Traditional,Mercier,XL,TRUE,23-04-2022,14-03-2024,Yes,Out of Service
+BIKE004,E-Bike,Mercier,M,TRUE,31-08-2022,12-02-2023,No,Fair
+BIKE366,Traditional,Mercier,L,FALSE,28-07-2022,04-11-2023,Yes,Needs Repair
+BIKE449,Traditional,Mercier,M,TRUE,01-01-2023,10-12-2023,No,New
+BIKE237,Traditional,Mercier,L,TRUE,19-01-2022,30-07-2023,No,Needs Repair
+BIKE027,E-Bike,Mercier,XL,FALSE,29-06-2022,29-01-2023,Yes,Fair
+BIKE913,Traditional,Mercier,M,TRUE,30-05-2023,29-01-2023,No,Refurbished
+BIKE365,Traditional,Mercier,XL,FALSE,23-10-2022,07-05-2024,No,New
+BIKE741,Traditional,Mercier,M,FALSE,22-03-2023,06-08-2023,Yes,Good
+BIKE028,Traditional,Mercier,S,FALSE,31-03-2022,04-01-2023,Yes,Fair
+BIKE944,E-Bike,Mercier,S,TRUE,12-01-2023,02-06-2023,No,Fair
+BIKE436,E-Bike,Mercier,M,FALSE,10-01-2022,06-07-2023,No,Fair
+BIKE038,E-Bike,Mercier,S,TRUE,19-10-2022,30-08-2023,No,Out of Service
+BIKE131,Traditional,Mercier,M,FALSE,29-11-2022,04-02-2023,No,Refurbished
+BIKE851,Traditional,Mercier,S,FALSE,06-07-2023,22-04-2024,No,Good
+BIKE122,Traditional,Mercier,XL,TRUE,17-11-2022,24-03-2023,Yes,Out of Service
+BIKE079,E-Bike,Mercier,S,FALSE,24-09-2022,28-02-2023,Yes,Fair
+BIKE910,Traditional,Mercier,L,TRUE,18-12-2021,30-06-2023,No,Needs Repair
+BIKE865,Traditional,Mercier,L,FALSE,04-10-2022,06-09-2023,Yes,Fair
+BIKE618,Traditional,Mercier,M,TRUE,25-02-2022,29-09-2023,Yes,Refurbished
+BIKE306,E-Bike,Mercier,XL,FALSE,23-06-2022,06-06-2023,Yes,Retired
+BIKE286,E-Bike,Mercier,XL,TRUE,06-08-2022,08-08-2023,Yes,Needs Repair
+BIKE711,Traditional,Mercier,M,FALSE,23-11-2022,14-01-2024,No,Retired
+BIKE045,E-Bike,Mercier,S,FALSE,30-03-2022,23-04-2024,No,Fair
+BIKE561,E-Bike,Mercier,L,FALSE,20-10-2022,02-03-2023,Yes,Needs Repair
+BIKE791,Traditional,Mercier,L,TRUE,01-08-2022,17-09-2023,No,Fair
+BIKE039,Traditional,Mercier,XL,TRUE,08-07-2023,18-02-2023,Yes,Needs Repair
+BIKE335,Traditional,Mercier,XL,TRUE,10-06-2023,10-01-2023,Yes,Retired
+BIKE744,Traditional,Mercier,XL,FALSE,20-11-2022,07-01-2023,Yes,Good
+BIKE921,Traditional,Mercier,L,FALSE,17-07-2023,18-12-2023,No,Refurbished
+BIKE362,Traditional,Mercier,M,TRUE,08-02-2023,23-03-2024,Yes,Retired
+BIKE622,E-Bike,Mercier,XL,TRUE,21-03-2023,28-01-2024,Yes,Retired
+BIKE869,E-Bike,Mercier,S,FALSE,12-01-2022,01-12-2023,Yes,New
+BIKE976,Traditional,Mercier,XL,FALSE,19-01-2023,10-01-2023,Yes,New
+BIKE896,E-Bike,Mercier,XL,TRUE,12-06-2023,29-10-2023,No,Refurbished
+BIKE006,E-Bike,Mercier,M,TRUE,05-09-2022,14-02-2023,No,Retired
+BIKE683,E-Bike,Mercier,XL,FALSE,04-03-2023,20-11-2023,Yes,Good
+BIKE108,E-Bike,Mercier,S,TRUE,29-07-2022,06-03-2023,Yes,Out of Service
+BIKE840,E-Bike,Mercier,S,TRUE,20-02-2023,26-08-2023,No,Out of Service
+BIKE550,Traditional,Mercier,M,FALSE,02-01-2022,27-07-2023,Yes,Refurbished
+BIKE661,E-Bike,Mercier,L,TRUE,28-02-2022,16-05-2023,Yes,Needs Repair
+BIKE246,E-Bike,Mercier,L,TRUE,14-02-2022,12-12-2023,Yes,Needs Repair
+BIKE724,E-Bike,Mercier,S,FALSE,09-12-2022,18-06-2023,Yes,Good
+BIKE669,Traditional,Mercier,S,TRUE,08-06-2023,18-06-2023,Yes,Good
+BIKE010,E-Bike,Mercier,M,FALSE,19-02-2023,14-02-2024,Yes,Fair
+BIKE928,E-Bike,Mercier,L,FALSE,11-01-2023,15-05-2023,Yes,Retired
+BIKE768,E-Bike,Mercier,XL,TRUE,16-02-2023,30-07-2023,No,Needs Repair
+BIKE659,Traditional,Mercier,S,TRUE,07-12-2021,21-07-2023,Yes,Retired
+BIKE281,Traditional,Mercier,XL,FALSE,03-09-2022,01-04-2023,No,Needs Repair
+BIKE881,E-Bike,Mercier,XL,TRUE,09-02-2023,01-02-2023,Yes,Retired
+BIKE699,E-Bike,Mercier,XL,FALSE,12-01-2023,30-10-2023,No,Retired
+BIKE625,E-Bike,Mercier,L,TRUE,11-12-2022,19-11-2023,Yes,Refurbished
+BIKE864,E-Bike,Mercier,L,TRUE,09-08-2022,18-06-2023,Yes,Out of Service
+BIKE434,Traditional,Mercier,M,FALSE,16-07-2023,07-01-2024,No,Fair
+BIKE978,E-Bike,Mercier,L,TRUE,24-09-2022,06-04-2024,Yes,New
+BIKE019,Traditional,Mercier,M,TRUE,18-02-2022,06-12-2023,Yes,Good
+BIKE521,E-Bike,Mercier,S,FALSE,31-01-2022,26-02-2024,No,Needs Repair
+BIKE345,Traditional,Mercier,L,TRUE,01-07-2023,09-03-2023,Yes,Refurbished
+BIKE177,Traditional,Mercier,M,FALSE,16-06-2023,19-12-2023,Yes,Good
+BIKE280,E-Bike,Mercier,M,FALSE,22-04-2023,25-08-2023,Yes,Needs Repair
+BIKE640,Traditional,Mercier,M,TRUE,10-12-2021,01-10-2023,Yes,Refurbished
+BIKE832,E-Bike,Mercier,S,TRUE,06-02-2023,25-06-2023,No,Retired
+BIKE920,E-Bike,Mercier,S,TRUE,18-07-2023,04-04-2024,Yes,Out of Service
+BIKE603,Traditional,Mercier,L,FALSE,31-12-2022,14-12-2023,Yes,New
+BIKE533,E-Bike,Mercier,S,FALSE,06-10-2022,03-08-2023,No,Out of Service
+BIKE874,E-Bike,Mercier,M,FALSE,03-10-2022,19-07-2023,Yes,Out of Service
+BIKE792,E-Bike,Mercier,M,TRUE,21-06-2023,12-10-2023,No,Retired
+BIKE667,Traditional,Mercier,M,TRUE,11-08-2022,12-04-2024,Yes,Good
+BIKE852,E-Bike,Mercier,M,TRUE,17-03-2022,13-07-2023,Yes,New
+BIKE859,E-Bike,Mercier,M,FALSE,05-09-2022,15-09-2023,No,Fair
+BIKE283,E-Bike,Mercier,L,FALSE,15-05-2023,15-01-2024,Yes,Retired
+BIKE289,E-Bike,Mercier,M,TRUE,23-01-2022,19-03-2024,No,Refurbished
+BIKE043,Traditional,Mercier,L,FALSE,06-01-2022,11-12-2023,No,Needs Repair
+BIKE706,Traditional,Mercier,XL,FALSE,16-06-2023,17-02-2023,No,Fair
+BIKE464,Traditional,Mercier,S,TRUE,09-03-2023,28-06-2023,Yes,Refurbished
+BIKE172,E-Bike,Mercier,S,TRUE,05-04-2023,06-07-2023,Yes,Good
+BIKE300,Traditional,Mercier,M,TRUE,27-07-2023,31-03-2023,Yes,Needs Repair
+BIKE064,E-Bike,Mercier,S,FALSE,11-10-2022,27-04-2024,Yes,Good
+BIKE904,Traditional,Mercier,S,TRUE,17-01-2022,08-04-2024,Yes,Good
+BIKE588,E-Bike,Mercier,L,TRUE,07-11-2022,04-03-2023,Yes,New
+BIKE508,E-Bike,Mercier,XL,TRUE,18-07-2023,19-01-2023,No,Refurbished
+BIKE344,Traditional,Mercier,M,FALSE,28-12-2021,01-05-2023,Yes,Retired
+BIKE328,Traditional,Mercier,S,FALSE,24-12-2021,30-12-2023,No,Retired
+BIKE380,E-Bike,Mercier,S,TRUE,02-06-2023,01-10-2023,No,Good
+BIKE065,Traditional,Mercier,M,TRUE,21-03-2022,28-12-2023,No,Needs Repair
+BIKE347,E-Bike,Mercier,M,TRUE,23-10-2022,03-04-2024,Yes,Out of Service
+BIKE401,Traditional,Mercier,M,FALSE,07-09-2022,01-02-2024,Yes,Retired
+BIKE647,E-Bike,Mercier,XL,TRUE,20-03-2023,23-01-2024,No,New
+BIKE914,Traditional,Mercier,S,TRUE,15-01-2022,21-12-2023,No,Good
+BIKE674,Traditional,Mercier,XL,TRUE,29-10-2022,25-09-2023,Yes,Needs Repair
+BIKE331,Traditional,Mercier,XL,FALSE,06-05-2022,05-04-2023,Yes,Out of Service
+BIKE629,Traditional,Mercier,M,TRUE,06-02-2022,08-12-2023,Yes,Out of Service
+BIKE763,E-Bike,Mercier,S,FALSE,27-06-2022,07-01-2023,No,Fair
+BIKE488,E-Bike,Mercier,M,FALSE,07-09-2022,12-09-2023,Yes,Out of Service
+BIKE793,Traditional,Mercier,XL,TRUE,20-05-2023,20-11-2023,No,Out of Service
+BIKE967,Traditional,Mercier,XL,FALSE,31-07-2022,16-09-2023,No,Retired
+BIKE621,Traditional,Mercier,L,FALSE,16-12-2021,11-04-2023,No,Fair
+BIKE049,E-Bike,Mercier,XL,FALSE,15-12-2022,14-05-2023,Yes,Good
+BIKE780,E-Bike,Mercier,XL,TRUE,18-09-2022,18-01-2023,Yes,Retired
+BIKE789,E-Bike,Mercier,L,FALSE,29-06-2022,29-07-2023,No,Refurbished
+BIKE184,E-Bike,Mercier,L,FALSE,25-04-2022,30-04-2024,No,Fair
+BIKE668,E-Bike,Mercier,L,FALSE,12-06-2023,17-04-2024,No,Refurbished
+BIKE998,E-Bike,Mercier,M,FALSE,27-04-2022,24-03-2024,Yes,Fair
+BIKE942,E-Bike,Mercier,M,TRUE,13-04-2023,09-01-2023,Yes,Fair
+BIKE387,E-Bike,Mercier,XL,TRUE,06-03-2023,14-03-2024,Yes,Fair
+BIKE791,Traditional,Mercier,XL,FALSE,01-07-2022,07-01-2024,Yes,Needs Repair
+BIKE011,Traditional,Mercier,L,FALSE,22-03-2022,05-03-2023,Yes,Out of Service
+BIKE331,Traditional,Mercier,M,TRUE,14-01-2022,14-02-2023,No,Refurbished
+BIKE077,E-Bike,Mercier,M,FALSE,26-06-2022,11-08-2023,Yes,Fair
+BIKE862,E-Bike,Mercier,M,FALSE,05-07-2022,17-01-2023,Yes,Refurbished
+BIKE811,E-Bike,Mercier,M,TRUE,09-12-2021,29-05-2023,No,Needs Repair
+BIKE015,Traditional,Mercier,XL,TRUE,02-11-2022,19-04-2023,Yes,Good
+BIKE014,E-Bike,Mercier,L,FALSE,12-02-2023,29-12-2023,No,Out of Service
+BIKE815,Traditional,Mercier,M,TRUE,28-07-2023,22-11-2023,Yes,Out of Service
+BIKE944,Traditional,Mercier,S,FALSE,07-08-2022,13-09-2023,Yes,Refurbished
+BIKE610,Traditional,Mercier,L,FALSE,22-12-2021,28-02-2024,Yes,Good
+BIKE234,Traditional,Mercier,L,TRUE,25-02-2022,08-03-2023,No,New
+BIKE852,Traditional,Mercier,S,FALSE,27-07-2022,16-06-2023,No,Out of Service
+BIKE796,E-Bike,Mercier,S,FALSE,18-03-2023,01-02-2023,No,Out of Service
+BIKE576,Traditional,Mercier,L,TRUE,06-05-2022,01-02-2024,No,Needs Repair
+BIKE607,Traditional,Mercier,L,TRUE,18-03-2022,04-02-2023,Yes,Needs Repair
+BIKE828,Traditional,Mercier,M,FALSE,15-03-2022,01-07-2023,No,Refurbished
+BIKE426,E-Bike,Mercier,XL,FALSE,31-12-2022,06-02-2024,No,New
+BIKE166,E-Bike,Mercier,S,FALSE,08-02-2023,08-03-2024,Yes,Retired
+BIKE026,Traditional,Mercier,M,FALSE,03-03-2022,19-03-2024,No,New
+BIKE566,Traditional,Mercier,XL,TRUE,11-07-2022,24-02-2024,Yes,Refurbished
+BIKE763,E-Bike,Mercier,XL,FALSE,05-11-2022,27-01-2024,Yes,Refurbished
+BIKE688,Traditional,Mercier,XL,FALSE,09-02-2022,23-03-2024,Yes,Good
+BIKE773,E-Bike,Mercier,XL,TRUE,26-02-2023,08-02-2024,No,Fair
+BIKE435,Traditional,Mercier,M,FALSE,15-01-2023,05-12-2023,No,New
+BIKE922,E-Bike,Mercier,XL,FALSE,10-03-2022,07-06-2023,No,Refurbished
+BIKE172,E-Bike,Mercier,XL,TRUE,08-05-2022,31-05-2023,Yes,Retired
+BIKE250,E-Bike,Mercier,S,FALSE,16-09-2022,04-07-2023,Yes,Good
+BIKE718,Traditional,Mercier,L,FALSE,07-03-2022,05-01-2024,Yes,Fair
+BIKE539,Traditional,Mercier,S,TRUE,11-06-2023,18-03-2023,Yes,New
+BIKE684,Traditional,Mercier,S,FALSE,07-06-2023,02-01-2023,No,New
+BIKE277,E-Bike,Mercier,S,FALSE,30-07-2022,11-01-2024,Yes,Out of Service
+BIKE148,E-Bike,Mercier,M,TRUE,13-03-2022,20-04-2024,No,Out of Service
+BIKE462,E-Bike,Mercier,XL,TRUE,03-07-2022,17-06-2023,No,Needs Repair
+BIKE428,E-Bike,Mercier,S,FALSE,05-05-2023,25-01-2023,Yes,Refurbished
+BIKE849,Traditional,Mercier,S,TRUE,18-04-2022,08-11-2023,No,Refurbished
+BIKE569,E-Bike,Mercier,XL,FALSE,22-04-2022,02-09-2023,Yes,Fair
+BIKE599,Traditional,Mercier,XL,FALSE,11-06-2023,09-09-2023,Yes,New
+BIKE129,Traditional,Mercier,XL,FALSE,09-02-2022,26-01-2023,No,Fair
+BIKE395,Traditional,Mercier,S,FALSE,11-05-2022,02-12-2023,No,Retired
+BIKE320,E-Bike,Mercier,M,TRUE,14-03-2022,25-04-2024,No,Retired
+BIKE955,Traditional,Mercier,L,TRUE,09-03-2022,14-08-2023,No,Out of Service
+BIKE159,Traditional,Mercier,L,FALSE,03-12-2021,28-05-2023,Yes,Out of Service
+BIKE638,Traditional,Mercier,L,TRUE,26-04-2022,29-04-2024,Yes,Fair
+BIKE887,E-Bike,Mercier,S,FALSE,11-12-2022,29-11-2023,No,Fair
+BIKE592,Traditional,Mercier,M,TRUE,08-06-2022,13-11-2023,No,Retired
+BIKE779,E-Bike,Mercier,XL,TRUE,10-03-2022,21-10-2023,Yes,Retired
+BIKE864,E-Bike,Mercier,M,FALSE,18-09-2022,12-02-2023,Yes,Fair
+BIKE228,E-Bike,Mercier,S,FALSE,06-06-2022,16-10-2023,Yes,Good
+BIKE037,E-Bike,Mercier,M,FALSE,25-01-2022,19-01-2023,Yes,Refurbished
+BIKE252,E-Bike,Mercier,L,FALSE,21-03-2022,23-04-2023,No,Out of Service
+BIKE751,Traditional,Mercier,L,FALSE,11-06-2022,17-07-2023,Yes,New
+BIKE368,E-Bike,Mercier,L,FALSE,11-11-2022,06-05-2023,Yes,Good
+BIKE619,E-Bike,Mercier,XL,TRUE,02-12-2022,15-03-2023,Yes,Out of Service
+BIKE776,E-Bike,Mercier,XL,FALSE,28-03-2023,04-05-2024,No,Refurbished
+BIKE958,Traditional,Mercier,S,FALSE,31-01-2023,02-07-2023,Yes,Needs Repair
+BIKE778,Traditional,Mercier,M,TRUE,26-06-2023,22-09-2023,Yes,Fair
+BIKE472,Traditional,Mercier,S,TRUE,24-07-2022,22-03-2024,No,Refurbished
+BIKE502,Traditional,Mercier,S,TRUE,29-04-2022,04-08-2023,No,Good
+BIKE731,E-Bike,Mercier,L,FALSE,16-08-2022,15-06-2023,No,New
+BIKE444,E-Bike,Mercier,XL,TRUE,28-04-2022,12-03-2023,No,New
+BIKE157,Traditional,Mercier,L,FALSE,21-07-2022,25-05-2023,Yes,Fair
+BIKE046,E-Bike,Mercier,L,FALSE,08-11-2022,20-02-2024,Yes,Good
+BIKE184,Traditional,Mercier,S,TRUE,31-10-2022,01-05-2024,Yes,Out of Service
+BIKE179,Traditional,Mercier,L,FALSE,02-12-2021,09-07-2023,No,Out of Service
+BIKE645,E-Bike,Mercier,L,TRUE,02-04-2022,06-01-2024,Yes,Out of Service
+BIKE359,E-Bike,Mercier,L,TRUE,12-02-2023,11-11-2023,Yes,Out of Service
+BIKE258,Traditional,Mercier,XL,TRUE,15-02-2023,02-03-2024,Yes,Retired
+BIKE840,Traditional,Mercier,S,FALSE,06-07-2022,23-02-2023,No,New
+BIKE318,E-Bike,Mercier,M,TRUE,15-03-2022,05-02-2024,Yes,Good
+BIKE715,E-Bike,Mercier,S,FALSE,25-12-2021,24-04-2023,Yes,Good
+BIKE925,Traditional,Mercier,M,TRUE,07-07-2023,16-02-2023,No,New
+BIKE547,Traditional,Mercier,L,TRUE,16-02-2023,05-10-2023,Yes,Needs Repair
+BIKE686,E-Bike,Mercier,S,TRUE,01-11-2022,22-10-2023,Yes,Good
+BIKE067,E-Bike,Mercier,L,FALSE,19-01-2022,03-09-2023,Yes,Good
+BIKE763,Traditional,Mercier,M,FALSE,05-02-2022,17-06-2023,Yes,Fair
+BIKE204,Traditional,Mercier,L,FALSE,08-06-2022,15-08-2023,Yes,Good
+BIKE046,E-Bike,Mercier,M,FALSE,07-01-2023,10-04-2024,Yes,New
+BIKE766,Traditional,Mercier,L,FALSE,16-01-2023,14-01-2024,Yes,Retired
+BIKE891,Traditional,Mercier,S,TRUE,31-01-2022,13-02-2024,Yes,Retired
+BIKE020,E-Bike,Mercier,L,FALSE,12-11-2022,25-03-2023,No,Fair
+BIKE737,Traditional,Mercier,M,FALSE,05-04-2022,15-01-2024,Yes,Out of Service
+BIKE602,Traditional,Mercier,M,TRUE,06-05-2022,05-09-2023,No,Fair
+BIKE127,E-Bike,Mercier,M,TRUE,16-03-2022,15-05-2023,Yes,Refurbished
+BIKE654,E-Bike,Mercier,M,TRUE,01-11-2022,09-08-2023,Yes,Good
+BIKE838,E-Bike,Mercier,XL,FALSE,31-01-2022,27-11-2023,Yes,Retired
+BIKE746,Traditional,Mercier,S,FALSE,27-06-2023,08-04-2024,Yes,Fair
+BIKE544,Traditional,Mercier,S,TRUE,12-09-2022,22-08-2023,Yes,Needs Repair
+BIKE828,Traditional,Mercier,L,TRUE,11-05-2022,27-02-2024,No,Needs Repair
+BIKE676,Traditional,Mercier,XL,FALSE,18-04-2022,10-11-2023,No,Fair
+BIKE622,E-Bike,Mercier,S,FALSE,16-10-2022,20-06-2023,Yes,New
+BIKE526,E-Bike,Mercier,XL,TRUE,01-06-2023,27-01-2024,Yes,Retired
+BIKE704,E-Bike,Mercier,XL,TRUE,21-12-2022,29-01-2023,Yes,New
+BIKE250,Traditional,Mercier,L,FALSE,25-11-2022,28-05-2023,Yes,Out of Service
+BIKE519,E-Bike,Mercier,S,TRUE,15-06-2022,08-03-2024,Yes,Fair
+BIKE099,E-Bike,Mercier,L,TRUE,15-07-2022,29-10-2023,Yes,Retired
+BIKE426,Traditional,Mercier,L,FALSE,08-01-2023,19-11-2023,Yes,Good
+BIKE561,E-Bike,Mercier,L,FALSE,07-10-2022,23-07-2023,Yes,Fair
+BIKE263,E-Bike,Mercier,XL,FALSE,14-12-2021,16-01-2023,Yes,Out of Service
+BIKE589,Traditional,Mercier,XL,TRUE,30-03-2023,31-07-2023,No,Fair
+BIKE884,E-Bike,Mercier,M,FALSE,26-06-2022,18-07-2023,No,New
+BIKE545,E-Bike,Mercier,XL,FALSE,31-01-2023,29-11-2023,Yes,Out of Service
+BIKE666,Traditional,Mercier,L,FALSE,21-10-2022,19-02-2024,No,Fair
+BIKE207,E-Bike,Mercier,XL,TRUE,25-04-2023,17-01-2024,No,Fair
+BIKE716,E-Bike,Mercier,XL,FALSE,25-02-2023,07-07-2023,Yes,Out of Service
+BIKE684,E-Bike,Mercier,L,TRUE,18-05-2023,25-07-2023,Yes,Needs Repair
+BIKE593,E-Bike,Mercier,L,FALSE,08-12-2021,19-02-2023,Yes,Fair
+BIKE478,E-Bike,Mercier,S,TRUE,22-05-2022,21-03-2024,No,Out of Service
+BIKE144,E-Bike,Mercier,S,TRUE,18-05-2022,17-05-2023,No,Out of Service
+BIKE061,E-Bike,Mercier,L,FALSE,13-06-2023,20-04-2024,Yes,New
+BIKE611,E-Bike,Mercier,S,FALSE,29-06-2022,19-04-2023,Yes,Good
+BIKE572,Traditional,Mercier,XL,TRUE,30-06-2022,16-01-2023,Yes,Needs Repair
+BIKE592,Traditional,Mercier,S,TRUE,04-01-2022,20-01-2023,Yes,Good
+BIKE325,E-Bike,Mercier,L,FALSE,04-05-2023,14-01-2024,No,New
+BIKE180,E-Bike,Mercier,M,FALSE,10-01-2023,26-04-2024,Yes,Retired
+BIKE595,Traditional,Mercier,XL,TRUE,01-04-2023,12-03-2024,Yes,Fair
+BIKE959,Traditional,Mercier,L,FALSE,23-01-2022,17-04-2023,Yes,Fair
+BIKE907,Traditional,Mercier,M,TRUE,10-06-2023,22-03-2023,Yes,New
+BIKE877,E-Bike,Mercier,S,FALSE,08-06-2022,19-03-2023,Yes,Good
+BIKE806,Traditional,Mercier,XL,TRUE,12-02-2022,28-11-2023,Yes,Refurbished
+BIKE700,Traditional,Mercier,S,FALSE,02-05-2023,02-01-2024,No,Good
+BIKE928,E-Bike,Mercier,XL,FALSE,14-04-2022,25-01-2024,No,Refurbished
+BIKE008,Traditional,Mercier,L,FALSE,18-12-2021,10-05-2024,No,Fair
+BIKE724,E-Bike,Mercier,L,FALSE,03-05-2022,27-04-2024,No,New
+BIKE151,E-Bike,Mercier,S,TRUE,26-02-2022,25-02-2024,No,Refurbished
+BIKE980,E-Bike,Mercier,L,TRUE,04-11-2022,24-02-2024,No,Refurbished
+BIKE540,E-Bike,Mercier,M,FALSE,10-12-2021,08-04-2023,No,Retired
+BIKE600,Traditional,Mercier,M,FALSE,14-06-2022,17-04-2023,Yes,Needs Repair
+BIKE716,Traditional,Mercier,XL,FALSE,01-09-2022,13-03-2024,No,Out of Service
+BIKE258,E-Bike,Mercier,S,FALSE,04-11-2022,06-10-2023,Yes,Good
+BIKE656,E-Bike,Mercier,S,FALSE,30-01-2022,25-07-2023,No,Needs Repair
+BIKE862,Traditional,Mercier,XL,TRUE,01-05-2022,30-04-2023,No,Fair
+BIKE507,Traditional,Mercier,XL,TRUE,25-02-2023,12-05-2023,Yes,New
+BIKE662,E-Bike,Mercier,S,TRUE,16-07-2023,28-03-2023,No,Fair
+BIKE658,Traditional,Mercier,XL,FALSE,27-04-2023,25-09-2023,Yes,Good
+BIKE575,Traditional,Mercier,S,TRUE,21-07-2023,06-07-2023,Yes,Fair
+BIKE855,Traditional,Mercier,XL,TRUE,23-12-2021,05-07-2023,Yes,New
+BIKE117,Traditional,Mercier,L,TRUE,18-06-2022,28-01-2023,Yes,Retired
+BIKE179,E-Bike,Mercier,XL,FALSE,19-06-2022,09-02-2023,No,Out of Service
+BIKE651,Traditional,Mercier,L,FALSE,27-07-2023,15-03-2024,Yes,Out of Service
+BIKE271,Traditional,Mercier,XL,FALSE,04-06-2023,22-12-2023,No,Fair
+BIKE604,Traditional,Mercier,XL,FALSE,07-07-2023,28-01-2023,Yes,Good
+BIKE019,E-Bike,Mercier,M,TRUE,23-12-2022,29-10-2023,Yes,New
+BIKE430,Traditional,Mercier,L,TRUE,14-12-2022,07-08-2023,No,New
+BIKE811,E-Bike,Mercier,S,TRUE,06-06-2022,04-09-2023,Yes,Out of Service
+BIKE831,Traditional,Mercier,M,FALSE,03-04-2023,27-05-2023,No,Needs Repair
+BIKE158,Traditional,Mercier,XL,FALSE,18-09-2022,21-01-2023,Yes,Retired
+BIKE925,E-Bike,Mercier,S,FALSE,15-10-2022,16-09-2023,No,Refurbished
+BIKE396,E-Bike,Mercier,XL,TRUE,06-05-2023,31-03-2024,No,Fair
+BIKE339,Traditional,Mercier,XL,TRUE,31-10-2022,01-11-2023,No,Fair
+BIKE459,Traditional,Mercier,L,FALSE,07-04-2023,12-04-2024,No,Fair
+BIKE094,E-Bike,Mercier,S,TRUE,27-12-2022,20-01-2024,No,Out of Service
+BIKE173,Traditional,Mercier,L,TRUE,05-01-2023,24-10-2023,Yes,Needs Repair
+BIKE883,E-Bike,Mercier,L,TRUE,05-03-2023,14-02-2023,Yes,Good
+BIKE352,Traditional,Mercier,S,TRUE,04-04-2023,08-09-2023,Yes,Out of Service
+BIKE517,E-Bike,Mercier,S,FALSE,18-06-2023,04-07-2023,No,Good
+BIKE995,Traditional,Mercier,M,FALSE,15-02-2022,13-10-2023,No,Out of Service
+BIKE818,Traditional,Mercier,XL,TRUE,17-09-2022,09-02-2024,No,Needs Repair
+BIKE047,Traditional,Mercier,S,TRUE,29-09-2022,01-11-2023,No,Needs Repair
+BIKE422,Traditional,Mercier,M,TRUE,08-10-2022,10-06-2023,Yes,Fair
+BIKE118,Traditional,Mercier,L,TRUE,09-07-2023,23-07-2023,Yes,Refurbished
+BIKE780,Traditional,Mercier,S,FALSE,15-12-2022,27-03-2024,Yes,Out of Service
+BIKE933,E-Bike,Mercier,M,FALSE,22-02-2022,10-05-2024,Yes,Retired
+BIKE438,Traditional,Mercier,XL,TRUE,25-05-2022,10-05-2023,No,Needs Repair
+BIKE960,Traditional,Mercier,S,TRUE,20-06-2022,08-04-2024,No,Fair
+BIKE341,Traditional,Mercier,XL,TRUE,18-06-2022,25-02-2024,Yes,Good
+BIKE711,E-Bike,Mercier,XL,FALSE,30-12-2022,17-04-2024,No,New
+BIKE816,Traditional,Mercier,M,FALSE,24-01-2022,05-04-2023,Yes,Fair
+BIKE580,E-Bike,Mercier,S,FALSE,25-12-2022,14-04-2024,Yes,Refurbished
+BIKE305,Traditional,Mercier,L,FALSE,03-02-2022,27-11-2023,No,Needs Repair
+BIKE405,E-Bike,Mercier,L,TRUE,27-11-2022,11-01-2024,No,Fair
+BIKE008,E-Bike,Mercier,XL,FALSE,29-07-2023,16-04-2023,No,Good
+BIKE863,Traditional,Mercier,M,TRUE,24-04-2023,11-09-2023,Yes,Good
+BIKE036,E-Bike,Mercier,L,TRUE,02-07-2022,13-05-2023,Yes,Retired
+BIKE482,E-Bike,Mercier,XL,TRUE,13-07-2023,20-07-2023,No,Needs Repair
+BIKE813,Traditional,Mercier,XL,TRUE,31-12-2022,05-01-2024,Yes,Good
+BIKE848,E-Bike,Mercier,S,FALSE,03-04-2023,09-01-2023,No,Out of Service
+BIKE662,E-Bike,Mercier,S,FALSE,04-11-2022,23-10-2023,No,Refurbished
+BIKE407,Traditional,Mercier,S,TRUE,01-05-2022,13-04-2024,No,Needs Repair
+BIKE094,Traditional,Mercier,L,FALSE,24-02-2022,03-06-2023,No,Retired
+BIKE536,Traditional,Mercier,L,FALSE,21-02-2022,19-09-2023,No,Refurbished
+BIKE118,E-Bike,Mercier,S,TRUE,25-05-2022,04-01-2023,Yes,Out of Service
+BIKE355,Traditional,Mercier,S,TRUE,24-05-2023,03-10-2023,Yes,Fair
+BIKE220,E-Bike,Mercier,L,FALSE,30-03-2023,25-11-2023,No,Out of Service
+BIKE198,Traditional,Mercier,XL,FALSE,22-06-2022,07-02-2023,Yes,New
+BIKE652,E-Bike,Mercier,L,TRUE,03-05-2023,20-03-2023,No,Refurbished
+BIKE157,E-Bike,Mercier,S,FALSE,18-12-2021,14-11-2023,Yes,Out of Service
+BIKE661,Traditional,Mercier,L,TRUE,20-09-2022,12-02-2023,No,New
+BIKE104,Traditional,Mercier,S,FALSE,02-12-2021,27-05-2023,No,Refurbished
+BIKE489,E-Bike,Mercier,L,TRUE,14-08-2022,03-05-2023,No,Refurbished
+BIKE823,E-Bike,Mercier,L,TRUE,03-01-2023,12-11-2023,Yes,Retired
+BIKE441,E-Bike,Mercier,S,TRUE,24-12-2022,30-03-2024,Yes,Good
+BIKE626,Traditional,Mercier,M,FALSE,06-04-2023,07-03-2023,Yes,Retired
+BIKE700,E-Bike,Mercier,XL,TRUE,12-12-2022,31-08-2023,Yes,Retired
+BIKE971,Traditional,Mercier,M,FALSE,29-01-2023,05-02-2024,Yes,Retired
+BIKE965,Traditional,Mercier,M,FALSE,10-06-2022,04-08-2023,No,Out of Service
+BIKE119,E-Bike,Mercier,L,TRUE,02-01-2023,16-01-2023,No,New
+BIKE427,Traditional,Mercier,XL,FALSE,26-11-2022,08-05-2023,Yes,Out of Service
+BIKE602,Traditional,Mercier,XL,TRUE,12-09-2022,19-03-2024,No,Needs Repair
+BIKE946,E-Bike,Mercier,M,FALSE,20-07-2022,29-01-2023,No,Retired
+BIKE449,Traditional,Mercier,S,FALSE,27-04-2023,13-04-2024,No,Good
+BIKE528,E-Bike,Mercier,L,TRUE,15-12-2022,10-03-2024,No,Out of Service
+BIKE650,E-Bike,Mercier,L,FALSE,13-07-2023,20-01-2024,No,Refurbished
+BIKE942,Traditional,Mercier,L,TRUE,19-05-2022,21-07-2023,No,New
+BIKE657,Traditional,Mercier,XL,TRUE,09-07-2022,05-02-2023,No,Out of Service
+BIKE484,E-Bike,Mercier,S,TRUE,26-05-2022,23-04-2023,Yes,Fair
+BIKE395,E-Bike,Mercier,XL,FALSE,31-03-2023,20-02-2023,No,Needs Repair
+BIKE945,E-Bike,Mercier,S,FALSE,05-05-2023,02-10-2023,No,New
+BIKE401,Traditional,Mercier,M,FALSE,12-12-2022,19-04-2024,Yes,New
+BIKE998,Traditional,Mercier,M,TRUE,03-03-2022,27-02-2023,Yes,New
+BIKE892,E-Bike,Mercier,M,FALSE,08-01-2022,21-11-2023,Yes,New
+BIKE653,E-Bike,Mercier,S,TRUE,14-07-2022,07-03-2023,No,Retired
+BIKE225,E-Bike,Mercier,M,TRUE,21-02-2023,16-02-2023,Yes,Out of Service
+BIKE180,E-Bike,Mercier,XL,FALSE,15-12-2022,13-11-2023,No,Needs Repair
+BIKE164,Traditional,Mercier,L,FALSE,07-04-2022,25-02-2023,Yes,Needs Repair
+BIKE754,E-Bike,Mercier,L,FALSE,05-12-2022,01-12-2023,Yes,Refurbished
+BIKE216,E-Bike,Mercier,L,TRUE,09-06-2022,18-03-2023,Yes,New
+BIKE055,Traditional,Mercier,L,TRUE,06-07-2023,15-04-2024,Yes,Out of Service
+BIKE064,E-Bike,Mercier,XL,TRUE,08-02-2023,16-01-2024,Yes,Fair
+BIKE350,E-Bike,Mercier,L,FALSE,30-04-2022,03-02-2023,No,Needs Repair
+BIKE281,Traditional,Mercier,L,TRUE,06-05-2022,03-04-2023,Yes,Good
+BIKE382,E-Bike,Mercier,M,FALSE,01-01-2023,20-03-2023,No,Refurbished
+BIKE920,E-Bike,Mercier,S,TRUE,06-02-2022,09-03-2023,Yes,Out of Service
+BIKE643,Traditional,Mercier,M,TRUE,21-06-2022,03-10-2023,No,Out of Service
+BIKE641,Traditional,Mercier,XL,FALSE,15-06-2023,21-09-2023,No,Fair
+BIKE767,E-Bike,Mercier,L,FALSE,11-06-2022,11-11-2023,Yes,Fair
+BIKE044,E-Bike,Mercier,S,FALSE,11-03-2022,20-03-2023,Yes,Out of Service
+BIKE723,E-Bike,Mercier,L,FALSE,25-09-2022,27-03-2023,No,New
+BIKE795,E-Bike,Mercier,S,TRUE,17-05-2022,29-05-2023,Yes,Fair
+BIKE266,E-Bike,Mercier,L,TRUE,11-08-2022,21-02-2023,No,Retired
+BIKE675,Traditional,Mercier,S,FALSE,20-08-2022,14-06-2023,No,New
+BIKE015,Traditional,Mercier,M,TRUE,09-09-2022,24-10-2023,Yes,New
+BIKE183,Traditional,Mercier,L,TRUE,08-01-2023,12-06-2023,No,New
+BIKE262,E-Bike,Mercier,S,FALSE,11-12-2021,01-02-2023,No,Needs Repair
+BIKE650,Traditional,Mercier,M,TRUE,19-02-2022,27-11-2023,No,Good
+BIKE012,E-Bike,Mercier,M,FALSE,30-05-2022,04-06-2023,No,Refurbished
+BIKE067,E-Bike,Mercier,L,FALSE,18-09-2022,30-07-2023,No,Refurbished
+BIKE673,E-Bike,Mercier,XL,TRUE,03-05-2023,01-01-2024,Yes,Good
+BIKE110,E-Bike,Mercier,S,FALSE,27-09-2022,08-04-2024,Yes,Fair
+BIKE036,Traditional,Mercier,L,TRUE,27-04-2022,08-03-2024,No,New
+BIKE477,Traditional,Mercier,L,FALSE,14-05-2022,20-01-2024,No,Refurbished
+BIKE149,Traditional,Mercier,XL,FALSE,14-09-2022,21-10-2023,Yes,Fair
+BIKE806,Traditional,Mercier,L,FALSE,27-10-2022,04-03-2024,Yes,Fair
+BIKE898,Traditional,Mercier,L,TRUE,07-12-2022,16-03-2023,No,Needs Repair
+BIKE776,E-Bike,Mercier,L,TRUE,31-05-2023,13-04-2024,Yes,Out of Service
+BIKE896,E-Bike,Mercier,M,FALSE,03-03-2022,07-04-2023,No,Fair
+BIKE721,Traditional,Mercier,M,FALSE,07-04-2023,08-01-2023,No,New
+BIKE713,E-Bike,Mercier,L,FALSE,10-04-2022,03-09-2023,No,Retired
+BIKE765,Traditional,Mercier,XL,FALSE,28-12-2022,21-02-2024,Yes,New
+BIKE638,E-Bike,Mercier,S,TRUE,09-07-2022,04-07-2023,Yes,Needs Repair
+BIKE821,Traditional,Mercier,M,FALSE,05-12-2022,27-05-2023,No,Refurbished
+BIKE993,E-Bike,Mercier,M,FALSE,15-01-2022,15-07-2023,No,New
+BIKE665,Traditional,Mercier,XL,FALSE,06-10-2022,17-01-2023,Yes,Good
+BIKE800,E-Bike,Mercier,L,FALSE,28-08-2022,05-07-2023,No,Fair
+BIKE463,E-Bike,Mercier,XL,TRUE,11-01-2022,23-02-2024,No,Needs Repair
+BIKE660,E-Bike,Mercier,M,TRUE,11-05-2022,17-04-2024,No,Refurbished
+BIKE350,E-Bike,Mercier,M,FALSE,09-12-2021,18-05-2023,No,Retired
+BIKE678,Traditional,Mercier,M,TRUE,22-03-2022,15-06-2023,No,New
+BIKE263,Traditional,Mercier,M,TRUE,21-05-2023,21-04-2024,No,Good
+BIKE772,E-Bike,Mercier,XL,TRUE,21-01-2022,31-08-2023,Yes,Retired
+BIKE702,Traditional,Mercier,M,FALSE,09-03-2022,09-06-2023,No,Good
+BIKE957,E-Bike,Mercier,M,FALSE,25-02-2022,19-01-2023,Yes,Refurbished
+BIKE556,E-Bike,Mercier,S,TRUE,28-06-2022,27-03-2023,No,Refurbished
+BIKE246,Traditional,Mercier,S,FALSE,01-02-2023,02-06-2023,Yes,Retired
+BIKE088,Traditional,Mercier,M,FALSE,06-06-2022,17-10-2023,Yes,Retired
+BIKE173,E-Bike,Mercier,M,FALSE,07-01-2023,07-11-2023,Yes,Refurbished
+BIKE528,Traditional,Mercier,S,TRUE,06-06-2023,19-10-2023,Yes,Refurbished
+BIKE528,Traditional,Mercier,L,FALSE,15-05-2023,12-10-2023,No,New
+BIKE548,E-Bike,Mercier,XL,TRUE,21-12-2021,10-03-2024,No,Retired
+BIKE460,E-Bike,Mercier,XL,FALSE,01-01-2023,17-04-2024,Yes,Needs Repair
+BIKE870,E-Bike,Mercier,M,TRUE,15-10-2022,16-02-2023,No,Refurbished
+BIKE510,Traditional,Mercier,M,FALSE,09-02-2022,19-03-2024,Yes,Refurbished
+BIKE253,E-Bike,Mercier,S,TRUE,27-04-2023,21-04-2023,No,Out of Service
+BIKE441,Traditional,Mercier,S,FALSE,09-03-2023,28-04-2024,No,Out of Service
+BIKE393,E-Bike,Mercier,M,FALSE,25-08-2022,10-10-2023,No,Out of Service
+BIKE476,Traditional,Mercier,M,FALSE,02-04-2023,18-03-2024,Yes,Refurbished
+BIKE862,E-Bike,Mercier,L,FALSE,21-11-2022,05-02-2024,No,Fair
+BIKE590,Traditional,Mercier,XL,TRUE,25-03-2023,23-01-2024,No,Out of Service
+BIKE291,E-Bike,Mercier,M,TRUE,29-09-2022,24-02-2023,No,Refurbished
+BIKE045,E-Bike,Mercier,S,FALSE,03-06-2022,26-04-2023,Yes,Refurbished
+BIKE927,E-Bike,Mercier,S,FALSE,22-12-2021,04-01-2023,Yes,Retired
+BIKE686,Traditional,Mercier,XL,FALSE,20-05-2023,26-12-2023,Yes,New
+BIKE571,Traditional,Mercier,L,TRUE,17-04-2022,30-05-2023,No,Out of Service
+BIKE931,Traditional,Mercier,M,FALSE,01-02-2023,23-04-2024,Yes,Fair
+BIKE276,E-Bike,Mercier,XL,TRUE,12-06-2022,24-04-2024,No,Retired
+BIKE240,Traditional,Mercier,XL,TRUE,20-12-2022,18-06-2023,No,Good
+BIKE255,Traditional,Mercier,XL,TRUE,09-02-2023,19-04-2023,Yes,Out of Service
+BIKE498,E-Bike,Mercier,S,FALSE,30-12-2022,15-07-2023,Yes,Fair
+BIKE359,E-Bike,Mercier,L,FALSE,20-11-2022,03-12-2023,Yes,Needs Repair
+BIKE614,Traditional,Mercier,M,TRUE,15-01-2023,11-01-2023,No,Good
+BIKE731,Traditional,Mercier,L,TRUE,05-07-2023,05-10-2023,No,Fair
+BIKE322,E-Bike,Mercier,XL,FALSE,09-02-2023,01-03-2023,No,New
+BIKE176,Traditional,Mercier,M,FALSE,20-08-2022,03-04-2024,No,Fair
+BIKE676,E-Bike,Mercier,XL,FALSE,05-07-2023,26-10-2023,No,New
+BIKE629,E-Bike,Mercier,L,TRUE,24-02-2022,16-08-2023,No,Fair
+BIKE277,E-Bike,Mercier,L,FALSE,09-08-2022,18-04-2024,No,Retired
+BIKE338,Traditional,Mercier,S,FALSE,13-06-2022,12-09-2023,No,Needs Repair
+BIKE688,Traditional,Mercier,XL,TRUE,15-02-2022,22-01-2024,Yes,Fair
+BIKE399,E-Bike,Mercier,M,FALSE,14-05-2023,06-04-2024,No,Retired
+BIKE272,E-Bike,Mercier,XL,TRUE,24-03-2022,20-05-2023,No,New
+BIKE722,Traditional,Mercier,L,FALSE,08-02-2023,14-04-2023,No,New
+BIKE496,E-Bike,Mercier,S,FALSE,03-01-2023,04-05-2024,Yes,New
+BIKE742,Traditional,Mercier,L,FALSE,10-07-2023,26-09-2023,Yes,New
+BIKE037,E-Bike,Mercier,L,TRUE,10-08-2022,23-01-2023,Yes,Needs Repair
+BIKE521,Traditional,Mercier,L,FALSE,14-02-2023,06-03-2023,No,Out of Service
+BIKE599,Traditional,Mercier,XL,FALSE,15-08-2022,05-03-2023,No,Refurbished
+BIKE895,E-Bike,Mercier,M,TRUE,18-11-2022,01-08-2023,Yes,Retired
+BIKE863,Traditional,Mercier,S,TRUE,19-04-2023,23-02-2024,No,Retired
+BIKE223,Traditional,Mercier,S,FALSE,02-02-2022,21-09-2023,Yes,Out of Service
+BIKE999,E-Bike,Mercier,L,TRUE,29-12-2021,15-10-2023,No,Needs Repair
+BIKE634,E-Bike,Mercier,XL,TRUE,22-08-2022,09-06-2023,No,Needs Repair
+BIKE683,Traditional,Mercier,M,FALSE,24-01-2023,11-04-2024,No,Out of Service
+BIKE657,Traditional,Mercier,M,FALSE,14-10-2022,05-12-2023,Yes,Needs Repair
+BIKE710,Traditional,Mercier,L,TRUE,28-08-2022,23-02-2023,No,Retired
+BIKE024,Traditional,Mercier,S,TRUE,23-05-2023,13-10-2023,Yes,Needs Repair
+BIKE227,E-Bike,Mercier,M,TRUE,11-02-2022,16-06-2023,Yes,Good
+BIKE887,Traditional,Mercier,L,TRUE,15-06-2023,13-03-2023,No,Fair
+BIKE029,Traditional,Mercier,S,TRUE,08-03-2023,31-08-2023,No,New
+BIKE399,Traditional,Mercier,L,TRUE,01-01-2023,05-03-2023,No,Needs Repair
+BIKE209,E-Bike,Mercier,M,TRUE,15-05-2022,06-06-2023,No,Refurbished
+BIKE058,E-Bike,Mercier,S,TRUE,24-07-2023,26-03-2024,No,Refurbished
+BIKE246,Traditional,Mercier,L,FALSE,22-04-2023,27-03-2024,No,Out of Service
+BIKE449,Traditional,Mercier,XL,TRUE,05-12-2021,26-04-2023,No,Out of Service
+BIKE034,E-Bike,Mercier,L,TRUE,06-01-2022,24-10-2023,No,New
+BIKE673,Traditional,Mercier,L,FALSE,23-01-2022,21-12-2023,No,Good
+BIKE094,Traditional,Mercier,XL,FALSE,21-07-2022,09-08-2023,No,New
+BIKE155,E-Bike,Mercier,S,TRUE,26-05-2022,17-01-2023,No,Good
+BIKE981,Traditional,Mercier,L,TRUE,08-09-2022,03-10-2023,Yes,Fair
+BIKE374,E-Bike,Mercier,M,FALSE,20-06-2023,16-02-2024,Yes,Good
+BIKE002,E-Bike,Mercier,M,TRUE,13-02-2023,29-08-2023,No,New
+BIKE148,Traditional,Mercier,L,TRUE,01-01-2023,19-11-2023,Yes,Out of Service
+BIKE996,Traditional,Mercier,XL,FALSE,23-12-2022,22-01-2024,No,Refurbished
+BIKE615,Traditional,Mercier,S,TRUE,28-11-2022,05-04-2023,Yes,Fair
+BIKE284,E-Bike,Mercier,M,FALSE,20-03-2022,06-11-2023,Yes,Out of Service
+BIKE677,Traditional,Mercier,M,TRUE,13-08-2022,31-01-2023,No,New
+BIKE531,Traditional,Mercier,S,TRUE,22-10-2022,27-02-2024,No,Out of Service
+BIKE067,Traditional,Mercier,M,TRUE,18-03-2023,11-07-2023,No,Needs Repair
+BIKE105,Traditional,Mercier,L,FALSE,03-07-2022,01-11-2023,No,Out of Service
+BIKE943,E-Bike,Mercier,XL,TRUE,14-08-2022,29-02-2024,No,Fair
+BIKE466,Traditional,Mercier,S,FALSE,13-11-2022,12-03-2023,No,Good
+BIKE262,E-Bike,Mercier,S,FALSE,18-09-2022,18-01-2024,Yes,New
+BIKE948,E-Bike,Mercier,S,TRUE,16-09-2022,04-02-2023,Yes,Fair
+BIKE691,Traditional,Mercier,L,TRUE,13-07-2022,04-04-2024,No,Good
+BIKE744,Traditional,Mercier,L,TRUE,27-10-2022,19-04-2023,Yes,Refurbished
+BIKE143,Traditional,Mercier,XL,TRUE,12-03-2023,07-04-2024,Yes,Out of Service
+BIKE665,E-Bike,Mercier,M,FALSE,17-04-2022,14-09-2023,Yes,Retired
+BIKE714,E-Bike,Mercier,S,TRUE,10-03-2023,27-12-2023,No,Good
+BIKE846,E-Bike,Mercier,S,FALSE,21-05-2022,14-05-2023,Yes,Good
+BIKE439,E-Bike,Mercier,XL,FALSE,10-05-2023,14-12-2023,No,Needs Repair
+BIKE756,E-Bike,Mercier,M,TRUE,23-03-2022,31-08-2023,Yes,Fair
+BIKE919,E-Bike,Mercier,XL,TRUE,08-08-2022,16-02-2024,Yes,Fair
+BIKE363,E-Bike,Mercier,M,FALSE,03-11-2022,07-06-2023,No,Good
+BIKE305,Traditional,Mercier,XL,TRUE,02-06-2023,24-05-2023,No,Refurbished
+BIKE152,E-Bike,Mercier,XL,TRUE,22-07-2022,25-06-2023,No,New
+BIKE110,E-Bike,Mercier,M,FALSE,24-01-2022,30-05-2023,No,New
+BIKE352,E-Bike,Mercier,XL,TRUE,24-05-2022,18-03-2024,Yes,Refurbished
+BIKE760,Traditional,Mercier,XL,TRUE,29-03-2023,12-02-2024,Yes,Needs Repair
+BIKE762,Traditional,Mercier,M,TRUE,19-03-2022,27-04-2024,No,Refurbished
+BIKE030,E-Bike,Mercier,L,TRUE,22-02-2022,12-06-2023,No,Needs Repair
+BIKE267,Traditional,Mercier,XL,TRUE,25-12-2021,21-02-2023,No,Needs Repair
+BIKE372,Traditional,Mercier,XL,TRUE,06-04-2022,16-06-2023,Yes,Good
+BIKE086,Traditional,Mercier,XL,FALSE,10-03-2023,25-01-2024,Yes,Fair
+BIKE477,E-Bike,Mercier,M,TRUE,31-03-2022,30-01-2023,Yes,Out of Service
+BIKE050,Traditional,Mercier,S,TRUE,24-03-2023,05-03-2023,No,Refurbished
+BIKE723,Traditional,Mercier,M,FALSE,25-10-2022,13-12-2023,Yes,Fair
+BIKE641,Traditional,Mercier,M,TRUE,26-02-2023,03-02-2023,Yes,Retired
+BIKE171,Traditional,Mercier,S,FALSE,26-03-2023,19-01-2023,Yes,Good
+BIKE950,E-Bike,Mercier,S,FALSE,29-07-2022,18-09-2023,No,Refurbished
+BIKE153,E-Bike,Mercier,XL,TRUE,27-06-2022,08-01-2023,No,Retired
+BIKE032,Traditional,Mercier,M,TRUE,26-04-2022,12-10-2023,No,Good
+BIKE260,E-Bike,Mercier,L,TRUE,18-09-2022,04-07-2023,No,Good
+BIKE565,E-Bike,Mercier,M,TRUE,17-05-2023,14-10-2023,Yes,Retired
+BIKE178,E-Bike,Mercier,XL,FALSE,02-11-2022,24-02-2024,No,Needs Repair
+BIKE290,Traditional,Mercier,XL,FALSE,15-05-2023,15-02-2024,Yes,Retired
+BIKE842,E-Bike,Mercier,L,FALSE,07-03-2023,08-05-2024,Yes,Fair
+BIKE732,E-Bike,Mercier,M,FALSE,24-05-2022,17-08-2023,Yes,Good
+BIKE766,Traditional,Mercier,S,TRUE,03-04-2023,13-12-2023,No,Good
+BIKE126,Traditional,Mercier,M,FALSE,05-12-2022,30-06-2023,No,Fair
+BIKE882,Traditional,Mercier,XL,FALSE,11-07-2023,07-12-2023,Yes,Needs Repair
+BIKE135,Traditional,Mercier,L,FALSE,03-10-2022,25-03-2023,No,New
+BIKE426,Traditional,Mercier,L,FALSE,26-07-2022,16-01-2023,Yes,Fair
+BIKE240,E-Bike,Mercier,XL,TRUE,01-03-2022,09-03-2023,Yes,Fair
+BIKE231,E-Bike,Mercier,XL,TRUE,16-07-2023,22-01-2023,No,Fair
+BIKE906,E-Bike,Mercier,L,TRUE,09-04-2023,19-03-2023,No,Out of Service
+BIKE386,E-Bike,Mercier,M,TRUE,07-01-2023,09-04-2024,No,Retired
+BIKE768,E-Bike,Mercier,S,FALSE,07-10-2022,09-12-2023,Yes,Retired
+BIKE311,Traditional,Mercier,S,FALSE,05-06-2023,23-10-2023,No,Out of Service
+BIKE887,E-Bike,Mercier,M,TRUE,11-06-2023,01-02-2024,Yes,New
+BIKE481,Traditional,Mercier,XL,TRUE,17-07-2022,06-02-2023,No,Out of Service
+BIKE946,Traditional,Mercier,L,TRUE,02-01-2023,22-05-2023,Yes,Refurbished
+BIKE295,Traditional,Mercier,M,FALSE,28-07-2023,22-01-2024,No,Retired
+BIKE629,E-Bike,Mercier,XL,FALSE,28-07-2022,05-02-2023,No,Retired
+BIKE769,Traditional,Mercier,L,TRUE,17-09-2022,12-07-2023,Yes,Needs Repair
+BIKE837,Traditional,Mercier,M,TRUE,08-03-2023,27-07-2023,Yes,New
+BIKE270,E-Bike,Mercier,M,FALSE,10-12-2022,12-03-2024,No,New
+BIKE684,E-Bike,Mercier,L,FALSE,12-12-2021,07-10-2023,Yes,New
+BIKE398,Traditional,Mercier,L,FALSE,04-10-2022,03-12-2023,Yes,Out of Service
+BIKE306,E-Bike,Mercier,L,TRUE,25-02-2022,27-03-2023,Yes,Refurbished
+BIKE695,E-Bike,Mercier,L,TRUE,13-06-2022,08-03-2023,No,New
+BIKE880,E-Bike,Mercier,XL,FALSE,24-03-2023,22-04-2023,No,Out of Service
+BIKE119,E-Bike,Mercier,XL,TRUE,11-06-2023,29-11-2023,Yes,New
+BIKE511,E-Bike,Mercier,M,TRUE,16-07-2023,04-08-2023,No,Out of Service
+BIKE597,E-Bike,Mercier,XL,FALSE,02-02-2022,18-05-2023,No,Needs Repair
+BIKE123,Traditional,Mercier,L,FALSE,30-05-2023,16-08-2023,No,Fair
+BIKE032,Traditional,Mercier,L,FALSE,18-02-2022,03-11-2023,No,Out of Service
+BIKE864,Traditional,Mercier,XL,FALSE,27-02-2023,11-07-2023,No,New
+BIKE071,E-Bike,Mercier,XL,TRUE,14-09-2022,09-07-2023,Yes,New
+BIKE096,Traditional,Mercier,L,FALSE,01-05-2022,14-06-2023,No,Needs Repair
+BIKE887,E-Bike,Mercier,L,TRUE,27-10-2022,07-02-2024,No,Fair
+BIKE243,Traditional,Mercier,XL,TRUE,12-09-2022,08-06-2023,Yes,Good
+BIKE380,E-Bike,Mercier,L,FALSE,29-04-2022,02-09-2023,No,Retired
+BIKE412,E-Bike,Mercier,L,FALSE,05-05-2022,13-02-2024,No,Refurbished
+BIKE992,E-Bike,Mercier,L,FALSE,15-12-2022,24-02-2024,Yes,Retired
+BIKE014,Traditional,Mercier,M,TRUE,21-02-2022,01-04-2023,Yes,Out of Service
+BIKE637,E-Bike,Mercier,L,TRUE,21-09-2022,27-03-2023,No,Retired
+BIKE275,Traditional,Mercier,L,FALSE,05-02-2022,04-06-2023,No,New
+BIKE321,E-Bike,Mercier,M,TRUE,25-01-2022,14-04-2023,No,Out of Service
+BIKE080,Traditional,Mercier,XL,TRUE,09-01-2023,29-10-2023,No,Out of Service
+BIKE628,Traditional,Mercier,XL,FALSE,21-02-2022,05-06-2023,No,Fair
+BIKE666,Traditional,Mercier,XL,TRUE,08-12-2021,03-02-2023,Yes,Refurbished
+BIKE096,Traditional,Mercier,XL,FALSE,22-06-2022,15-02-2024,No,Fair
+BIKE440,Traditional,Mercier,XL,FALSE,19-11-2022,20-03-2024,No,Refurbished
+BIKE974,Traditional,Mercier,XL,FALSE,25-05-2022,13-10-2023,Yes,Refurbished
+BIKE021,Traditional,Mercier,XL,TRUE,07-06-2022,20-05-2023,No,Good
+BIKE016,Traditional,Mercier,XL,FALSE,16-06-2023,11-11-2023,No,Retired
+BIKE296,E-Bike,Mercier,S,TRUE,22-07-2022,04-04-2023,No,Retired
+BIKE147,Traditional,Mercier,L,TRUE,04-10-2022,04-01-2023,No,Refurbished
+BIKE822,Traditional,Mercier,XL,TRUE,17-04-2023,31-01-2024,No,Out of Service
+BIKE179,Traditional,Mercier,XL,FALSE,09-11-2022,05-11-2023,No,Out of Service
+BIKE615,Traditional,Mercier,S,FALSE,28-11-2022,30-01-2024,Yes,Needs Repair
+BIKE413,Traditional,Mercier,M,FALSE,11-04-2022,03-06-2023,Yes,Retired
+BIKE158,E-Bike,Mercier,M,TRUE,25-02-2022,20-11-2023,No,Fair
+BIKE216,Traditional,Mercier,L,FALSE,24-12-2022,24-12-2023,Yes,Needs Repair
+BIKE823,Traditional,Mercier,M,FALSE,21-01-2023,16-10-2023,No,Retired
+BIKE148,Traditional,Mercier,XL,FALSE,06-06-2023,01-05-2024,Yes,Retired
+BIKE089,Traditional,Mercier,M,TRUE,26-12-2022,23-07-2023,Yes,Out of Service
+BIKE301,E-Bike,Mercier,L,FALSE,21-06-2022,17-08-2023,Yes,New
+BIKE828,E-Bike,Mercier,XL,TRUE,18-07-2022,14-05-2023,No,Needs Repair
+BIKE523,E-Bike,Mercier,L,FALSE,11-02-2022,12-05-2023,Yes,Refurbished
+BIKE326,Traditional,Mercier,M,FALSE,26-09-2022,19-04-2024,Yes,Out of Service
+BIKE744,E-Bike,Mercier,XL,FALSE,07-12-2021,16-02-2024,No,Fair
+BIKE831,E-Bike,Mercier,S,FALSE,31-08-2022,02-10-2023,No,New
+BIKE326,E-Bike,Mercier,M,TRUE,11-12-2021,01-04-2024,Yes,Refurbished
+BIKE503,Traditional,Mercier,S,FALSE,12-02-2022,03-05-2023,No,Good
+BIKE851,Traditional,Mercier,XL,TRUE,02-03-2023,06-01-2024,No,New
+BIKE081,Traditional,Mercier,M,FALSE,22-10-2022,03-03-2023,Yes,Refurbished
+BIKE452,E-Bike,Mercier,M,FALSE,26-05-2022,05-05-2023,Yes,Fair
+BIKE480,Traditional,Mercier,L,TRUE,23-04-2022,08-02-2023,No,Good
+BIKE553,E-Bike,Mercier,M,FALSE,11-08-2022,04-02-2024,No,Good
+BIKE661,Traditional,Mercier,S,FALSE,04-05-2022,04-01-2023,Yes,Refurbished
+BIKE566,E-Bike,Mercier,M,FALSE,19-12-2021,29-10-2023,No,New
+BIKE496,E-Bike,Mercier,L,TRUE,05-01-2022,05-01-2024,Yes,Fair
+BIKE790,E-Bike,Mercier,XL,FALSE,28-04-2023,02-11-2023,No,Retired
+BIKE043,Traditional,Mercier,XL,TRUE,26-08-2022,02-04-2023,No,Retired
+BIKE465,E-Bike,Mercier,L,TRUE,22-07-2022,06-02-2023,Yes,Good
+BIKE009,Traditional,Mercier,S,FALSE,22-02-2022,09-10-2023,No,Retired
+BIKE474,Traditional,Mercier,M,FALSE,22-06-2022,10-04-2023,Yes,Refurbished
+BIKE043,E-Bike,Mercier,XL,FALSE,08-04-2022,29-01-2024,No,Fair
+BIKE906,Traditional,Mercier,L,FALSE,04-11-2022,01-08-2023,Yes,Retired
+BIKE744,E-Bike,Mercier,M,FALSE,08-05-2022,12-04-2023,Yes,New
+BIKE430,Traditional,Mercier,XL,FALSE,18-11-2022,10-03-2024,No,Retired
+BIKE190,E-Bike,Mercier,XL,FALSE,15-02-2023,06-01-2023,Yes,Retired
+BIKE975,E-Bike,Mercier,XL,TRUE,30-01-2022,20-04-2023,Yes,Good
+BIKE335,Traditional,Mercier,S,FALSE,27-03-2022,01-05-2023,No,Retired
+BIKE044,Traditional,Mercier,M,FALSE,28-03-2023,12-06-2023,Yes,Fair
+BIKE343,E-Bike,Mercier,S,TRUE,29-10-2022,11-10-2023,No,Out of Service
+BIKE696,E-Bike,Mercier,L,TRUE,03-03-2023,07-02-2024,Yes,Needs Repair
+BIKE393,Traditional,Mercier,S,FALSE,02-12-2021,06-02-2024,Yes,Needs Repair
+BIKE111,E-Bike,Mercier,L,FALSE,18-02-2022,08-03-2023,Yes,Refurbished
+BIKE463,E-Bike,Mercier,S,FALSE,14-01-2023,05-09-2023,Yes,Refurbished
+BIKE623,E-Bike,Mercier,M,FALSE,11-08-2022,12-05-2023,Yes,Fair
+BIKE919,E-Bike,Mercier,M,FALSE,23-11-2022,31-05-2023,No,Refurbished
+BIKE585,E-Bike,Mercier,L,TRUE,08-01-2022,24-01-2024,Yes,New
+BIKE554,E-Bike,Mercier,M,FALSE,06-05-2023,26-07-2023,Yes,Retired
+BIKE022,E-Bike,Mercier,S,FALSE,08-05-2022,18-03-2024,No,Fair
+BIKE993,E-Bike,Mercier,S,TRUE,03-07-2023,19-02-2024,No,Good
+BIKE309,E-Bike,Mercier,XL,TRUE,15-07-2022,24-10-2023,Yes,Retired
+BIKE344,E-Bike,Mercier,L,TRUE,08-04-2023,20-04-2023,No,Fair
+BIKE646,E-Bike,Mercier,L,TRUE,07-10-2022,26-03-2023,No,Fair
+BIKE604,E-Bike,Mercier,M,TRUE,15-05-2022,22-03-2024,Yes,Out of Service
+BIKE309,E-Bike,Mercier,S,TRUE,09-04-2023,28-06-2023,Yes,Retired
+BIKE386,Traditional,Mercier,L,TRUE,15-01-2023,31-03-2024,Yes,Fair
+BIKE773,E-Bike,Mercier,L,FALSE,10-09-2022,08-03-2023,No,Fair
+BIKE979,Traditional,Mercier,M,TRUE,13-04-2022,22-11-2023,No,Refurbished
+BIKE180,Traditional,Mercier,S,TRUE,20-08-2022,04-04-2023,No,Retired
+BIKE898,E-Bike,Mercier,S,FALSE,05-10-2022,27-11-2023,Yes,New
+BIKE934,Traditional,Mercier,M,FALSE,21-07-2023,03-05-2023,Yes,Retired
+BIKE607,Traditional,Mercier,L,FALSE,07-09-2022,20-04-2024,Yes,Needs Repair
+BIKE608,Traditional,Mercier,L,FALSE,28-02-2022,16-01-2023,No,Fair
+BIKE154,E-Bike,Mercier,XL,FALSE,06-04-2022,21-07-2023,No,Fair
+BIKE097,Traditional,Mercier,L,FALSE,09-12-2021,23-09-2023,Yes,New
+BIKE127,Traditional,Mercier,XL,FALSE,21-03-2022,03-02-2024,Yes,Needs Repair
+BIKE466,Traditional,Mercier,S,TRUE,16-12-2021,29-02-2024,No,Refurbished
+BIKE072,Traditional,Mercier,XL,FALSE,30-09-2022,12-01-2023,No,Out of Service
+BIKE424,Traditional,Mercier,XL,FALSE,03-12-2022,22-07-2023,No,Good
+BIKE386,E-Bike,Mercier,M,FALSE,15-10-2022,29-04-2024,No,Retired
+BIKE338,Traditional,Mercier,XL,TRUE,07-05-2023,10-01-2024,Yes,Good
+BIKE116,Traditional,Mercier,S,FALSE,09-12-2022,09-02-2024,No,Good
+BIKE914,Traditional,Mercier,M,TRUE,07-09-2022,04-02-2023,Yes,Refurbished
+BIKE947,E-Bike,Mercier,XL,TRUE,19-05-2022,25-06-2023,No,New
+BIKE005,Traditional,Mercier,L,FALSE,07-06-2022,03-08-2023,Yes,Needs Repair
+BIKE394,Traditional,Mercier,L,FALSE,12-12-2021,26-02-2023,Yes,Refurbished
+BIKE724,E-Bike,Mercier,S,FALSE,25-11-2022,20-09-2023,Yes,New
+BIKE422,E-Bike,Mercier,M,TRUE,10-09-2022,25-12-2023,Yes,Refurbished
+BIKE456,Traditional,Mercier,L,TRUE,31-08-2022,09-03-2024,Yes,Good
+BIKE780,E-Bike,Mercier,M,TRUE,16-03-2023,02-02-2023,No,Refurbished
+BIKE186,Traditional,Mercier,XL,TRUE,29-06-2023,29-09-2023,Yes,Needs Repair
+BIKE092,E-Bike,Mercier,M,TRUE,22-12-2022,05-03-2023,Yes,Refurbished
+BIKE902,E-Bike,Mercier,S,FALSE,13-07-2022,15-05-2023,No,New
+BIKE222,E-Bike,Mercier,XL,TRUE,10-06-2022,30-09-2023,No,Needs Repair
+BIKE713,E-Bike,Mercier,S,FALSE,13-04-2022,25-05-2023,No,Needs Repair
+BIKE809,Traditional,Mercier,S,FALSE,25-07-2023,24-02-2023,No,Out of Service
+BIKE567,E-Bike,Mercier,XL,FALSE,12-01-2022,02-04-2023,Yes,Fair
+BIKE470,E-Bike,Mercier,L,TRUE,11-04-2023,12-09-2023,No,Fair
+BIKE829,E-Bike,Mercier,S,TRUE,24-04-2023,05-04-2024,No,Refurbished
+BIKE213,Traditional,Mercier,L,FALSE,15-05-2023,09-01-2023,Yes,New
+BIKE053,E-Bike,Mercier,M,FALSE,22-07-2022,24-08-2023,No,Out of Service
+BIKE001,E-Bike,Mercier,S,FALSE,18-12-2022,16-09-2023,No,New
+BIKE010,E-Bike,Mercier,M,FALSE,28-06-2023,28-01-2024,Yes,Retired
+BIKE022,E-Bike,Mercier,S,TRUE,09-06-2023,16-04-2023,No,Out of Service
+BIKE407,E-Bike,Mercier,M,FALSE,23-03-2022,20-08-2023,Yes,New
+BIKE625,E-Bike,Mercier,XL,TRUE,28-02-2022,12-02-2024,No,Retired
+BIKE011,E-Bike,Mercier,S,FALSE,16-07-2023,11-05-2023,No,Fair
+BIKE506,Traditional,Mercier,S,TRUE,12-12-2022,08-06-2023,Yes,Good
+BIKE490,E-Bike,Mercier,XL,FALSE,18-02-2023,10-08-2023,No,Refurbished
+BIKE940,Traditional,Mercier,S,FALSE,01-02-2022,26-07-2023,Yes,Retired
+BIKE764,E-Bike,Mercier,XL,TRUE,15-01-2022,13-05-2023,Yes,Out of Service
+BIKE638,E-Bike,Mercier,L,TRUE,29-07-2022,05-01-2024,No,New
+BIKE364,E-Bike,Mercier,XL,FALSE,03-12-2022,25-08-2023,No,Out of Service
+BIKE086,E-Bike,Mercier,L,TRUE,10-03-2022,22-08-2023,Yes,Fair
+BIKE849,E-Bike,Mercier,XL,TRUE,21-12-2022,03-04-2024,Yes,Needs Repair
+BIKE152,E-Bike,Mercier,XL,TRUE,19-12-2021,30-10-2023,Yes,Needs Repair
+BIKE644,Traditional,Mercier,L,TRUE,07-04-2022,20-08-2023,Yes,Needs Repair
+BIKE017,E-Bike,Mercier,S,FALSE,17-05-2022,03-04-2023,Yes,Retired
+BIKE191,Traditional,Mercier,S,TRUE,30-04-2022,06-05-2024,No,Out of Service
+BIKE402,Traditional,Mercier,M,FALSE,02-04-2023,27-09-2023,No,Refurbished
+BIKE248,E-Bike,Mercier,XL,FALSE,06-05-2023,14-04-2024,Yes,Refurbished
+BIKE981,Traditional,Mercier,S,FALSE,07-12-2022,29-03-2024,Yes,New
+BIKE860,Traditional,Mercier,XL,FALSE,04-01-2022,20-09-2023,Yes,Needs Repair
+BIKE196,E-Bike,Mercier,S,FALSE,16-02-2022,29-08-2023,No,Needs Repair
+BIKE609,E-Bike,Mercier,XL,TRUE,17-04-2023,28-06-2023,No,Out of Service
+BIKE269,Traditional,Mercier,M,FALSE,23-07-2023,21-09-2023,No,Out of Service
+BIKE575,Traditional,Mercier,S,TRUE,13-02-2022,21-01-2023,Yes,Needs Repair
+BIKE296,Traditional,Mercier,S,TRUE,16-09-2022,15-03-2024,Yes,New
+BIKE410,Traditional,Mercier,M,FALSE,15-08-2022,01-03-2023,Yes,Refurbished
+BIKE511,Traditional,Mercier,L,FALSE,22-04-2022,02-01-2023,No,Retired
+BIKE513,Traditional,Mercier,S,FALSE,17-07-2023,30-12-2023,Yes,Out of Service
+BIKE986,E-Bike,Mercier,M,FALSE,23-05-2023,22-10-2023,No,Good
+BIKE767,E-Bike,Mercier,XL,FALSE,07-01-2023,01-01-2024,Yes,Retired
+BIKE908,E-Bike,Mercier,S,FALSE,29-03-2022,06-08-2023,Yes,Good
+BIKE678,E-Bike,Mercier,L,TRUE,04-12-2021,07-01-2023,Yes,Out of Service
+BIKE624,E-Bike,Mercier,L,TRUE,19-10-2022,02-02-2023,No,Out of Service
+BIKE986,E-Bike,Mercier,M,TRUE,24-05-2023,28-09-2023,Yes,Needs Repair
+BIKE985,E-Bike,Mercier,XL,TRUE,28-09-2022,31-03-2024,Yes,Out of Service
+BIKE917,Traditional,Mercier,L,TRUE,04-09-2022,07-01-2023,No,Needs Repair
+BIKE404,Traditional,Mercier,XL,FALSE,30-04-2023,16-01-2024,No,Refurbished
+BIKE856,Traditional,Mercier,XL,FALSE,08-12-2021,28-03-2023,Yes,Out of Service
+BIKE790,Traditional,Mercier,M,TRUE,15-07-2023,05-03-2023,Yes,Retired
+BIKE194,E-Bike,Mercier,XL,TRUE,25-10-2022,30-04-2023,No,Fair
+BIKE678,Traditional,Mercier,L,TRUE,21-06-2023,07-03-2024,No,Retired
+BIKE752,E-Bike,Mercier,S,TRUE,25-01-2023,16-11-2023,No,Needs Repair
+BIKE964,E-Bike,Mercier,S,FALSE,18-03-2022,08-01-2024,No,Fair
+BIKE547,Traditional,Mercier,XL,FALSE,27-12-2022,23-11-2023,Yes,Retired
+BIKE886,Traditional,Mercier,XL,FALSE,18-06-2022,02-05-2024,No,Out of Service
+BIKE927,Traditional,Mercier,S,TRUE,27-12-2022,04-05-2023,No,Out of Service
+BIKE682,E-Bike,Mercier,L,TRUE,14-12-2022,23-03-2024,Yes,Retired
+BIKE186,E-Bike,Mercier,M,TRUE,06-05-2022,24-01-2023,No,Fair
+BIKE514,Traditional,Mercier,L,TRUE,05-01-2022,01-02-2023,No,Retired
+BIKE424,Traditional,Mercier,XL,TRUE,31-03-2022,22-01-2023,Yes,New
+BIKE086,Traditional,Mercier,L,FALSE,15-01-2022,25-09-2023,No,Good
+BIKE584,Traditional,Mercier,M,FALSE,13-04-2022,20-04-2024,No,Needs Repair
+BIKE478,E-Bike,Mercier,M,TRUE,12-01-2023,06-09-2023,Yes,Good
+BIKE808,E-Bike,Mercier,L,TRUE,07-11-2022,07-03-2023,No,Out of Service
+BIKE274,Traditional,Mercier,M,TRUE,10-04-2022,03-07-2023,Yes,Out of Service
+BIKE576,Traditional,Mercier,L,FALSE,03-02-2022,30-07-2023,No,Needs Repair
+BIKE226,E-Bike,Mercier,S,FALSE,05-09-2022,24-01-2024,Yes,Needs Repair
+BIKE572,Traditional,Mercier,XL,TRUE,13-03-2022,09-05-2023,Yes,New
+BIKE050,E-Bike,Mercier,M,TRUE,06-03-2023,30-10-2023,Yes,Out of Service
+BIKE137,Traditional,Mercier,M,FALSE,20-02-2022,25-10-2023,Yes,New
+BIKE445,Traditional,Mercier,L,FALSE,29-01-2023,19-07-2023,Yes,New
+BIKE042,E-Bike,Mercier,XL,TRUE,27-02-2023,19-02-2024,Yes,New
+BIKE952,E-Bike,Mercier,S,FALSE,02-11-2022,07-07-2023,No,Good
+BIKE251,Traditional,Mercier,M,FALSE,24-05-2022,14-10-2023,No,Out of Service
+BIKE065,Traditional,Mercier,L,TRUE,09-06-2023,16-07-2023,Yes,Needs Repair
+BIKE794,E-Bike,Mercier,M,TRUE,03-02-2022,14-05-2023,No,Out of Service
+BIKE132,E-Bike,Mercier,L,FALSE,17-07-2022,12-04-2023,No,Fair
+BIKE329,Traditional,Mercier,S,FALSE,07-06-2023,06-03-2023,No,New
+BIKE601,Traditional,Mercier,M,TRUE,02-02-2022,04-05-2023,No,Good
+BIKE841,Traditional,Mercier,S,TRUE,23-05-2023,16-03-2024,Yes,New
+BIKE313,E-Bike,Mercier,L,FALSE,19-09-2022,23-03-2023,No,Fair
+BIKE621,Traditional,Mercier,M,FALSE,17-12-2021,19-03-2023,Yes,Refurbished
+BIKE525,E-Bike,Mercier,L,FALSE,11-09-2022,09-10-2023,No,Retired
+BIKE525,Traditional,Mercier,S,TRUE,19-07-2023,29-04-2023,No,Refurbished
+BIKE685,Traditional,Mercier,XL,FALSE,28-11-2022,24-07-2023,No,New
+BIKE296,E-Bike,Mercier,M,FALSE,18-06-2023,02-04-2023,Yes,Fair
+BIKE688,Traditional,Mercier,XL,FALSE,26-03-2023,09-06-2023,No,Fair
+BIKE344,Traditional,Mercier,M,FALSE,17-05-2022,02-05-2023,Yes,Fair
+BIKE996,Traditional,Mercier,L,TRUE,17-03-2022,12-06-2023,Yes,Good
+BIKE385,E-Bike,Mercier,M,TRUE,20-08-2022,18-04-2023,No,Good
+BIKE177,E-Bike,Mercier,S,FALSE,31-05-2023,25-02-2024,No,Needs Repair
+BIKE097,Traditional,Mercier,XL,FALSE,10-10-2022,08-08-2023,No,New
+BIKE354,Traditional,Mercier,M,FALSE,20-06-2022,23-06-2023,Yes,Needs Repair
+BIKE615,Traditional,Mercier,L,FALSE,01-12-2021,01-05-2024,Yes,Refurbished
+BIKE124,E-Bike,Mercier,XL,TRUE,03-06-2022,12-06-2023,Yes,Good
+BIKE540,E-Bike,Mercier,L,TRUE,26-05-2022,06-06-2023,No,Good
+BIKE593,E-Bike,Mercier,XL,FALSE,08-04-2023,18-01-2023,No,Fair
+BIKE859,Traditional,Mercier,L,FALSE,03-08-2022,07-11-2023,No,New
+BIKE713,E-Bike,Mercier,XL,FALSE,22-02-2023,29-08-2023,No,Refurbished
+BIKE959,E-Bike,Mercier,L,FALSE,19-11-2022,02-07-2023,No,Retired
+BIKE032,Traditional,Mercier,S,FALSE,22-11-2022,26-03-2023,Yes,Refurbished
+BIKE963,Traditional,Mercier,L,TRUE,06-02-2023,02-12-2023,Yes,Fair
+BIKE281,Traditional,Mercier,XL,TRUE,16-12-2022,28-09-2023,No,Good
+BIKE403,E-Bike,Mercier,S,FALSE,27-01-2022,13-01-2023,No,New
+BIKE556,E-Bike,Mercier,XL,FALSE,12-06-2022,21-04-2023,Yes,Good
+BIKE483,Traditional,Mercier,S,TRUE,08-01-2023,31-03-2024,Yes,New
+BIKE552,Traditional,Mercier,L,FALSE,13-10-2022,08-04-2023,Yes,Needs Repair
+BIKE208,Traditional,Mercier,M,FALSE,27-07-2023,23-10-2023,Yes,Refurbished
+BIKE125,Traditional,Mercier,L,TRUE,25-03-2023,22-07-2023,Yes,Out of Service
+BIKE448,Traditional,Mercier,S,FALSE,24-05-2023,21-01-2023,Yes,Needs Repair
+BIKE161,E-Bike,Mercier,M,TRUE,01-01-2023,26-05-2023,No,New
+BIKE490,E-Bike,Mercier,S,TRUE,13-04-2022,23-07-2023,Yes,Retired
+BIKE680,E-Bike,Mercier,XL,FALSE,20-06-2023,15-02-2023,Yes,Fair
+BIKE894,E-Bike,Mercier,S,TRUE,15-08-2022,20-07-2023,No,Retired
+BIKE105,E-Bike,Mercier,XL,FALSE,01-02-2022,08-04-2023,No,Needs Repair
+BIKE148,Traditional,Mercier,L,TRUE,04-12-2021,01-05-2023,No,New
+BIKE334,E-Bike,Mercier,S,TRUE,14-06-2022,08-07-2023,No,Retired
+BIKE871,Traditional,Mercier,L,FALSE,02-04-2023,28-02-2024,No,Retired
+BIKE089,E-Bike,Mercier,XL,TRUE,16-03-2022,11-11-2023,Yes,Out of Service
+BIKE820,E-Bike,Mercier,S,TRUE,31-03-2023,15-06-2023,No,Refurbished
+BIKE945,E-Bike,Mercier,M,TRUE,25-12-2022,30-01-2024,Yes,Good
+BIKE069,E-Bike,Mercier,L,TRUE,13-07-2022,13-03-2023,No,New
+BIKE144,Traditional,Mercier,S,TRUE,24-07-2023,21-10-2023,No,Good
+BIKE636,Traditional,Mercier,L,FALSE,14-11-2022,20-07-2023,Yes,Needs Repair
+BIKE222,E-Bike,Mercier,L,FALSE,09-04-2023,05-02-2023,No,New
+BIKE305,Traditional,Mercier,L,TRUE,12-05-2023,29-01-2024,Yes,Out of Service
+BIKE514,Traditional,Mercier,S,TRUE,08-10-2022,23-10-2023,Yes,Out of Service
+BIKE194,E-Bike,Mercier,S,TRUE,25-07-2023,04-05-2023,No,Good
+BIKE409,E-Bike,Mercier,XL,TRUE,03-02-2022,08-08-2023,No,Out of Service
+BIKE389,Traditional,Mercier,XL,FALSE,24-04-2023,20-05-2023,Yes,Refurbished
+BIKE020,E-Bike,Mercier,XL,TRUE,15-06-2023,31-01-2024,Yes,Out of Service
+BIKE193,Traditional,Mercier,M,TRUE,31-03-2023,03-09-2023,Yes,Refurbished
+BIKE169,E-Bike,Mercier,XL,FALSE,10-01-2022,10-12-2023,No,Fair
+BIKE148,Traditional,Mercier,M,FALSE,03-12-2021,26-06-2023,Yes,Good
+BIKE287,E-Bike,Mercier,L,FALSE,24-08-2022,14-02-2024,Yes,Needs Repair
+BIKE616,Traditional,Mercier,M,FALSE,13-07-2023,31-10-2023,No,Needs Repair
+BIKE592,Traditional,Mercier,M,TRUE,26-02-2022,13-06-2023,Yes,Fair
+BIKE377,Traditional,Mercier,XL,TRUE,30-04-2023,31-03-2024,No,Retired
+BIKE881,Traditional,Mercier,XL,TRUE,08-06-2023,09-09-2023,No,Good
+BIKE022,Traditional,Mercier,M,TRUE,12-12-2021,17-04-2023,No,Out of Service
+BIKE850,E-Bike,Mercier,XL,FALSE,17-12-2022,20-04-2024,Yes,Needs Repair
+BIKE646,E-Bike,Mercier,L,TRUE,06-01-2023,03-01-2023,No,Fair
+BIKE007,Traditional,Mercier,L,FALSE,14-07-2022,06-02-2024,Yes,Out of Service
+BIKE633,Traditional,Mercier,M,TRUE,24-04-2023,14-02-2024,No,Out of Service
+BIKE854,E-Bike,Mercier,M,FALSE,15-10-2022,24-11-2023,No,Retired
+BIKE414,E-Bike,Mercier,M,FALSE,05-02-2023,15-07-2023,Yes,Out of Service
+BIKE731,E-Bike,Mercier,M,FALSE,19-03-2022,14-02-2023,No,Retired
+BIKE820,Traditional,Mercier,M,TRUE,10-04-2023,03-06-2023,Yes,Fair
+BIKE540,E-Bike,Mercier,S,FALSE,24-02-2022,09-12-2023,Yes,Needs Repair
+BIKE095,E-Bike,Mercier,S,TRUE,11-10-2022,23-01-2023,No,Refurbished
+BIKE072,Traditional,Mercier,M,TRUE,10-08-2022,05-04-2023,Yes,New
+BIKE906,Traditional,Mercier,S,FALSE,08-04-2023,28-06-2023,Yes,New
+BIKE568,E-Bike,Mercier,S,FALSE,11-12-2021,04-08-2023,Yes,Refurbished
+BIKE104,Traditional,Mercier,XL,FALSE,01-12-2022,04-03-2023,No,Needs Repair
+BIKE528,E-Bike,Mercier,M,TRUE,27-03-2023,16-11-2023,Yes,Needs Repair
+BIKE259,E-Bike,Mercier,L,FALSE,02-03-2022,23-01-2024,Yes,New
+BIKE525,E-Bike,Mercier,M,TRUE,24-02-2023,13-08-2023,No,New
+BIKE287,Traditional,Mercier,L,FALSE,10-04-2023,26-10-2023,No,New
+BIKE699,E-Bike,Mercier,XL,TRUE,04-10-2022,29-01-2023,Yes,New
+BIKE143,E-Bike,Mercier,M,FALSE,06-02-2022,15-01-2023,Yes,Good
+BIKE275,Traditional,Mercier,S,TRUE,06-11-2022,26-02-2023,Yes,Fair
+BIKE572,E-Bike,Mercier,M,FALSE,05-06-2022,17-08-2023,Yes,Out of Service
+BIKE732,Traditional,Mercier,M,TRUE,24-06-2023,17-07-2023,No,Out of Service
+BIKE014,Traditional,Mercier,S,FALSE,05-05-2022,04-05-2023,Yes,Refurbished
+BIKE538,E-Bike,Mercier,M,TRUE,25-05-2023,09-02-2024,No,Good
+BIKE611,Traditional,Mercier,XL,TRUE,09-08-2022,28-06-2023,No,Out of Service
+BIKE832,E-Bike,Mercier,L,FALSE,07-05-2023,16-05-2023,Yes,New
+BIKE886,E-Bike,Mercier,L,FALSE,16-12-2022,09-06-2023,No,Refurbished
+BIKE074,E-Bike,Mercier,XL,FALSE,08-01-2023,04-06-2023,No,Out of Service
+BIKE103,Traditional,Mercier,S,TRUE,19-07-2022,04-02-2024,No,Retired
+BIKE349,E-Bike,Mercier,L,TRUE,13-04-2023,10-12-2023,No,Fair
+BIKE864,Traditional,Mercier,XL,TRUE,21-10-2022,02-12-2023,Yes,New
+BIKE714,Traditional,Mercier,M,FALSE,20-03-2022,29-05-2023,No,Retired
+BIKE230,E-Bike,Mercier,XL,FALSE,14-06-2022,01-04-2024,No,Needs Repair
+BIKE481,Traditional,Mercier,XL,FALSE,06-06-2022,05-06-2023,Yes,Fair
+BIKE963,E-Bike,Mercier,M,TRUE,09-07-2023,06-05-2024,Yes,Refurbished
+BIKE600,Traditional,Mercier,M,TRUE,25-12-2022,21-01-2024,No,Fair
+BIKE533,E-Bike,Mercier,L,FALSE,30-06-2022,07-01-2023,No,New
+BIKE071,Traditional,Mercier,S,FALSE,03-05-2022,01-07-2023,No,Refurbished
+BIKE581,Traditional,Mercier,L,FALSE,27-02-2022,04-05-2024,Yes,Out of Service
+BIKE900,E-Bike,Mercier,L,TRUE,24-05-2023,07-02-2023,No,Good
+BIKE178,Traditional,Mercier,XL,TRUE,15-08-2022,29-12-2023,No,Good
+BIKE671,Traditional,Mercier,S,FALSE,02-08-2022,20-01-2024,Yes,New
+BIKE716,Traditional,Mercier,XL,TRUE,28-07-2022,10-09-2023,No,Out of Service
+BIKE997,E-Bike,Mercier,XL,FALSE,15-03-2023,03-04-2024,No,Needs Repair
+BIKE870,Traditional,Mercier,S,TRUE,10-04-2022,15-02-2023,No,New
+BIKE433,Traditional,Mercier,M,TRUE,01-10-2022,27-12-2023,Yes,Retired
+BIKE999,E-Bike,Mercier,L,FALSE,08-04-2023,20-02-2024,Yes,New
+BIKE384,E-Bike,Mercier,S,TRUE,02-08-2022,24-03-2024,No,Needs Repair
+BIKE163,E-Bike,Mercier,XL,TRUE,12-01-2023,09-01-2023,No,New
+BIKE774,E-Bike,Mercier,M,FALSE,16-03-2022,15-03-2024,No,Fair
+BIKE820,Traditional,Mercier,M,FALSE,05-02-2022,29-03-2024,No,Needs Repair
+BIKE959,E-Bike,Mercier,M,TRUE,02-03-2023,17-06-2023,No,Fair
+BIKE794,E-Bike,Mercier,S,TRUE,25-03-2023,31-01-2023,Yes,Needs Repair
+BIKE596,E-Bike,Mercier,L,TRUE,01-06-2022,09-05-2023,Yes,Fair
+BIKE695,Traditional,Mercier,XL,FALSE,11-12-2021,03-10-2023,No,Refurbished
+BIKE966,E-Bike,Mercier,S,TRUE,13-03-2022,11-01-2024,No,Good
+BIKE581,E-Bike,Mercier,M,TRUE,27-07-2023,05-05-2024,No,New
+BIKE751,Traditional,Mercier,M,FALSE,09-01-2023,30-07-2023,Yes,New
+BIKE058,Traditional,Mercier,XL,TRUE,25-03-2023,12-03-2023,No,Good
+BIKE695,Traditional,Mercier,L,TRUE,12-08-2022,05-11-2023,No,Needs Repair
+BIKE625,E-Bike,Mercier,M,TRUE,11-08-2022,26-05-2023,No,Needs Repair
+BIKE410,Traditional,Mercier,M,TRUE,19-04-2023,14-05-2023,Yes,Needs Repair
+BIKE683,E-Bike,Mercier,XL,FALSE,03-02-2022,20-01-2024,No,Fair
+BIKE645,E-Bike,Mercier,M,TRUE,24-11-2022,07-11-2023,Yes,New
+BIKE502,Traditional,Mercier,S,TRUE,10-11-2022,25-09-2023,Yes,New
+BIKE365,E-Bike,Mercier,M,TRUE,29-04-2022,29-09-2023,No,Needs Repair
+BIKE287,E-Bike,Mercier,M,TRUE,25-06-2023,13-06-2023,Yes,Good
+BIKE844,Traditional,Mercier,S,TRUE,02-02-2023,22-03-2024,Yes,Retired
+BIKE207,Traditional,Mercier,XL,TRUE,11-11-2022,29-03-2024,No,Good
+BIKE192,E-Bike,Mercier,L,FALSE,04-03-2023,28-12-2023,No,Out of Service
+BIKE858,Traditional,Mercier,M,TRUE,23-04-2023,10-04-2023,No,Needs Repair
+BIKE307,E-Bike,Mercier,L,TRUE,02-01-2023,03-06-2023,No,Out of Service
+BIKE377,Traditional,Mercier,XL,TRUE,22-11-2022,21-07-2023,No,Fair
+BIKE191,Traditional,Mercier,L,FALSE,09-07-2023,15-10-2023,No,Good
+BIKE784,Traditional,Mercier,XL,TRUE,02-02-2022,03-12-2023,Yes,Out of Service
+BIKE176,E-Bike,Mercier,L,TRUE,02-05-2023,01-03-2023,No,New
+BIKE977,E-Bike,Mercier,M,FALSE,13-01-2023,15-11-2023,No,Fair
+BIKE153,Traditional,Mercier,M,TRUE,15-06-2022,25-02-2024,Yes,Retired
+BIKE206,E-Bike,Mercier,S,TRUE,07-08-2022,06-03-2024,Yes,Fair
+BIKE604,Traditional,Mercier,L,FALSE,03-07-2023,18-09-2023,No,Refurbished
+BIKE389,E-Bike,Mercier,S,TRUE,11-09-2022,21-12-2023,Yes,Fair
+BIKE026,Traditional,Mercier,L,FALSE,01-07-2023,07-06-2023,No,Good
+BIKE334,Traditional,Mercier,L,TRUE,06-06-2022,24-10-2023,No,Fair
+BIKE053,Traditional,Mercier,XL,TRUE,06-02-2023,11-03-2023,No,Refurbished
+BIKE030,Traditional,Mercier,M,TRUE,12-08-2022,05-10-2023,Yes,Needs Repair
+BIKE683,Traditional,Mercier,S,FALSE,03-09-2022,01-12-2023,No,Good
+BIKE117,Traditional,Mercier,S,TRUE,13-01-2022,06-06-2023,Yes,Fair
+BIKE991,E-Bike,Mercier,L,TRUE,11-08-2022,27-05-2023,No,Out of Service
+BIKE750,E-Bike,Mercier,S,TRUE,11-07-2022,03-12-2023,No,Refurbished
+BIKE613,Traditional,Mercier,M,TRUE,08-04-2023,30-11-2023,No,Needs Repair
+BIKE536,Traditional,Mercier,S,FALSE,28-04-2023,29-07-2023,Yes,Out of Service
+BIKE890,Traditional,Mercier,XL,FALSE,13-03-2023,31-08-2023,No,Needs Repair
+BIKE129,E-Bike,Mercier,S,FALSE,15-02-2022,04-11-2023,Yes,Refurbished
+BIKE628,E-Bike,Mercier,XL,TRUE,08-01-2023,29-05-2023,Yes,Out of Service
+BIKE657,E-Bike,Mercier,S,FALSE,23-04-2023,11-02-2023,No,Needs Repair
+BIKE573,E-Bike,Mercier,L,TRUE,01-11-2022,19-10-2023,Yes,Fair
+BIKE097,E-Bike,Mercier,L,FALSE,12-07-2023,17-11-2023,Yes,Fair
+BIKE348,E-Bike,Mercier,L,TRUE,20-09-2022,10-01-2024,Yes,New
+BIKE276,E-Bike,Mercier,S,FALSE,12-04-2023,31-01-2024,No,Out of Service
+BIKE218,Traditional,Mercier,L,TRUE,01-04-2023,14-09-2023,Yes,Fair
+BIKE488,E-Bike,Mercier,L,FALSE,26-05-2022,27-02-2023,Yes,Refurbished
+BIKE666,E-Bike,Mercier,S,FALSE,13-01-2022,03-02-2023,No,Needs Repair
+BIKE900,Traditional,Mercier,M,FALSE,02-01-2022,25-03-2024,Yes,Out of Service
+BIKE235,E-Bike,Mercier,XL,TRUE,11-05-2023,25-05-2023,Yes,Good
+BIKE855,Traditional,Mercier,S,FALSE,09-04-2023,02-04-2023,Yes,Retired
+BIKE312,E-Bike,Mercier,M,FALSE,21-02-2022,08-02-2024,No,New
+BIKE724,E-Bike,Mercier,XL,TRUE,29-06-2023,12-03-2023,Yes,Needs Repair
+BIKE932,E-Bike,Mercier,S,TRUE,06-05-2022,17-06-2023,No,Retired
+BIKE492,Traditional,Mercier,XL,FALSE,14-09-2022,16-06-2023,No,Fair
+BIKE466,E-Bike,Mercier,M,FALSE,07-12-2021,23-02-2024,No,Refurbished
+BIKE512,Traditional,Mercier,XL,FALSE,22-01-2023,10-01-2023,Yes,Refurbished
+BIKE577,Traditional,Mercier,M,TRUE,16-02-2022,05-02-2024,Yes,Refurbished
+BIKE249,Traditional,Mercier,M,FALSE,07-10-2022,22-12-2023,Yes,Good
+BIKE909,E-Bike,Mercier,XL,FALSE,26-11-2022,04-07-2023,No,Good
+BIKE087,Traditional,Mercier,L,TRUE,30-01-2023,07-01-2024,No,Fair
+BIKE689,E-Bike,Mercier,XL,TRUE,16-07-2022,12-02-2024,No,Fair
+BIKE053,E-Bike,Mercier,L,TRUE,17-02-2023,20-06-2023,Yes,Good
+BIKE440,E-Bike,Mercier,XL,FALSE,12-12-2021,21-04-2023,Yes,Out of Service
+BIKE889,Traditional,Mercier,XL,TRUE,29-07-2023,22-02-2024,Yes,Retired
+BIKE084,E-Bike,Mercier,M,FALSE,26-11-2022,21-07-2023,No,Needs Repair
+BIKE698,Traditional,Mercier,XL,TRUE,20-04-2023,13-11-2023,Yes,New
+BIKE835,Traditional,Mercier,M,TRUE,29-08-2022,06-06-2023,Yes,Retired
+BIKE668,E-Bike,Mercier,S,FALSE,08-04-2023,13-01-2024,No,Refurbished
+BIKE249,Traditional,Mercier,L,FALSE,09-06-2023,01-09-2023,Yes,Needs Repair
+BIKE982,E-Bike,Mercier,M,TRUE,19-03-2022,29-09-2023,No,New
+BIKE241,E-Bike,Mercier,M,TRUE,06-10-2022,09-07-2023,Yes,Fair
+BIKE018,Traditional,Mercier,XL,FALSE,28-06-2023,12-01-2024,Yes,Refurbished
+BIKE592,E-Bike,Mercier,S,TRUE,05-01-2023,06-09-2023,No,Retired

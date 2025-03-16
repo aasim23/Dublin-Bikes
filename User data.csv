@@ -1,0 +1,1001 @@
+user_id,first_name,last_name,email,address,preferred_bike_type,rental_duration_hours,membership_status,payment_method,preffered_communication,refferal_source,frequency_usage,accessibility_needs
+57310,Alanah,Latchford,alatchford0@deviantart.com,Ormond Quay Upper,E-Bike,2.1,premium member,pay pal,Phone Calls,Search Engine,Tourists,Audio Guides
+72767,Joellen,McGuinley,jmcguinley1@about.me,Mount Street Lower,Traditional,1.6,basic member,payment wallets,SMS,Email Marketing Campaigns,Frequent,Low-Step Frames
+82871,Shaine,Maidstone,smaidstone2@github.com,Emmet Road,E-Bike,2.1,premium member,direct deposit,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+21998,Sybyl,Jacquest,sjacquest3@cbc.ca,James Street East,Traditional,1.1,premium member,debit card,App Notification,Online Advertisements,Commuters,Audio Guides
+30086,Doralyn,Klimes,dklimes4@instagram.com,Parnell Street,E-Bike,3.4,premium member,direct deposit,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,None
+42815,Indira,O'Harney,ioharney5@multiply.com,North Circular Road (O'Connell's),E-Bike,2.8,basic member,cash,Postal Mail,Search Engine,Occasional,Adaptive Bikes
+55193,Lou,Gallo,lgallo6@163.com,Grattan Street,Traditional,3.8,basic member,pay pal,Email,Print Media,Regular,None
+60854,Torry,Bustin,tbustin7@imageshack.us,South Dock Road,Traditional,2.0,premium member,pay pal,SMS,Social Media,Commuters,Low-Step Frames
+75400,Twila,Frantz,tfrantz8@engadget.com,Earlsfort Terrace,E-Bike,1.5,premium member,apple pay,Phone Calls,Social Media,Commuters,Low-Step Frames
+61999,Lottie,Collis,lcollis9@arstechnica.com,York Street West,E-Bike,2.7,premium member,apple pay,Postal Mail,Word-of-Mouth,Commuters,Low-Step Frames
+30162,Edwina,Ondricek,eondriceka@cbsnews.com,Sir Patrick's Dun,E-Bike,2.3,basic member,credit card,Phone Calls,Online Advertisements,Tourists,Audio Guides
+48019,Aubree,O'Shea,aosheab@cafepress.com,Mount Street Lower,E-Bike,1.1,premium member,payment wallets,Phone Calls,Word-of-Mouth,Frequent,Sign Language Interpretation
+74235,Annadiana,Reye,areyec@ning.com,Golden Lane,E-Bike,1.3,basic member,payment wallets,Phone Calls,Email Marketing Campaigns,Occasional,Sign Language Interpretation
+85706,Andonis,Ewells,aewellsd@xinhuanet.com,Pearse Street,Traditional,1.3,premium member,payment wallets,SMS,Search Engine,Commuters,Sign Language Interpretation
+30343,Alyse,Fouldes,afouldese@topsy.com,Smithfield North,Traditional,1.8,basic member,debit card,SMS,Email Marketing Campaigns,Seasonal,Sign Language Interpretation
+22715,Abby,Skoggings,askoggingsf@tripadvisor.com,George's Lane,Traditional,2.3,basic member,direct deposit,SMS,Social Media,Occasional,Audio Guides
+63976,Torr,Templeton,ttempletong@google.co.uk,Eccles Street,E-Bike,3.4,premium member,apple pay,Email,Other,Commuters,None
+72084,Eimile,Count,ecounth@opera.com,York Street East,Traditional,3.2,basic member,credit card,Postal Mail,Online Advertisements,Tourists,Low-Step Frames
+94083,Annmarie,Brumbie,abrumbiei@wikia.com,Parkgate Street,E-Bike,2.9,basic member,cash,Phone Calls,Search Engine,Tourists,Sign Language Interpretation
+90068,Malina,Trevor,mtrevorj@businesswire.com,Grangegorman Lower (South),E-Bike,3.8,premium member,debit card,App Notification,Search Engine,Commuters,None
+70753,Martino,Kilcoyne,mkilcoynek@google.co.uk,New Central Bank,E-Bike,2.0,basic member,apple pay,Postal Mail,Email Marketing Campaigns,Frequent,Sign Language Interpretation
+53009,Elmer,McIsaac,emcisaacl@state.tx.us,Portobello Harbour,Traditional,2.1,premium member,debit card,Email,Other,Regular,Low-Step Frames
+32470,Lorin,Capon,lcaponm@toplist.cz,Merrion Square West,Traditional,3.1,basic member,cash,SMS,Search Engine,Regular,Audio Guides
+19847,Penelope,MacKartan,pmackartann@google.pl,Avondale Road,E-Bike,2.2,basic member,cash,Email,Search Engine,Commuters,Low-Step Frames
+88811,Fern,Domingues,fdomingueso@unicef.org,Brookfield Road,Traditional,3.0,basic member,apple pay,Email,Social Media,Regular,Sign Language Interpretation
+40077,Alastair,Kall,akallp@homestead.com,Fownes Street Upper,E-Bike,3.3,basic member,pay pal,SMS,Word-of-Mouth,Seasonal,Audio Guides
+69349,Frederigo,Renneke,frennekeq@gmpg.org,Grangegorman Lower (South),E-Bike,1.4,premium member,payment wallets,SMS,Online Advertisements,Commuters,Audio Guides
+82791,Suzie,Tadman,stadmanr@about.me,Eccles Street,E-Bike,3.3,basic member,direct deposit,Postal Mail,Email Marketing Campaigns,Fitness Enthusiasts,Low-Step Frames
+83691,Tynan,Ellif,tellifs@godaddy.com,Merrion Square East,Traditional,1.1,premium member,credit card,Email,Print Media,Seasonal,Sign Language Interpretation
+28340,Crista,Balentyne,cbalentynet@businessinsider.com,Merrion Square South,E-Bike,2.6,basic member,apple pay,Email,Other,Seasonal,None
+47494,Sal,Riddlesden,sriddlesdenu@privacy.gov.au,Eccles Street,Traditional,2.1,basic member,payment wallets,Email,Email Marketing Campaigns,Commuters,None
+69630,Lannie,Allery,lalleryv@indiatimes.com,John Street West,E-Bike,2.7,basic member,payment wallets,App Notification,Print Media,Commuters,Sign Language Interpretation
+83211,Kathryn,Wandrich,kwandrichw@hubpages.com,John Street West,Traditional,2.2,premium member,payment wallets,Email,Word-of-Mouth,Commuters,None
+54996,Doris,Lauchlan,dlauchlanx@squarespace.com,Clonmel Street,E-Bike,3.3,basic member,cash,Email,Social Media,Occasional,Adaptive Bikes
+21762,Loralee,Aldin,laldiny@goo.gl,Convention Centre,E-Bike,1.1,premium member,credit card,App Notification,Online Advertisements,Seasonal,Adaptive Bikes
+93078,Danette,Goodsal,dgoodsalz@mapy.cz,Grangegorman Lower (South),Traditional,3.9,basic member,apple pay,Phone Calls,Search Engine,Occasional,Low-Step Frames
+23931,Paige,Sinclaire,psinclaire10@chronoengine.com,Pearse Street,Traditional,4.0,basic member,payment wallets,Email,Email Marketing Campaigns,Fitness Enthusiasts,Audio Guides
+92075,Rusty,Beatty,rbeatty11@dyndns.org,Denmark Street Great,Traditional,3.6,basic member,debit card,Postal Mail,Word-of-Mouth,Occasional,Adaptive Bikes
+30436,Ash,Chittleburgh,achittleburgh12@aboutads.info,Hanover Quay East,E-Bike,2.4,basic member,debit card,SMS,Online Advertisements,Frequent,Adaptive Bikes
+18406,Wallie,Brunn,wbrunn13@wikispaces.com,Collins Barracks Museum,Traditional,3.1,basic member,credit card,Email,Search Engine,Occasional,Adaptive Bikes
+49976,Bernarr,Irnis,birnis14@ycombinator.com,York Street West,E-Bike,2.8,basic member,apple pay,Postal Mail,Word-of-Mouth,Seasonal,Adaptive Bikes
+27692,Kim,Recher,krecher15@360.cn,Mountjoy Square West,E-Bike,3.9,basic member,payment wallets,Email,Print Media,Seasonal,Adaptive Bikes
+47420,Edith,Panner,epanner16@irs.gov,Mater Hospital,Traditional,1.7,premium member,direct deposit,Postal Mail,Email Marketing Campaigns,Tourists,Low-Step Frames
+15838,Cindra,Marioneau,cmarioneau17@icio.us,Clarendon Row,Traditional,1.8,premium member,payment wallets,App Notification,Online Advertisements,Commuters,Audio Guides
+85191,Camellia,McGettrick,cmcgettrick18@umn.edu,Smithfield,Traditional,3.6,premium member,debit card,App Notification,Online Advertisements,Occasional,Audio Guides
+23488,Chester,Decreuze,cdecreuze19@joomla.org,James Street,E-Bike,2.5,basic member,credit card,Phone Calls,Social Media,Occasional,Audio Guides
+27630,Dee dee,Goldney,dgoldney1a@skyrock.com,Ormond Quay Upper,Traditional,2.4,basic member,payment wallets,Phone Calls,Search Engine,Seasonal,Sign Language Interpretation
+10020,Blondell,Senton,bsenton1b@uiuc.edu,Grangegorman Lower (Central),E-Bike,3.7,premium member,credit card,Email,Online Advertisements,Frequent,Audio Guides
+17676,Kory,Romei,kromei1c@constantcontact.com,Princes Street / O'Connell Street,E-Bike,1.1,premium member,apple pay,SMS,Social Media,Commuters,Low-Step Frames
+69447,Bridie,Rimington,brimington1d@theglobeandmail.com,Royal Hospital,E-Bike,1.7,basic member,pay pal,Postal Mail,Online Advertisements,Regular,Adaptive Bikes
+79402,Arturo,Sweedy,asweedy1e@clickbank.net,Jervis Street,E-Bike,2.7,basic member,apple pay,Phone Calls,Social Media,Fitness Enthusiasts,Audio Guides
+15650,Rhianon,Spurgeon,rspurgeon1f@constantcontact.com,Heuston Bridge (North),E-Bike,2.7,premium member,apple pay,Phone Calls,Online Advertisements,Commuters,Sign Language Interpretation
+89303,Maxy,Pogosian,mpogosian1g@meetup.com,Oliver Bond Street,Traditional,1.9,basic member,direct deposit,Email,Other,Commuters,Audio Guides
+46073,Desirae,Omond,domond1h@census.gov,Francis Street,Traditional,1.1,basic member,payment wallets,Postal Mail,Word-of-Mouth,Regular,Low-Step Frames
+65692,Muire,Durdle,mdurdle1i@123-reg.co.uk,Grangegorman Lower (North),Traditional,1.8,basic member,direct deposit,Email,Print Media,Frequent,None
+36822,Nichole,Kinghorn,nkinghorn1j@goo.ne.jp,York Street West,Traditional,3.7,premium member,direct deposit,Postal Mail,Search Engine,Frequent,Sign Language Interpretation
+22334,Milena,Portam,mportam1k@mashable.com,Molesworth Street,E-Bike,2.5,basic member,pay pal,SMS,Search Engine,Commuters,Audio Guides
+38726,Aldin,Gunstone,agunstone1l@zimbio.com,Eccles Street East,Traditional,3.8,premium member,pay pal,Email,Print Media,Frequent,Adaptive Bikes
+40067,Tersina,Hambrook,thambrook1m@shop-pro.jp,Townsend Street,E-Bike,1.4,premium member,cash,Phone Calls,Online Advertisements,Occasional,None
+65665,Merry,Mar,mmar1n@accuweather.com,Clarendon Row,E-Bike,3.0,basic member,apple pay,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Sign Language Interpretation
+72280,Mike,Bradberry,mbradberry1o@ftc.gov,George's Lane,E-Bike,2.8,premium member,credit card,App Notification,Word-of-Mouth,Seasonal,Audio Guides
+48461,Allin,Phifer,aphifer1p@woothemes.com,High Street,E-Bike,3.5,premium member,payment wallets,Phone Calls,Word-of-Mouth,Commuters,Audio Guides
+66979,Abbi,Chester,achester1q@usa.gov,North Circular Road,Traditional,1.8,premium member,credit card,SMS,Online Advertisements,Tourists,Sign Language Interpretation
+36556,Cairistiona,Deeman,cdeeman1r@github.com,Denmark Street Great,E-Bike,3.9,premium member,direct deposit,App Notification,Print Media,Frequent,Sign Language Interpretation
+33098,Rudolfo,Prestner,rprestner1s@epa.gov,Heuston Bridge (North),E-Bike,1.6,basic member,pay pal,SMS,Search Engine,Seasonal,Adaptive Bikes
+54361,Stormi,Weich,sweich1t@phoca.cz,Wilton Terrace (Park),E-Bike,3.5,basic member,direct deposit,Email,Email Marketing Campaigns,Occasional,Adaptive Bikes
+28196,Corabel,Blasoni,cblasoni1u@mlb.com,Fitzwilliam Square West,E-Bike,3.6,premium member,apple pay,Postal Mail,Print Media,Occasional,Low-Step Frames
+64942,Branden,Munkton,bmunkton1v@biblegateway.com,Charleville Road,E-Bike,2.5,premium member,pay pal,SMS,Email Marketing Campaigns,Fitness Enthusiasts,None
+43126,Lina,Duckerin,lduckerin1w@t.co,Dame Street,Traditional,3.5,basic member,apple pay,Postal Mail,Online Advertisements,Regular,Adaptive Bikes
+66085,Peirce,Attrey,pattrey1x@blogs.com,North Circular Road (O'Connell's),Traditional,2.1,basic member,debit card,SMS,Email Marketing Campaigns,Occasional,Adaptive Bikes
+97477,Elliot,Itzak,eitzak1y@whitehouse.gov,Mount Brown,Traditional,2.7,premium member,apple pay,Email,Social Media,Fitness Enthusiasts,Adaptive Bikes
+42743,Hendrika,Matskiv,hmatskiv1z@nasa.gov,Parkgate Street,Traditional,3.7,basic member,credit card,Phone Calls,Email Marketing Campaigns,Tourists,Low-Step Frames
+28956,Stormy,Cumberpatch,scumberpatch20@bandcamp.com,Exchequer Street,E-Bike,2.9,premium member,direct deposit,Email,Email Marketing Campaigns,Frequent,Audio Guides
+88964,Ronnie,Denzey,rdenzey21@dedecms.com,Merrion Square West,E-Bike,1.0,basic member,pay pal,App Notification,Other,Fitness Enthusiasts,Low-Step Frames
+30139,Rochell,Notti,rnotti22@intel.com,Charleville Road,Traditional,2.0,premium member,credit card,SMS,Online Advertisements,Occasional,Sign Language Interpretation
+40906,Brietta,Dods,bdods23@reuters.com,Georges Quay,Traditional,3.4,basic member,payment wallets,Phone Calls,Search Engine,Regular,Low-Step Frames
+38388,Lombard,Biasioni,lbiasioni24@purevolume.com,James Street East,E-Bike,1.1,basic member,payment wallets,Phone Calls,Word-of-Mouth,Regular,None
+60692,Georgianne,Kembery,gkembery25@yellowbook.com,Collins Barracks Museum,Traditional,2.9,premium member,payment wallets,SMS,Print Media,Occasional,None
+87276,Elfreda,Dyke,edyke26@hud.gov,Fitzwilliam Square West,E-Bike,3.1,basic member,pay pal,Phone Calls,Search Engine,Occasional,Adaptive Bikes
+74007,Abelard,McGeaney,amcgeaney27@miitbeian.gov.cn,Fitzwilliam Square West,E-Bike,2.1,premium member,direct deposit,Email,Online Advertisements,Tourists,Adaptive Bikes
+58526,Erminia,Pflieger,epflieger28@cnbc.com,Parkgate Street,E-Bike,2.4,premium member,apple pay,Phone Calls,Other,Tourists,Sign Language Interpretation
+72629,Cassandry,Nuschke,cnuschke29@wunderground.com,Benson Street,E-Bike,3.7,basic member,cash,Postal Mail,Search Engine,Frequent,Audio Guides
+46452,Nikki,Twiddell,ntwiddell2a@arstechnica.com,Fenian Street,E-Bike,2.2,premium member,payment wallets,SMS,Other,Occasional,Sign Language Interpretation
+67888,Humfrey,Clinch,hclinch2b@nsw.gov.au,Sir Patrick's Dun,E-Bike,2.6,premium member,payment wallets,Phone Calls,Social Media,Tourists,Low-Step Frames
+34320,Melisse,Ovesen,movesen2c@ycombinator.com,Francis Street,Traditional,3.0,premium member,credit card,SMS,Online Advertisements,Frequent,None
+77081,Vanya,Rosie,vrosie2d@multiply.com,Clonmel Street,E-Bike,2.0,basic member,pay pal,App Notification,Word-of-Mouth,Seasonal,Adaptive Bikes
+68776,Leoine,Seger,lseger2e@paginegialle.it,Western Way,E-Bike,1.6,basic member,payment wallets,Postal Mail,Social Media,Occasional,None
+79849,Kyle,Hundell,khundell2f@example.com,Townsend Street,E-Bike,3.8,premium member,debit card,App Notification,Word-of-Mouth,Tourists,Audio Guides
+99027,Caprice,Loach,cloach2g@domainmarket.com,Emmet Road,E-Bike,3.9,premium member,credit card,SMS,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+72843,Maible,Stokoe,mstokoe2h@intel.com,New Central Bank,Traditional,3.6,basic member,payment wallets,Postal Mail,Other,Regular,Sign Language Interpretation
+53510,Findley,Costard,fcostard2i@e-recht24.de,Broadstone,Traditional,2.6,basic member,apple pay,SMS,Online Advertisements,Frequent,Adaptive Bikes
+40747,Audrey,Lyptrade,alyptrade2j@imdb.com,Hanover Quay East,E-Bike,2.1,basic member,credit card,Postal Mail,Word-of-Mouth,Occasional,None
+43407,Carmina,Primarolo,cprimarolo2k@utexas.edu,Western Way,E-Bike,1.0,premium member,pay pal,Email,Search Engine,Regular,Audio Guides
+75511,Cecelia,Whiting,cwhiting2l@disqus.com,New Central Bank,E-Bike,2.1,premium member,debit card,App Notification,Online Advertisements,Fitness Enthusiasts,Sign Language Interpretation
+76002,Eustacia,Collier,ecollier2m@ucoz.ru,Guild Street,Traditional,2.9,premium member,credit card,Email,Other,Regular,Adaptive Bikes
+82817,Angelle,Schleicher,aschleicher2n@squarespace.com,Christchurch Place,Traditional,1.6,basic member,debit card,Phone Calls,Search Engine,Occasional,Adaptive Bikes
+76494,Jacquelynn,Ellum,jellum2o@vimeo.com,Blackhall Place,Traditional,3.9,basic member,apple pay,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+54638,Darcey,Whitwham,dwhitwham2p@tamu.edu,Smithfield North,E-Bike,1.9,premium member,pay pal,Phone Calls,Online Advertisements,Occasional,None
+10293,Jacob,Bonick,jbonick2q@businesswire.com,Mountjoy Square East,E-Bike,2.9,premium member,credit card,Phone Calls,Print Media,Seasonal,Audio Guides
+25207,Nickola,Stubbeley,nstubbeley2r@multiply.com,Merrion Square East,Traditional,3.3,basic member,direct deposit,Phone Calls,Other,Seasonal,None
+80108,Gaultiero,MacKeague,gmackeague2s@archive.org,Oliver Bond Street,Traditional,1.1,premium member,cash,Postal Mail,Print Media,Frequent,Low-Step Frames
+75310,Catherina,Slorach,cslorach2t@bravesites.com,Wolfe Tone Street,E-Bike,3.1,basic member,debit card,SMS,Other,Regular,Adaptive Bikes
+70200,Royall,Gwatkin,rgwatkin2u@cbslocal.com,Fenian Street,Traditional,1.8,basic member,pay pal,Phone Calls,Print Media,Regular,Audio Guides
+17288,Dud,MacBrearty,dmacbrearty2v@soundcloud.com,Eccles Street East,E-Bike,2.9,premium member,credit card,Email,Online Advertisements,Occasional,Audio Guides
+11283,Dorette,Hanselmann,dhanselmann2w@unc.edu,Kevin Street,Traditional,1.9,basic member,direct deposit,SMS,Online Advertisements,Tourists,Audio Guides
+39163,Millie,Guisot,mguisot2x@ihg.com,The Point,Traditional,2.9,premium member,cash,Email,Print Media,Regular,Audio Guides
+84464,Boone,Hubert,bhubert2y@infoseek.co.jp,Charleville Road,E-Bike,3.4,basic member,cash,SMS,Search Engine,Regular,Low-Step Frames
+43202,Constantina,Lambole,clambole2z@themeforest.net,Francis Street,Traditional,2.8,premium member,cash,App Notification,Email Marketing Campaigns,Occasional,Low-Step Frames
+16048,Noreen,Aberdeen,naberdeen30@wsj.com,Cathal Brugha Street,E-Bike,2.7,premium member,pay pal,Postal Mail,Online Advertisements,Fitness Enthusiasts,None
+26835,Cullin,Felgate,cfelgate31@omniture.com,Harcourt Terrace,E-Bike,1.8,premium member,payment wallets,Email,Social Media,Occasional,Adaptive Bikes
+49276,Malissia,Petrello,mpetrello32@bigcartel.com,Ormond Quay Upper,E-Bike,1.5,basic member,cash,App Notification,Other,Fitness Enthusiasts,Low-Step Frames
+35345,Noreen,Derrick,nderrick33@infoseek.co.jp,Merrion Square West,Traditional,1.4,premium member,payment wallets,App Notification,Search Engine,Regular,None
+78829,Gayle,Pearch,gpearch34@ucoz.com,Kevin Street,E-Bike,2.7,premium member,apple pay,Phone Calls,Online Advertisements,Tourists,None
+16211,Alyce,Ambrogio,aambrogio35@state.gov,Deverell Place,Traditional,1.0,basic member,credit card,SMS,Word-of-Mouth,Occasional,Low-Step Frames
+22945,Juliette,Brewitt,jbrewitt36@bloglovin.com,Parkgate Street,Traditional,3.3,basic member,credit card,Postal Mail,Online Advertisements,Tourists,Low-Step Frames
+81440,Keriann,Newcome,knewcome37@usnews.com,Heuston Bridge (South),Traditional,1.0,premium member,payment wallets,Postal Mail,Other,Fitness Enthusiasts,None
+55579,Lilly,Nurse,lnurse38@foxnews.com,Fitzwilliam Square West,E-Bike,2.5,premium member,apple pay,SMS,Other,Seasonal,Adaptive Bikes
+65190,Francesco,Farloe,ffarloe39@scientificamerican.com,Townsend Street,Traditional,3.8,premium member,apple pay,Postal Mail,Social Media,Tourists,Low-Step Frames
+32804,Gearalt,Lowmass,glowmass3a@java.com,Grangegorman Lower (Central),Traditional,1.7,premium member,pay pal,SMS,Search Engine,Tourists,Adaptive Bikes
+20608,Correy,Velte,cvelte3b@istockphoto.com,New Central Bank,E-Bike,2.7,basic member,debit card,Postal Mail,Social Media,Regular,Adaptive Bikes
+71417,Morie,Cerro,mcerro3c@stanford.edu,Guild Street,Traditional,2.3,basic member,apple pay,Postal Mail,Search Engine,Frequent,Adaptive Bikes
+70051,Paola,Mundell,pmundell3d@cornell.edu,North Circular Road,E-Bike,4.0,premium member,apple pay,Email,Email Marketing Campaigns,Fitness Enthusiasts,Low-Step Frames
+88321,Ulises,Dripps,udripps3e@goodreads.com,Fenian Street,E-Bike,3.9,basic member,apple pay,Email,Other,Tourists,Low-Step Frames
+77892,Chuck,McCurtin,cmccurtin3f@bing.com,Greek Street,E-Bike,1.9,premium member,direct deposit,SMS,Social Media,Tourists,Adaptive Bikes
+76555,Araldo,Brownsall,abrownsall3g@cisco.com,Charleville Road,E-Bike,3.3,basic member,pay pal,Postal Mail,Other,Regular,Audio Guides
+86444,Tedi,Behn,tbehn3h@google.com.br,Dame Street,Traditional,1.7,basic member,payment wallets,Email,Print Media,Frequent,Sign Language Interpretation
+24127,Alexei,Spellacey,aspellacey3i@boston.com,Blessington Street,Traditional,1.5,basic member,debit card,SMS,Word-of-Mouth,Occasional,Adaptive Bikes
+55160,Doe,Russilll,drussilll3j@usgs.gov,Exchequer Street,Traditional,1.7,premium member,cash,Postal Mail,Search Engine,Regular,None
+39828,Homerus,Tansley,htansley3k@ehow.com,Parnell Square North,E-Bike,2.8,basic member,credit card,Email,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+91842,Julienne,Linscott,jlinscott3l@redcross.org,Portobello Road,E-Bike,2.7,premium member,payment wallets,App Notification,Other,Frequent,Low-Step Frames
+77180,Ginni,Braune,gbraune3m@oaic.gov.au,Frederick Street South,Traditional,1.2,premium member,pay pal,SMS,Social Media,Seasonal,Audio Guides
+98739,Venus,Landy,vlandy3n@ucsd.edu,The Point,E-Bike,1.1,basic member,apple pay,SMS,Word-of-Mouth,Frequent,Sign Language Interpretation
+88471,Jethro,Sooper,jsooper3o@shareasale.com,Sandwith Street,Traditional,1.7,basic member,payment wallets,Email,Word-of-Mouth,Tourists,None
+68684,Shoshana,Catenot,scatenot3p@joomla.org,Rathdown Road,E-Bike,2.0,basic member,apple pay,Postal Mail,Online Advertisements,Tourists,Audio Guides
+38547,Ewen,Arrow,earrow3q@prnewswire.com,Denmark Street Great,E-Bike,3.3,basic member,debit card,Postal Mail,Online Advertisements,Frequent,Audio Guides
+25918,Dory,Toward,dtoward3r@irs.gov,High Street,E-Bike,2.2,basic member,cash,SMS,Search Engine,Fitness Enthusiasts,Sign Language Interpretation
+81224,Mozes,Linebarger,mlinebarger3s@bloglines.com,Kilmainham Lane,E-Bike,1.5,premium member,cash,Phone Calls,Other,Fitness Enthusiasts,Sign Language Interpretation
+30827,Lyndsay,Bassom,lbassom3t@booking.com,Newman House,Traditional,3.0,premium member,pay pal,App Notification,Social Media,Commuters,Audio Guides
+50184,Wilma,Basini-Gazzi,wbasinigazzi3u@drupal.org,Ormond Quay Upper,E-Bike,2.4,premium member,pay pal,App Notification,Search Engine,Regular,Audio Guides
+13925,Anna-maria,Denis,adenis3v@apache.org,Rathdown Road,E-Bike,2.4,basic member,pay pal,App Notification,Other,Occasional,Audio Guides
+59997,Cynthea,Bolin,cbolin3w@stanford.edu,Rathdown Road,Traditional,2.5,basic member,payment wallets,App Notification,Other,Fitness Enthusiasts,Adaptive Bikes
+28554,Cammy,Hablet,chablet3x@who.int,Grantham Street,E-Bike,3.1,premium member,pay pal,Phone Calls,Social Media,Seasonal,Low-Step Frames
+10112,Jasmina,McAlindon,jmcalindon3y@skype.com,Lime Street,E-Bike,1.4,premium member,payment wallets,App Notification,Search Engine,Tourists,Sign Language Interpretation
+16308,Dixie,Lackington,dlackington3z@blog.com,Hatch Street,E-Bike,2.6,basic member,cash,Phone Calls,Search Engine,Fitness Enthusiasts,Adaptive Bikes
+34870,Douglas,Grewar,dgrewar40@seattletimes.com,Hatch Street,Traditional,1.1,premium member,debit card,SMS,Print Media,Regular,Sign Language Interpretation
+35631,Maynord,Borris,mborris41@wiley.com,Benson Street,E-Bike,1.0,basic member,credit card,Phone Calls,Search Engine,Frequent,Adaptive Bikes
+93020,Kip,Banasik,kbanasik42@sciencedaily.com,Grand Canal Dock,Traditional,3.8,basic member,pay pal,Email,Social Media,Seasonal,Low-Step Frames
+67203,Kristofer,Chew,kchew43@nasa.gov,Newman House,E-Bike,1.4,premium member,payment wallets,SMS,Other,Occasional,None
+95833,Carolan,Pembery,cpembery44@ehow.com,Parnell Square North,E-Bike,1.6,basic member,debit card,Phone Calls,Social Media,Frequent,None
+11809,Thornie,Plesing,tplesing45@statcounter.com,Blessington Street,E-Bike,1.8,premium member,cash,App Notification,Social Media,Commuters,Adaptive Bikes
+84828,Kaile,Greenhalgh,kgreenhalgh46@ebay.co.uk,Wolfe Tone Street,E-Bike,1.7,basic member,direct deposit,App Notification,Search Engine,Tourists,Sign Language Interpretation
+69856,Thedrick,Dooley,tdooley47@bbc.co.uk,Portobello Harbour,Traditional,2.5,basic member,pay pal,Postal Mail,Search Engine,Regular,None
+32378,Mateo,Millan,mmillan48@mozilla.org,Convention Centre,Traditional,1.3,premium member,credit card,Email,Online Advertisements,Fitness Enthusiasts,Audio Guides
+58041,Gerti,Cattemull,gcattemull49@alibaba.com,Portobello Harbour,Traditional,1.1,premium member,cash,App Notification,Word-of-Mouth,Fitness Enthusiasts,None
+32356,Angelo,Coltan,acoltan4a@cyberchimps.com,Herbert Place,E-Bike,2.1,premium member,payment wallets,SMS,Social Media,Seasonal,Sign Language Interpretation
+83523,Anthia,Cliffe,acliffe4b@symantec.com,Grangegorman Lower (North),E-Bike,3.4,basic member,pay pal,Email,Social Media,Tourists,Sign Language Interpretation
+52426,Rodolfo,Challicum,rchallicum4c@mlb.com,Grantham Street,E-Bike,3.3,basic member,credit card,Email,Print Media,Tourists,Sign Language Interpretation
+95527,Yvor,Thynn,ythynn4d@cafepress.com,York Street West,Traditional,3.1,basic member,credit card,App Notification,Email Marketing Campaigns,Frequent,Adaptive Bikes
+19432,Odella,Titcomb,otitcomb4e@nature.com,Jervis Street,E-Bike,3.8,basic member,debit card,Email,Social Media,Occasional,Low-Step Frames
+71280,Jarrad,Creer,jcreer4f@fotki.com,Market Street South,Traditional,3.3,premium member,apple pay,Phone Calls,Other,Regular,Adaptive Bikes
+78619,Vergil,Pressman,vpressman4g@oracle.com,Custom House,Traditional,2.0,premium member,credit card,Email,Online Advertisements,Regular,None
+57369,Cecilio,Benezeit,cbenezeit4h@slashdot.org,Denmark Street Great,Traditional,2.6,premium member,pay pal,Phone Calls,Search Engine,Frequent,Audio Guides
+84161,Abram,Whorlton,awhorlton4i@disqus.com,Heuston Station (Central),Traditional,3.9,premium member,debit card,Email,Word-of-Mouth,Tourists,Adaptive Bikes
+66949,Jaimie,O' Scallan,joscallan4j@myspace.com,Hanover Quay East,Traditional,3.8,premium member,credit card,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+95000,Gustie,Sutcliff,gsutcliff4k@ed.gov,Grangegorman Lower (South),E-Bike,3.6,premium member,direct deposit,Postal Mail,Search Engine,Occasional,None
+24635,Pembroke,Cutchey,pcutchey4l@xinhuanet.com,Earlsfort Terrace,E-Bike,1.8,basic member,payment wallets,Phone Calls,Print Media,Seasonal,Low-Step Frames
+62616,Tawnya,Lammertz,tlammertz4m@yolasite.com,Lime Street,Traditional,2.2,basic member,debit card,SMS,Online Advertisements,Regular,Adaptive Bikes
+16492,Sebastian,Golton,sgolton4n@unicef.org,Princes Street / O'Connell Street,E-Bike,1.3,basic member,debit card,Email,Search Engine,Tourists,Audio Guides
+52471,Nyssa,Okenden,nokenden4o@yale.edu,North Circular Road,E-Bike,2.6,basic member,direct deposit,Phone Calls,Social Media,Frequent,None
+27703,Web,Hanselmann,whanselmann4p@discuz.net,New Central Bank,E-Bike,2.5,basic member,direct deposit,Email,Word-of-Mouth,Fitness Enthusiasts,Sign Language Interpretation
+41094,Henrietta,Harkess,hharkess4q@unicef.org,Charleville Road,E-Bike,2.4,premium member,apple pay,Postal Mail,Other,Seasonal,Low-Step Frames
+21410,Gabey,Bexley,gbexley4r@yellowbook.com,Parnell Street,E-Bike,3.5,basic member,direct deposit,SMS,Online Advertisements,Occasional,Sign Language Interpretation
+98871,Reggi,McNeilley,rmcneilley4s@wikispaces.com,Hanover Quay East,Traditional,2.1,premium member,payment wallets,Email,Other,Occasional,Low-Step Frames
+74390,Dorene,Maxfield,dmaxfield4t@tripod.com,Custom House Quay,Traditional,1.6,basic member,credit card,Email,Other,Tourists,None
+99893,Daune,Levesque,dlevesque4u@taobao.com,Parnell Square North,Traditional,3.7,basic member,apple pay,App Notification,Other,Frequent,Audio Guides
+14718,Micky,Dupre,mdupre4v@amazon.co.uk,South Dock Road,E-Bike,1.4,basic member,payment wallets,App Notification,Social Media,Regular,Audio Guides
+84090,Bili,Bencher,bbencher4w@google.nl,Merrion Square East,Traditional,3.9,premium member,cash,SMS,Social Media,Seasonal,None
+64671,Christy,Milberry,cmilberry4x@wikia.com,Broadstone,E-Bike,3.8,basic member,apple pay,Phone Calls,Search Engine,Frequent,Sign Language Interpretation
+41551,Robinson,De Beauchamp,rdebeauchamp4y@sakura.ne.jp,Charleville Road,Traditional,2.7,premium member,pay pal,Phone Calls,Social Media,Frequent,Low-Step Frames
+62923,Gwennie,Semmens,gsemmens4z@cafepress.com,Mountjoy Square West,E-Bike,3.3,basic member,pay pal,App Notification,Word-of-Mouth,Regular,Audio Guides
+13165,Boote,O' Clovan,boclovan50@dyndns.org,Golden Lane,Traditional,4.0,basic member,apple pay,Postal Mail,Word-of-Mouth,Frequent,Adaptive Bikes
+50542,Ranique,Wakley,rwakley51@51.la,Sir Patrick's Dun,Traditional,2.5,premium member,direct deposit,App Notification,Print Media,Frequent,Audio Guides
+64025,Jacquelin,Agett,jagett52@flavors.me,Rothe Abbey,Traditional,3.8,premium member,direct deposit,Postal Mail,Online Advertisements,Frequent,Sign Language Interpretation
+41086,Say,Pottery,spottery53@youku.com,Christchurch Place,E-Bike,1.6,premium member,cash,App Notification,Social Media,Frequent,Low-Step Frames
+58635,Gabriela,Papaminas,gpapaminas54@pinterest.com,Mater Hospital,E-Bike,1.9,basic member,debit card,Email,Online Advertisements,Frequent,Adaptive Bikes
+45132,Britta,Jarville,bjarville55@sakura.ne.jp,Princes Street / O'Connell Street,Traditional,1.1,basic member,debit card,SMS,Social Media,Commuters,Audio Guides
+28505,Sonny,Burnet,sburnet56@apple.com,North Circular Road (O'Connell's),E-Bike,1.4,basic member,cash,SMS,Social Media,Frequent,Adaptive Bikes
+20054,Chrisse,Doche,cdoche57@yellowpages.com,Ormond Quay Upper,Traditional,1.4,premium member,credit card,Phone Calls,Online Advertisements,Tourists,Audio Guides
+82591,Noelani,Ream,nream58@mlb.com,Merrion Square South,Traditional,3.8,basic member,payment wallets,Postal Mail,Online Advertisements,Occasional,None
+95802,Tomkin,Angeli,tangeli59@china.com.cn,Earlsfort Terrace,E-Bike,1.8,basic member,payment wallets,SMS,Search Engine,Fitness Enthusiasts,None
+65751,Leighton,Rahl,lrahl5a@flavors.me,Mountjoy Square East,E-Bike,2.5,basic member,pay pal,Email,Word-of-Mouth,Seasonal,Sign Language Interpretation
+93002,Falito,Feuell,ffeuell5b@adobe.com,James Street,E-Bike,1.5,premium member,debit card,Postal Mail,Word-of-Mouth,Seasonal,Sign Language Interpretation
+48406,Drucie,Dollen,ddollen5c@merriam-webster.com,Emmet Road,Traditional,2.8,basic member,credit card,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Sign Language Interpretation
+87886,Meridith,McLurg,mmclurg5d@github.com,York Street West,Traditional,2.2,premium member,payment wallets,App Notification,Word-of-Mouth,Occasional,Audio Guides
+23780,Kristofer,Rosenauer,krosenauer5e@shareasale.com,Clonmel Street,E-Bike,2.8,basic member,credit card,App Notification,Email Marketing Campaigns,Occasional,Low-Step Frames
+94432,Elnore,Idale,eidale5f@nature.com,James Street East,Traditional,1.4,premium member,pay pal,Email,Social Media,Tourists,Audio Guides
+78910,Adriana,Mosdill,amosdill5g@imdb.com,Grangegorman Lower (South),Traditional,3.6,premium member,credit card,Postal Mail,Other,Frequent,Sign Language Interpretation
+13559,Vicky,Selborne,vselborne5h@eventbrite.com,Heuston Bridge (North),Traditional,2.0,basic member,cash,Postal Mail,Online Advertisements,Occasional,Low-Step Frames
+89353,Bradly,Goreway,bgoreway5i@google.com,Hatch Street,Traditional,2.3,premium member,cash,SMS,Social Media,Fitness Enthusiasts,Audio Guides
+18208,Alika,McVitty,amcvitty5j@fda.gov,John Street West,E-Bike,3.5,basic member,pay pal,SMS,Online Advertisements,Tourists,None
+46393,Nealon,Haggish,nhaggish5k@stumbleupon.com,Mount Street Lower,E-Bike,3.8,premium member,debit card,App Notification,Online Advertisements,Regular,Low-Step Frames
+63022,Ingunna,Stonary,istonary5l@weather.com,Golden Lane,Traditional,1.2,premium member,credit card,Phone Calls,Word-of-Mouth,Seasonal,Adaptive Bikes
+75850,Andre,Gopsell,agopsell5m@over-blog.com,Georges Quay,E-Bike,3.3,premium member,direct deposit,Postal Mail,Search Engine,Tourists,Low-Step Frames
+12819,Georges,Sproson,gsproson5n@earthlink.net,Wilton Terrace,Traditional,1.6,basic member,pay pal,Phone Calls,Word-of-Mouth,Seasonal,Audio Guides
+74855,Barty,Inglis,binglis5o@example.com,Greek Street,E-Bike,3.1,premium member,credit card,Email,Print Media,Regular,Sign Language Interpretation
+42909,Valina,Halgarth,vhalgarth5p@upenn.edu,Merrion Square West,Traditional,1.8,basic member,payment wallets,Postal Mail,Online Advertisements,Fitness Enthusiasts,None
+51226,Kearney,Blaxton,kblaxton5q@over-blog.com,Cathal Brugha Street,E-Bike,2.3,basic member,apple pay,Phone Calls,Other,Frequent,None
+27141,Moreen,Uzielli,muzielli5r@google.cn,Fitzwilliam Square East,E-Bike,3.6,basic member,cash,SMS,Social Media,Occasional,Sign Language Interpretation
+82132,Hortense,Helkin,hhelkin5s@paginegialle.it,The Point,Traditional,1.8,basic member,cash,App Notification,Search Engine,Seasonal,Audio Guides
+13313,Bevon,Blann,bblann5t@drupal.org,Hardwicke Street,Traditional,3.0,basic member,pay pal,Postal Mail,Social Media,Frequent,None
+16988,Marleen,Zettoi,mzettoi5u@dion.ne.jp,Exchequer Street,E-Bike,3.3,basic member,cash,Postal Mail,Online Advertisements,Fitness Enthusiasts,None
+71359,Armand,Jentle,ajentle5v@mozilla.com,York Street East,Traditional,1.2,premium member,pay pal,Postal Mail,Other,Frequent,None
+76701,Jase,Baybutt,jbaybutt5w@barnesandnoble.com,Eccles Street East,E-Bike,3.6,premium member,pay pal,Email,Email Marketing Campaigns,Commuters,None
+54889,Trev,Grayham,tgrayham5x@berkeley.edu,St. Stephen's Green South,Traditional,1.3,premium member,direct deposit,Email,Print Media,Commuters,Audio Guides
+45415,Nisse,Barby,nbarby5y@hubpages.com,Clarendon Row,E-Bike,2.7,basic member,apple pay,Email,Other,Seasonal,None
+22568,Aubert,Van der Son,avanderson5z@cornell.edu,Christchurch Place,E-Bike,1.6,premium member,payment wallets,Postal Mail,Other,Frequent,None
+95685,Hillier,Balogun,hbalogun60@deliciousdays.com,Fitzwilliam Square East,E-Bike,1.7,basic member,payment wallets,Email,Search Engine,Regular,Audio Guides
+92621,Rorie,Armer,rarmer61@liveinternet.ru,Pearse Street,E-Bike,1.2,basic member,payment wallets,Phone Calls,Social Media,Seasonal,Sign Language Interpretation
+81083,Stephani,McLinden,smclinden62@unc.edu,Wilton Terrace,Traditional,2.3,premium member,payment wallets,Postal Mail,Online Advertisements,Regular,Audio Guides
+15992,Gwenore,Dawid,gdawid63@dell.com,Brookfield Road,Traditional,2.9,premium member,payment wallets,Email,Other,Regular,None
+89997,Morris,Neeson,mneeson64@comcast.net,Clonmel Street,E-Bike,2.4,premium member,direct deposit,SMS,Online Advertisements,Frequent,None
+88790,Cam,Cancellor,ccancellor65@digg.com,York Street East,E-Bike,3.7,basic member,apple pay,Postal Mail,Email Marketing Campaigns,Commuters,Low-Step Frames
+12262,Hendrick,Chadwin,hchadwin66@trellian.com,Hanover Quay,E-Bike,1.9,premium member,cash,Email,Word-of-Mouth,Frequent,None
+63056,Norton,Larrie,nlarrie67@salon.com,New Central Bank,E-Bike,2.7,premium member,apple pay,Email,Word-of-Mouth,Regular,Adaptive Bikes
+85451,Bret,Braizier,bbraizier68@e-recht24.de,Wolfe Tone Street,Traditional,2.5,basic member,payment wallets,Postal Mail,Email Marketing Campaigns,Fitness Enthusiasts,Audio Guides
+88914,Becka,Berzin,bberzin69@globo.com,Brookfield Road,Traditional,1.4,basic member,direct deposit,SMS,Social Media,Seasonal,Low-Step Frames
+47730,Madelle,Marflitt,mmarflitt6a@gizmodo.com,Grangegorman Lower (Central),E-Bike,3.1,basic member,payment wallets,Email,Other,Regular,Audio Guides
+84910,Iolanthe,Demageard,idemageard6b@marriott.com,South Dock Road,Traditional,2.7,basic member,credit card,Postal Mail,Other,Fitness Enthusiasts,Adaptive Bikes
+19212,Symon,Congram,scongram6c@yahoo.com,St. Stephen's Green South,Traditional,1.9,premium member,pay pal,App Notification,Search Engine,Seasonal,Audio Guides
+69648,Halimeda,Kenlin,hkenlin6d@unc.edu,Smithfield,Traditional,1.1,basic member,cash,Postal Mail,Other,Commuters,None
+95552,Bryna,Kaines,bkaines6e@artisteer.com,Kilmainham Lane,E-Bike,2.1,premium member,debit card,Postal Mail,Online Advertisements,Regular,Audio Guides
+17333,Arte,Ockleshaw,aockleshaw6f@berkeley.edu,Cathal Brugha Street,E-Bike,1.6,basic member,apple pay,Phone Calls,Online Advertisements,Seasonal,Low-Step Frames
+50518,Rolf,Bedson,rbedson6g@bloglovin.com,Kilmainham Lane,E-Bike,3.7,premium member,credit card,App Notification,Social Media,Fitness Enthusiasts,None
+75957,Romonda,Ridler,rridler6h@eepurl.com,Parnell Street,E-Bike,1.5,premium member,apple pay,Email,Search Engine,Regular,Sign Language Interpretation
+58884,Bennie,Kneel,bkneel6i@creativecommons.org,Mater Hospital,E-Bike,2.9,premium member,credit card,SMS,Search Engine,Fitness Enthusiasts,Audio Guides
+18238,Ermin,Kiossel,ekiossel6j@imdb.com,South Dock Road,E-Bike,2.3,premium member,credit card,Postal Mail,Other,Commuters,Sign Language Interpretation
+12796,Isahella,Ximenez,iximenez6k@cocolog-nifty.com,Greek Street,E-Bike,2.6,basic member,apple pay,Email,Search Engine,Regular,Audio Guides
+92739,Felix,Johnson,fjohnson6l@businessinsider.com,Market Street South,E-Bike,3.3,premium member,credit card,SMS,Print Media,Seasonal,None
+52146,Shaine,Vogeler,svogeler6m@microsoft.com,Portobello Road,Traditional,3.3,premium member,pay pal,Postal Mail,Social Media,Seasonal,Low-Step Frames
+92327,Gus,Domegan,gdomegan6n@cdbaby.com,Mount Brown,Traditional,2.8,premium member,direct deposit,SMS,Word-of-Mouth,Commuters,Audio Guides
+64284,Lin,Glanz,lglanz6o@ucoz.ru,City Quay,Traditional,3.4,basic member,direct deposit,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+94972,Carmelle,Dudleston,cdudleston6p@nydailynews.com,Convention Centre,E-Bike,3.8,basic member,cash,App Notification,Online Advertisements,Regular,Adaptive Bikes
+58817,Eugine,Stainton,estainton6q@merriam-webster.com,Custom House,E-Bike,2.3,premium member,cash,Postal Mail,Social Media,Seasonal,Sign Language Interpretation
+76510,Dennie,D'Ambrosi,ddambrosi6r@desdev.cn,Buckingham Street Lower,Traditional,1.5,premium member,payment wallets,SMS,Print Media,Fitness Enthusiasts,Adaptive Bikes
+17246,Kasey,Stenson,kstenson6s@hubpages.com,Heuston Bridge (North),E-Bike,2.4,basic member,pay pal,App Notification,Search Engine,Seasonal,Low-Step Frames
+15297,Conney,Povall,cpovall6t@freewebs.com,York Street East,E-Bike,1.0,premium member,cash,Email,Social Media,Seasonal,Sign Language Interpretation
+48218,Wake,Bridson,wbridson6u@stumbleupon.com,Earlsfort Terrace,Traditional,1.3,basic member,cash,App Notification,Social Media,Commuters,Sign Language Interpretation
+10340,Flossy,Oneill,foneill6v@bbc.co.uk,Clonmel Street,Traditional,1.4,premium member,payment wallets,Email,Online Advertisements,Occasional,Audio Guides
+11927,Danica,Burchatt,dburchatt6w@spotify.com,Greek Street,Traditional,2.5,basic member,payment wallets,SMS,Other,Fitness Enthusiasts,None
+87258,Tedd,Bygate,tbygate6x@odnoklassniki.ru,Fitzwilliam Square East,E-Bike,1.1,premium member,debit card,App Notification,Other,Tourists,None
+26776,Margi,Goodere,mgoodere6y@creativecommons.org,George's Lane,E-Bike,1.6,premium member,debit card,Postal Mail,Online Advertisements,Seasonal,Audio Guides
+79566,Martino,Kealy,mkealy6z@qq.com,James Street,E-Bike,2.2,basic member,direct deposit,Email,Email Marketing Campaigns,Frequent,Audio Guides
+96671,Faythe,Goldingay,fgoldingay70@google.es,North Circular Road (O'Connell's),E-Bike,1.5,premium member,apple pay,Email,Online Advertisements,Tourists,Sign Language Interpretation
+81044,Neysa,Kirkham,nkirkham71@java.com,North Circular Road,Traditional,2.4,basic member,debit card,SMS,Online Advertisements,Regular,None
+30516,Isidoro,Saylor,isaylor72@usa.gov,Eccles Street East,Traditional,2.7,basic member,credit card,Phone Calls,Search Engine,Regular,None
+39593,Nevil,Devey,ndevey73@hibu.com,The Point,Traditional,2.5,premium member,credit card,SMS,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+41315,Adriane,Poulsum,apoulsum74@admin.ch,Talbot Street,Traditional,1.9,basic member,apple pay,Email,Other,Seasonal,Adaptive Bikes
+63399,Davin,Bissill,dbissill75@youku.com,Jervis Street,Traditional,2.4,basic member,apple pay,App Notification,Print Media,Fitness Enthusiasts,Adaptive Bikes
+79278,Aurilia,MacKenney,amackenney76@hhs.gov,Grangegorman Lower (South),E-Bike,2.1,premium member,payment wallets,App Notification,Social Media,Commuters,Audio Guides
+81670,Hyacinthe,Topham,htopham77@issuu.com,Wolfe Tone Street,E-Bike,4.0,basic member,direct deposit,Phone Calls,Word-of-Mouth,Occasional,Sign Language Interpretation
+72563,Jourdan,Noel,jnoel78@scribd.com,Blackhall Place,E-Bike,1.6,premium member,payment wallets,Email,Social Media,Regular,Sign Language Interpretation
+26354,Louella,Pedrick,lpedrick79@plala.or.jp,Molesworth Street,E-Bike,2.3,basic member,direct deposit,Postal Mail,Email Marketing Campaigns,Seasonal,Audio Guides
+80741,Erena,Fehner,efehner7a@gravatar.com,Blackhall Place,Traditional,3.9,premium member,apple pay,Phone Calls,Email Marketing Campaigns,Commuters,Sign Language Interpretation
+25877,Clarissa,MacNeil,cmacneil7b@latimes.com,Dame Street,Traditional,2.7,premium member,direct deposit,Phone Calls,Word-of-Mouth,Seasonal,Audio Guides
+71175,Tannie,Fahy,tfahy7c@ameblo.jp,South Dock Road,E-Bike,3.2,basic member,debit card,Postal Mail,Email Marketing Campaigns,Seasonal,Sign Language Interpretation
+47755,Ancell,Warlawe,awarlawe7d@intel.com,Georges Quay,Traditional,2.7,premium member,apple pay,App Notification,Search Engine,Frequent,Sign Language Interpretation
+66567,Dannel,Castelluzzi,dcastelluzzi7e@va.gov,Denmark Street Great,E-Bike,3.8,premium member,debit card,Email,Online Advertisements,Tourists,None
+98004,Chariot,Scowcroft,cscowcroft7f@bbb.org,Merrion Square East,Traditional,2.3,premium member,payment wallets,Postal Mail,Other,Occasional,Audio Guides
+60145,Jolee,Bert,jbert7g@bizjournals.com,Newman House,E-Bike,3.8,premium member,credit card,Email,Email Marketing Campaigns,Seasonal,None
+54969,Ronnie,Swaysland,rswaysland7h@whitehouse.gov,Blessington Street,E-Bike,1.7,basic member,apple pay,Postal Mail,Online Advertisements,Fitness Enthusiasts,Adaptive Bikes
+98507,Bernetta,Sabben,bsabben7i@hatena.ne.jp,Hatch Street,E-Bike,2.3,premium member,apple pay,Email,Email Marketing Campaigns,Commuters,None
+78798,Miquela,McKinstry,mmckinstry7j@earthlink.net,Wilton Terrace,E-Bike,3.3,basic member,cash,App Notification,Social Media,Regular,Adaptive Bikes
+80453,Gui,McCutcheon,gmccutcheon7k@time.com,Charlemont Street,E-Bike,3.2,premium member,debit card,App Notification,Word-of-Mouth,Tourists,None
+65060,Alfonso,Saker,asaker7l@mayoclinic.com,Kevin Street,Traditional,2.6,basic member,debit card,Email,Word-of-Mouth,Frequent,Audio Guides
+81500,Jessica,Ronayne,jronayne7m@meetup.com,North Circular Road (O'Connell's),E-Bike,3.0,basic member,credit card,App Notification,Word-of-Mouth,Frequent,Audio Guides
+26935,Minta,Thynne,mthynne7n@fc2.com,Townsend Street,Traditional,1.6,premium member,cash,SMS,Online Advertisements,Seasonal,Audio Guides
+60063,Mireille,Gentle,mgentle7o@trellian.com,Western Way,Traditional,1.3,premium member,apple pay,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Adaptive Bikes
+88135,Anthe,MacMarcuis,amacmarcuis7p@cnet.com,King Street North,E-Bike,1.8,basic member,cash,Email,Social Media,Tourists,Audio Guides
+96236,Isak,Lambol,ilambol7q@jigsy.com,Western Way,Traditional,2.0,basic member,credit card,Email,Other,Frequent,Audio Guides
+21754,Noe,Enion,nenion7r@arizona.edu,Townsend Street,E-Bike,1.3,premium member,pay pal,Email,Online Advertisements,Seasonal,None
+63277,Taddeo,Vanyard,tvanyard7s@so-net.ne.jp,Dame Street,Traditional,1.8,basic member,apple pay,Phone Calls,Other,Commuters,Adaptive Bikes
+98679,Nathan,Cawcutt,ncawcutt7t@uiuc.edu,Wilton Terrace,Traditional,1.3,premium member,cash,Email,Print Media,Frequent,Adaptive Bikes
+83600,Kelbee,Capinetti,kcapinetti7u@over-blog.com,Wilton Terrace (Park),E-Bike,1.3,premium member,payment wallets,App Notification,Online Advertisements,Tourists,Adaptive Bikes
+91833,Salomone,Anelay,sanelay7v@google.co.jp,George's Lane,Traditional,3.0,basic member,payment wallets,Email,Email Marketing Campaigns,Regular,Adaptive Bikes
+17068,Cristi,Twinborne,ctwinborne7w@jalbum.net,Emmet Road,Traditional,3.7,basic member,cash,SMS,Email Marketing Campaigns,Regular,Low-Step Frames
+84584,Callie,Emmott,cemmott7x@infoseek.co.jp,Grand Canal Dock,Traditional,3.6,basic member,apple pay,Postal Mail,Search Engine,Tourists,Audio Guides
+20304,Jakie,Yoodall,jyoodall7y@guardian.co.uk,Herbert Street,Traditional,1.6,basic member,apple pay,Email,Search Engine,Fitness Enthusiasts,None
+30871,Tammy,Dorcey,tdorcey7z@reddit.com,St. Stephen's Green South,E-Bike,3.3,basic member,cash,Phone Calls,Print Media,Seasonal,None
+47970,Pasquale,Pendleberry,ppendleberry80@reuters.com,St. Stephen's Green East,E-Bike,2.7,premium member,credit card,Postal Mail,Online Advertisements,Regular,Adaptive Bikes
+56137,Hervey,Utterson,hutterson81@prlog.org,Princes Street / O'Connell Street,Traditional,1.6,basic member,payment wallets,Postal Mail,Social Media,Tourists,Adaptive Bikes
+34026,Arlen,Gallant,agallant82@purevolume.com,Heuston Bridge (South),Traditional,1.3,basic member,debit card,Email,Social Media,Occasional,Audio Guides
+57946,Forrester,Van den Oord,fvandenoord83@taobao.com,Clarendon Row,Traditional,3.0,basic member,apple pay,Postal Mail,Other,Regular,Audio Guides
+77616,Corrina,Shaxby,cshaxby84@ed.gov,Heuston Bridge (North),E-Bike,2.7,basic member,cash,App Notification,Print Media,Tourists,Adaptive Bikes
+18629,Moyra,Maken,mmaken85@cam.ac.uk,Lime Street,Traditional,1.5,premium member,apple pay,Email,Word-of-Mouth,Frequent,Sign Language Interpretation
+75723,Markus,Gallardo,mgallardo86@engadget.com,John Street West,E-Bike,2.4,premium member,direct deposit,Postal Mail,Other,Frequent,Adaptive Bikes
+69687,Jeralee,Dunning,jdunning87@technorati.com,Eccles Street,E-Bike,2.9,premium member,direct deposit,Postal Mail,Email Marketing Campaigns,Occasional,Low-Step Frames
+14544,Dannie,Fasse,dfasse88@elegantthemes.com,The Point,E-Bike,1.5,basic member,debit card,App Notification,Online Advertisements,Seasonal,Audio Guides
+81279,Darline,Fowlestone,dfowlestone89@yolasite.com,Smithfield,Traditional,3.8,basic member,apple pay,Phone Calls,Social Media,Seasonal,Audio Guides
+77920,Roselin,Shanahan,rshanahan8a@amazon.co.jp,Deverell Place,E-Bike,2.1,basic member,debit card,Email,Email Marketing Campaigns,Fitness Enthusiasts,Sign Language Interpretation
+95943,Jasen,Siddele,jsiddele8b@typepad.com,George's Lane,E-Bike,3.2,basic member,payment wallets,Postal Mail,Other,Commuters,Low-Step Frames
+42813,Audrye,Jannasch,ajannasch8c@altervista.org,Fenian Street,E-Bike,2.2,premium member,cash,Phone Calls,Print Media,Tourists,None
+78782,Kenn,Wardlaw,kwardlaw8d@aol.com,Wolfe Tone Street,Traditional,2.0,basic member,debit card,Phone Calls,Social Media,Frequent,Sign Language Interpretation
+61157,Juliana,Goodburn,jgoodburn8e@domainmarket.com,James Street East,Traditional,2.7,basic member,apple pay,Email,Word-of-Mouth,Seasonal,None
+19930,Mariejeanne,Noor,mnoor8f@tamu.edu,Smithfield,Traditional,3.7,basic member,debit card,Postal Mail,Social Media,Commuters,Audio Guides
+78422,Kilian,Bunstone,kbunstone8g@tuttocitta.it,Phibsborough Road,Traditional,1.7,basic member,debit card,App Notification,Social Media,Tourists,Sign Language Interpretation
+74688,Odessa,Garbar,ogarbar8h@nyu.edu,Eccles Street,E-Bike,2.5,premium member,credit card,Email,Social Media,Occasional,Adaptive Bikes
+40099,Alecia,Cordon,acordon8i@dmoz.org,Kilmainham Gaol,Traditional,3.8,basic member,credit card,Email,Print Media,Tourists,Audio Guides
+58902,Paige,Bloom,pbloom8j@chicagotribune.com,Townsend Street,Traditional,3.6,premium member,cash,Phone Calls,Word-of-Mouth,Seasonal,Low-Step Frames
+53661,Marna,Jaye,mjaye8k@edublogs.org,Parnell Street,Traditional,3.2,premium member,pay pal,Phone Calls,Print Media,Fitness Enthusiasts,Adaptive Bikes
+74797,Madella,Kornyshev,mkornyshev8l@google.co.uk,Townsend Street,E-Bike,3.7,premium member,pay pal,Postal Mail,Search Engine,Tourists,Sign Language Interpretation
+92337,Ase,Huggett,ahuggett8m@printfriendly.com,Dame Street,Traditional,3.9,premium member,payment wallets,Email,Word-of-Mouth,Commuters,None
+66102,Lorilyn,Domenichelli,ldomenichelli8n@yelp.com,Christchurch Place,Traditional,2.9,premium member,direct deposit,SMS,Online Advertisements,Commuters,Adaptive Bikes
+80325,Blancha,Ferrey,bferrey8o@umn.edu,Wilton Terrace (Park),E-Bike,2.5,basic member,apple pay,Phone Calls,Other,Fitness Enthusiasts,Adaptive Bikes
+15102,Robb,Trout,rtrout8p@hatena.ne.jp,South Dock Road,E-Bike,3.8,basic member,credit card,Email,Other,Frequent,None
+61871,Stefanie,Diemer,sdiemer8q@nytimes.com,Golden Lane,E-Bike,4.0,basic member,debit card,App Notification,Print Media,Frequent,Sign Language Interpretation
+98872,Alwyn,Le - Count,alecount8r@liveinternet.ru,Oliver Bond Street,E-Bike,1.8,premium member,payment wallets,Email,Print Media,Regular,None
+93294,Shalne,Saurat,ssaurat8s@samsung.com,Hatch Street,Traditional,2.5,premium member,credit card,SMS,Print Media,Fitness Enthusiasts,Adaptive Bikes
+12431,Petrina,Vittery,pvittery8t@prweb.com,High Street,Traditional,1.6,basic member,apple pay,App Notification,Online Advertisements,Fitness Enthusiasts,Sign Language Interpretation
+72674,Jade,Pamplin,jpamplin8u@google.ru,Clonmel Street,Traditional,3.8,basic member,payment wallets,Postal Mail,Social Media,Frequent,Sign Language Interpretation
+53129,Rudd,Demicoli,rdemicoli8v@prlog.org,Grand Canal Dock,Traditional,2.1,basic member,credit card,Phone Calls,Social Media,Commuters,Adaptive Bikes
+41711,Falito,Marmion,fmarmion8w@ustream.tv,Heuston Station (Car Park),Traditional,2.7,premium member,cash,Email,Email Marketing Campaigns,Tourists,Adaptive Bikes
+70780,Osbourne,Hiddy,ohiddy8x@deliciousdays.com,York Street East,E-Bike,1.2,basic member,cash,Phone Calls,Search Engine,Fitness Enthusiasts,Sign Language Interpretation
+36404,Knox,Tobias,ktobias8y@abc.net.au,Mount Street Lower,Traditional,1.7,basic member,pay pal,Phone Calls,Search Engine,Frequent,Low-Step Frames
+64034,Hatti,Bridge,hbridge8z@skype.com,Clarendon Row,Traditional,2.0,basic member,direct deposit,Phone Calls,Search Engine,Commuters,Audio Guides
+39533,Deloris,Braithwaite,dbraithwaite90@bing.com,Upper Sherrard Street,Traditional,1.2,basic member,apple pay,App Notification,Search Engine,Frequent,Low-Step Frames
+62879,Mae,Issacson,missacson91@tuttocitta.it,Herbert Street,E-Bike,3.5,basic member,apple pay,Email,Other,Frequent,None
+95322,Lyndsey,Newland,lnewland92@amazon.co.uk,Smithfield North,E-Bike,3.1,basic member,cash,SMS,Word-of-Mouth,Occasional,None
+55880,Nady,Masse,nmasse93@foxnews.com,Heuston Station (Central),Traditional,3.0,premium member,payment wallets,SMS,Print Media,Tourists,Sign Language Interpretation
+51365,Leonore,Dimnage,ldimnage94@archive.org,Deverell Place,E-Bike,1.0,premium member,debit card,Postal Mail,Online Advertisements,Seasonal,Sign Language Interpretation
+28860,Milty,Cuerda,mcuerda95@irs.gov,City Quay,Traditional,1.7,basic member,cash,Phone Calls,Word-of-Mouth,Tourists,Low-Step Frames
+35211,Cloris,Leys,cleys96@wikispaces.com,Oliver Bond Street,E-Bike,3.9,premium member,cash,SMS,Search Engine,Fitness Enthusiasts,Low-Step Frames
+63116,Abel,Seymer,aseymer97@google.de,Custom House Quay,E-Bike,3.6,basic member,apple pay,Email,Search Engine,Commuters,Sign Language Interpretation
+50013,Roselle,Corbridge,rcorbridge98@umn.edu,Collins Barracks Museum,Traditional,1.2,premium member,credit card,App Notification,Print Media,Regular,Low-Step Frames
+11689,Pauletta,Ballance,pballance99@webs.com,Hanover Quay East,E-Bike,3.9,premium member,direct deposit,Postal Mail,Online Advertisements,Regular,None
+79952,Kareem,Vobes,kvobes9a@furl.net,Exchequer Street,E-Bike,1.5,premium member,debit card,Phone Calls,Email Marketing Campaigns,Regular,Low-Step Frames
+78656,Milli,Enderson,menderson9b@yellowpages.com,Hardwicke Place,E-Bike,3.3,basic member,direct deposit,Postal Mail,Other,Regular,Audio Guides
+78180,Sarene,Krysztofowicz,skrysztofowicz9c@myspace.com,High Street,E-Bike,3.5,premium member,direct deposit,App Notification,Search Engine,Frequent,Adaptive Bikes
+51784,Malia,Atyeo,matyeo9d@symantec.com,Eccles Street East,E-Bike,1.9,premium member,payment wallets,App Notification,Other,Seasonal,Adaptive Bikes
+64793,Leonerd,Loody,lloody9e@psu.edu,Sandwith Street,Traditional,3.6,basic member,cash,Postal Mail,Other,Occasional,Sign Language Interpretation
+48669,Sydney,Krzysztof,skrzysztof9f@merriam-webster.com,Clonmel Street,Traditional,2.6,basic member,payment wallets,Email,Social Media,Regular,Adaptive Bikes
+64752,Jenelle,Uppett,juppett9g@1und1.de,Avondale Road,Traditional,1.7,premium member,direct deposit,Phone Calls,Word-of-Mouth,Tourists,Adaptive Bikes
+66819,Dodie,McCullen,dmccullen9h@about.me,Clonmel Street,E-Bike,3.4,premium member,apple pay,Email,Online Advertisements,Seasonal,Adaptive Bikes
+61824,Hoyt,Wheadon,hwheadon9i@answers.com,Parnell Street,Traditional,2.1,premium member,payment wallets,Phone Calls,Print Media,Commuters,Adaptive Bikes
+62954,Aggie,Dursley,adursley9j@usa.gov,Parnell Street,Traditional,3.8,premium member,credit card,Postal Mail,Other,Tourists,Adaptive Bikes
+52334,Mary,Pharoah,mpharoah9k@prlog.org,Herbert Place,E-Bike,3.1,basic member,credit card,SMS,Online Advertisements,Fitness Enthusiasts,Audio Guides
+27155,Karlee,Michelet,kmichelet9l@comsenz.com,Christchurch Place,E-Bike,3.9,basic member,debit card,Email,Search Engine,Regular,Adaptive Bikes
+21620,Amata,Carsberg,acarsberg9m@economist.com,Sir Patrick's Dun,Traditional,3.4,premium member,credit card,Phone Calls,Print Media,Occasional,Audio Guides
+22614,Barnaby,Danielut,bdanielut9n@google.fr,Parkgate Street,Traditional,3.0,premium member,debit card,Postal Mail,Social Media,Occasional,Audio Guides
+88759,Keely,Lewry,klewry9o@noaa.gov,Bolton Street,E-Bike,2.1,premium member,debit card,Phone Calls,Other,Commuters,Low-Step Frames
+12720,Virgil,Miche,vmiche9p@behance.net,Charlemont Street,E-Bike,3.2,premium member,credit card,Phone Calls,Print Media,Fitness Enthusiasts,Audio Guides
+75978,Carilyn,Larrington,clarrington9q@zdnet.com,Grangegorman Lower (South),E-Bike,1.7,basic member,credit card,SMS,Social Media,Frequent,Sign Language Interpretation
+38019,Maxy,Edgeley,medgeley9r@alibaba.com,The Point,Traditional,1.3,basic member,credit card,App Notification,Social Media,Occasional,None
+12859,Emmaline,Rivelon,erivelon9s@ca.gov,Mater Hospital,E-Bike,1.1,basic member,direct deposit,Email,Online Advertisements,Commuters,Audio Guides
+53849,Erv,Hasloch,ehasloch9t@opera.com,Ormond Quay Upper,E-Bike,1.7,premium member,cash,Phone Calls,Print Media,Fitness Enthusiasts,None
+89847,Cordie,Treske,ctreske9u@dedecms.com,Pearse Street,E-Bike,1.6,premium member,credit card,Postal Mail,Word-of-Mouth,Occasional,Audio Guides
+33288,Aguistin,Batt,abatt9v@1688.com,Hanover Quay East,Traditional,3.8,premium member,pay pal,App Notification,Other,Tourists,Sign Language Interpretation
+62327,Dougy,Exrol,dexrol9w@drupal.org,Merrion Square West,Traditional,2.1,premium member,payment wallets,SMS,Social Media,Tourists,Audio Guides
+44613,Trudi,Withur,twithur9x@webs.com,Denmark Street Great,E-Bike,2.4,premium member,credit card,App Notification,Other,Tourists,Low-Step Frames
+62412,Ludvig,Mudge,lmudge9y@adobe.com,Cathal Brugha Street,Traditional,3.2,premium member,pay pal,Email,Social Media,Tourists,Audio Guides
+11671,Sunny,Courtois,scourtois9z@bloglovin.com,North Circular Road (O'Connell's),E-Bike,1.5,basic member,debit card,Postal Mail,Social Media,Fitness Enthusiasts,Sign Language Interpretation
+64267,Karoly,Fedder,kfeddera0@squarespace.com,Harcourt Terrace,E-Bike,1.2,premium member,debit card,Postal Mail,Social Media,Occasional,Low-Step Frames
+76863,Tiler,Bottom,tbottoma1@taobao.com,Upper Sherrard Street,E-Bike,3.4,premium member,apple pay,Phone Calls,Email Marketing Campaigns,Commuters,Audio Guides
+89638,Kimball,Acton,kactona2@nhs.uk,Denmark Street Great,E-Bike,2.3,basic member,payment wallets,App Notification,Email Marketing Campaigns,Seasonal,Adaptive Bikes
+57298,Bev,Knappen,bknappena3@cloudflare.com,Phibsborough Road,E-Bike,2.1,basic member,pay pal,Postal Mail,Word-of-Mouth,Regular,None
+63449,Melly,Victoria,mvictoriaa4@wikipedia.org,Frederick Street South,Traditional,2.6,basic member,pay pal,SMS,Other,Occasional,Adaptive Bikes
+61684,Marne,Rickaby,mrickabya5@sciencedirect.com,Convention Centre,E-Bike,2.5,basic member,payment wallets,SMS,Social Media,Occasional,Low-Step Frames
+48202,Rudolf,Vanyushin,rvanyushina6@meetup.com,New Central Bank,E-Bike,3.1,premium member,apple pay,SMS,Search Engine,Regular,Audio Guides
+67658,Candice,Peniman,cpenimana7@businessinsider.com,The Point,Traditional,3.6,premium member,direct deposit,Phone Calls,Email Marketing Campaigns,Tourists,Adaptive Bikes
+42050,Lu,Seeking,lseekinga8@mlb.com,Smithfield,E-Bike,2.8,premium member,debit card,Email,Search Engine,Frequent,Sign Language Interpretation
+38061,Gabriellia,Bellward,gbellwarda9@imdb.com,North Circular Road (O'Connell's),Traditional,1.4,basic member,debit card,SMS,Search Engine,Fitness Enthusiasts,Audio Guides
+21736,Grier,Korneev,gkorneevaa@cdc.gov,Herbert Street,Traditional,1.6,basic member,direct deposit,SMS,Online Advertisements,Commuters,Adaptive Bikes
+41952,Blinni,MacCleod,bmaccleodab@zimbio.com,Portobello Road,Traditional,1.2,basic member,pay pal,App Notification,Word-of-Mouth,Tourists,Sign Language Interpretation
+83719,Daphne,Broomfield,dbroomfieldac@xinhuanet.com,Jervis Street,Traditional,3.4,premium member,credit card,Phone Calls,Word-of-Mouth,Occasional,Low-Step Frames
+47853,Kacey,Matthias,kmatthiasad@woothemes.com,Wilton Terrace,E-Bike,2.5,basic member,payment wallets,Email,Social Media,Regular,Sign Language Interpretation
+43137,Doralia,Ziehm,dziehmae@narod.ru,Blessington Street,Traditional,2.3,basic member,apple pay,Postal Mail,Search Engine,Frequent,Low-Step Frames
+17723,Traver,Koene,tkoeneaf@soundcloud.com,Royal Hospital,E-Bike,2.8,premium member,pay pal,Phone Calls,Other,Regular,Audio Guides
+40289,Diahann,Penvarne,dpenvarneag@google.de,North Circular Road,E-Bike,1.7,premium member,debit card,SMS,Other,Frequent,Low-Step Frames
+49872,Katina,Ruffell,kruffellah@photobucket.com,Merrion Square East,Traditional,1.9,premium member,apple pay,Phone Calls,Online Advertisements,Commuters,Low-Step Frames
+69299,Isaiah,Reiling,ireilingai@behance.net,York Street East,E-Bike,2.0,premium member,apple pay,App Notification,Social Media,Occasional,Sign Language Interpretation
+74617,Matteo,Egdal,megdalaj@bigcartel.com,King Street North,Traditional,2.5,premium member,apple pay,App Notification,Other,Seasonal,Audio Guides
+69748,Jo-anne,Hensmans,jhensmansak@cdc.gov,Phibsborough Road,E-Bike,3.6,basic member,direct deposit,Email,Other,Commuters,Low-Step Frames
+97694,Morse,Lineker,mlinekeral@theguardian.com,Rathdown Road,Traditional,2.8,basic member,apple pay,App Notification,Online Advertisements,Seasonal,None
+84617,Erwin,MacLeod,emacleodam@examiner.com,Kilmainham Lane,E-Bike,1.4,basic member,apple pay,Email,Social Media,Fitness Enthusiasts,Adaptive Bikes
+82011,Sigrid,Hadcock,shadcockan@wikia.com,Custom House Quay,E-Bike,3.5,basic member,payment wallets,App Notification,Email Marketing Campaigns,Regular,Adaptive Bikes
+21441,Lynne,Rickis,lrickisao@i2i.jp,Blackhall Place,Traditional,2.1,basic member,payment wallets,Email,Search Engine,Frequent,Low-Step Frames
+72581,Aguistin,Blowne,ablowneap@gravatar.com,Excise Walk,Traditional,1.3,premium member,debit card,Phone Calls,Search Engine,Seasonal,Low-Step Frames
+66123,Conni,Rhule,crhuleaq@noaa.gov,Fitzwilliam Square West,Traditional,1.8,premium member,apple pay,Postal Mail,Word-of-Mouth,Regular,Sign Language Interpretation
+45437,Alvis,Croy,acroyar@loc.gov,Hardwicke Street,E-Bike,3.6,basic member,cash,Email,Social Media,Commuters,Low-Step Frames
+43722,Benedikt,Bucky,bbuckyas@tmall.com,Frederick Street South,Traditional,2.0,premium member,cash,App Notification,Other,Occasional,Adaptive Bikes
+30341,Margarethe,Pocklington,mpocklingtonat@shareasale.com,Harcourt Terrace,Traditional,2.0,basic member,credit card,SMS,Search Engine,Regular,None
+97801,Meggi,Evemy,mevemyau@army.mil,Rathdown Road,E-Bike,1.3,premium member,credit card,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Adaptive Bikes
+57812,Virge,Calfe,vcalfeav@hud.gov,Exchequer Street,Traditional,1.2,basic member,cash,SMS,Search Engine,Regular,Audio Guides
+81519,Auguste,Hurdwell,ahurdwellaw@buzzfeed.com,South Dock Road,Traditional,3.8,premium member,credit card,Phone Calls,Email Marketing Campaigns,Commuters,Adaptive Bikes
+49146,Morey,Carleman,mcarlemanax@arstechnica.com,Sandwith Street,E-Bike,3.0,premium member,pay pal,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+49174,Loutitia,Franchyonok,lfranchyonokay@diigo.com,Fitzwilliam Square West,Traditional,1.9,basic member,credit card,Email,Online Advertisements,Fitness Enthusiasts,Adaptive Bikes
+34023,Nissie,Valett,nvalettaz@google.co.jp,Mount Street Lower,Traditional,3.2,premium member,apple pay,SMS,Print Media,Regular,None
+81781,Dwain,Mitchard,dmitchardb0@forbes.com,Bolton Street,Traditional,1.2,premium member,credit card,SMS,Print Media,Occasional,None
+24464,Chas,Kellough,ckelloughb1@hao123.com,Mater Hospital,Traditional,1.6,premium member,cash,Phone Calls,Email Marketing Campaigns,Occasional,Audio Guides
+24035,Goldie,Dillimore,gdillimoreb2@illinois.edu,Royal Hospital,E-Bike,1.4,premium member,credit card,Postal Mail,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+18088,Jenine,Jarlmann,jjarlmannb3@reverbnation.com,Brookfield Road,E-Bike,2.3,premium member,cash,Email,Word-of-Mouth,Fitness Enthusiasts,None
+12497,Babbie,Brazenor,bbrazenorb4@discovery.com,Kilmainham Gaol,Traditional,3.3,basic member,cash,Postal Mail,Print Media,Regular,None
+43439,Talya,Webberley,twebberleyb5@sphinn.com,Hanover Quay,Traditional,2.3,basic member,cash,Postal Mail,Search Engine,Tourists,Sign Language Interpretation
+67833,Elvyn,Frackiewicz,efrackiewiczb6@yale.edu,Eccles Street East,Traditional,1.7,premium member,cash,SMS,Online Advertisements,Occasional,Adaptive Bikes
+22198,Albertina,Float,afloatb7@scientificamerican.com,Bolton Street,Traditional,3.1,premium member,credit card,App Notification,Print Media,Seasonal,Audio Guides
+77545,Cindelyn,Kleiner,ckleinerb8@photobucket.com,Phibsborough Road,E-Bike,2.4,basic member,apple pay,Email,Online Advertisements,Fitness Enthusiasts,Sign Language Interpretation
+48739,Carly,Maiklem,cmaiklemb9@meetup.com,Greek Street,E-Bike,1.5,premium member,pay pal,SMS,Email Marketing Campaigns,Seasonal,Low-Step Frames
+41559,Berne,Hucker,bhuckerba@biblegateway.com,High Street,Traditional,3.1,premium member,cash,Postal Mail,Online Advertisements,Frequent,Sign Language Interpretation
+93740,Dael,Rolingson,drolingsonbb@github.com,Eccles Street,E-Bike,1.2,basic member,apple pay,SMS,Email Marketing Campaigns,Occasional,None
+91880,Stevie,Bawme,sbawmebc@exblog.jp,Portobello Harbour,Traditional,2.5,premium member,pay pal,Postal Mail,Print Media,Regular,Sign Language Interpretation
+65289,Markos,Newport,mnewportbd@discovery.com,Clarendon Row,Traditional,1.6,premium member,pay pal,SMS,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+44671,Marney,Beig,mbeigbe@amazon.com,Grangegorman Lower (South),Traditional,2.4,basic member,apple pay,Email,Email Marketing Campaigns,Occasional,Adaptive Bikes
+19364,Brenden,Calan,bcalanbf@china.com.cn,Lime Street,Traditional,1.8,basic member,debit card,Postal Mail,Other,Frequent,Low-Step Frames
+59746,Cos,Hacquoil,chacquoilbg@cafepress.com,Broadstone,E-Bike,3.6,basic member,direct deposit,Phone Calls,Search Engine,Fitness Enthusiasts,Audio Guides
+91967,Rhys,Armal,rarmalbh@joomla.org,Market Street South,E-Bike,1.8,premium member,cash,SMS,Other,Occasional,None
+79175,Radcliffe,Durning,rdurningbi@meetup.com,Heuston Station (Central),Traditional,3.8,basic member,payment wallets,SMS,Online Advertisements,Commuters,Audio Guides
+80035,Ogden,Braithwaite,obraithwaitebj@taobao.com,North Circular Road,Traditional,1.9,basic member,direct deposit,Email,Search Engine,Commuters,Low-Step Frames
+54796,Jandy,Hopkynson,jhopkynsonbk@bloomberg.com,Royal Hospital,Traditional,2.7,premium member,cash,Phone Calls,Print Media,Frequent,Adaptive Bikes
+67553,Daniela,Garnul,dgarnulbl@arstechnica.com,Wilton Terrace (Park),E-Bike,2.8,basic member,direct deposit,Postal Mail,Other,Seasonal,None
+51779,Stephani,Kellett,skellettbm@opensource.org,King Street North,E-Bike,2.9,premium member,cash,Phone Calls,Word-of-Mouth,Frequent,Audio Guides
+26727,Jonie,Ducker,jduckerbn@discovery.com,Townsend Street,E-Bike,3.1,premium member,cash,Email,Online Advertisements,Fitness Enthusiasts,Audio Guides
+97422,Phillie,Haygreen,phaygreenbo@imageshack.us,Killarney Street,E-Bike,3.3,premium member,direct deposit,SMS,Online Advertisements,Fitness Enthusiasts,Low-Step Frames
+20797,Dreddy,Butler-Bowdon,dbutlerbowdonbp@netscape.com,Mountjoy Square West,E-Bike,2.0,premium member,cash,Email,Search Engine,Regular,Adaptive Bikes
+54342,Shayne,Winsiowiecki,swinsiowieckibq@taobao.com,The Point,E-Bike,1.5,premium member,direct deposit,App Notification,Email Marketing Campaigns,Occasional,Low-Step Frames
+21282,Lorettalorna,Barnby,lbarnbybr@aol.com,Herbert Place,E-Bike,3.2,premium member,pay pal,Email,Online Advertisements,Regular,None
+42195,Luigi,Braybrook,lbraybrookbs@apache.org,Herbert Place,Traditional,4.0,basic member,credit card,Phone Calls,Other,Regular,Adaptive Bikes
+73789,Kane,Creeber,kcreeberbt@pinterest.com,Greek Street,E-Bike,1.4,premium member,debit card,Postal Mail,Print Media,Regular,Sign Language Interpretation
+91571,Junia,Trew,jtrewbu@aboutads.info,Mater Hospital,E-Bike,2.4,premium member,cash,Email,Social Media,Fitness Enthusiasts,Adaptive Bikes
+86712,Ingeborg,Bonnette,ibonnettebv@si.edu,Heuston Bridge (North),E-Bike,2.8,premium member,cash,App Notification,Word-of-Mouth,Frequent,Audio Guides
+54561,Chastity,Jorczyk,cjorczykbw@opensource.org,Emmet Road,Traditional,1.4,basic member,cash,App Notification,Online Advertisements,Occasional,Low-Step Frames
+56008,Augie,Patria,apatriabx@csmonitor.com,St James Hospital (Luas),E-Bike,1.7,basic member,debit card,App Notification,Print Media,Seasonal,Sign Language Interpretation
+33411,Upton,Ebi,uebiby@imageshack.us,Cathal Brugha Street,E-Bike,2.4,premium member,debit card,Phone Calls,Email Marketing Campaigns,Frequent,None
+15391,Lynnet,Schonfelder,lschonfelderbz@google.pl,Avondale Road,Traditional,2.6,basic member,credit card,Email,Other,Tourists,Audio Guides
+50126,Cherise,O'Leagham,coleaghamc0@wix.com,Molesworth Street,Traditional,3.8,basic member,pay pal,App Notification,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+65507,Amalie,Uff,auffc1@nba.com,Hardwicke Place,Traditional,3.0,basic member,cash,Phone Calls,Word-of-Mouth,Frequent,Low-Step Frames
+86601,Gearalt,Schwaiger,gschwaigerc2@usa.gov,Benson Street,Traditional,1.3,premium member,apple pay,App Notification,Social Media,Regular,Audio Guides
+64317,Yorgos,Paton,ypatonc3@narod.ru,Christchurch Place,E-Bike,2.6,basic member,apple pay,App Notification,Word-of-Mouth,Regular,None
+72521,Ailee,Moncreif,amoncreifc4@myspace.com,Merrion Square South,Traditional,1.8,premium member,credit card,Postal Mail,Other,Occasional,Low-Step Frames
+84617,Margery,Robbeke,mrobbekec5@flickr.com,Custom House,Traditional,1.6,premium member,payment wallets,Postal Mail,Search Engine,Fitness Enthusiasts,Low-Step Frames
+94723,Whitman,Pelcheur,wpelcheurc6@google.co.uk,Hanover Quay East,Traditional,2.0,basic member,debit card,Email,Print Media,Regular,None
+65289,Rachelle,Rehme,rrehmec7@php.net,Clonmel Street,E-Bike,1.2,premium member,credit card,Phone Calls,Word-of-Mouth,Occasional,Low-Step Frames
+29611,Hardy,Gilpin,hgilpinc8@bing.com,Portobello Harbour,Traditional,2.1,basic member,debit card,Email,Email Marketing Campaigns,Commuters,Sign Language Interpretation
+27868,Gladys,Lohde,glohdec9@virginia.edu,Smithfield North,Traditional,3.3,premium member,debit card,Email,Online Advertisements,Commuters,Audio Guides
+55708,Annabal,Rickardsson,arickardssonca@yahoo.co.jp,Market Street South,Traditional,3.4,premium member,apple pay,SMS,Email Marketing Campaigns,Regular,Adaptive Bikes
+85606,Abramo,Lidbetter,alidbettercb@telegraph.co.uk,Princes Street / O'Connell Street,E-Bike,3.1,premium member,payment wallets,App Notification,Print Media,Fitness Enthusiasts,Audio Guides
+77963,Addy,Towler,atowlercc@loc.gov,Brookfield Road,Traditional,1.2,premium member,pay pal,Email,Print Media,Occasional,Low-Step Frames
+72267,Morty,Greenalf,mgreenalfcd@digg.com,St. Stephen's Green East,E-Bike,2.1,premium member,payment wallets,SMS,Print Media,Commuters,Audio Guides
+46669,Letti,Teresi,lteresice@devhub.com,Grantham Street,Traditional,2.0,premium member,direct deposit,Phone Calls,Search Engine,Frequent,Audio Guides
+35521,Thor,Skupinski,tskupinskicf@google.nl,James Street East,E-Bike,3.5,basic member,direct deposit,App Notification,Other,Seasonal,Audio Guides
+87474,Merrill,Povey,mpoveycg@tamu.edu,Buckingham Street Lower,Traditional,3.4,basic member,cash,Email,Social Media,Fitness Enthusiasts,Low-Step Frames
+76317,Asia,Goodluck,agoodluckch@sun.com,Guild Street,Traditional,1.1,premium member,payment wallets,Email,Print Media,Commuters,Low-Step Frames
+58157,Carny,Valintine,cvalintineci@foxnews.com,York Street East,Traditional,3.4,basic member,payment wallets,Postal Mail,Other,Fitness Enthusiasts,Low-Step Frames
+63965,Laurel,Dilks,ldilkscj@independent.co.uk,Kilmainham Gaol,E-Bike,3.3,premium member,direct deposit,App Notification,Search Engine,Regular,Low-Step Frames
+72858,Nana,Polson,npolsonck@studiopress.com,Wilton Terrace,Traditional,1.3,premium member,apple pay,Email,Email Marketing Campaigns,Seasonal,Sign Language Interpretation
+10856,Waldo,Whitlaw,wwhitlawcl@xing.com,Rathdown Road,Traditional,3.6,basic member,debit card,Phone Calls,Email Marketing Campaigns,Occasional,Low-Step Frames
+97032,Meryl,Stanyer,mstanyercm@nba.com,Grand Canal Dock,E-Bike,1.5,basic member,credit card,Postal Mail,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+88396,Jeremiah,Towe,jtowecn@ucoz.com,Mount Street Lower,E-Bike,1.5,premium member,apple pay,SMS,Word-of-Mouth,Seasonal,Sign Language Interpretation
+35383,Jodee,Malt,jmaltco@cnbc.com,Eccles Street East,E-Bike,3.1,premium member,debit card,Phone Calls,Online Advertisements,Seasonal,Low-Step Frames
+26291,Haskel,Lewerenz,hlewerenzcp@scientificamerican.com,City Quay,E-Bike,1.0,premium member,pay pal,Postal Mail,Print Media,Occasional,Audio Guides
+61399,Aileen,Imesen,aimesencq@4shared.com,Eccles Street East,E-Bike,2.2,premium member,credit card,SMS,Print Media,Occasional,Low-Step Frames
+25242,Harper,Armfirld,harmfirldcr@discuz.net,Custom House Quay,E-Bike,2.1,premium member,payment wallets,Email,Search Engine,Regular,Adaptive Bikes
+80970,Julie,Gorbell,jgorbellcs@princeton.edu,North Circular Road,Traditional,3.7,premium member,apple pay,Phone Calls,Word-of-Mouth,Fitness Enthusiasts,Low-Step Frames
+71457,Slade,Crossfeld,scrossfeldct@epa.gov,Blackhall Place,Traditional,3.4,basic member,payment wallets,App Notification,Email Marketing Campaigns,Regular,Low-Step Frames
+52655,Shandra,Leverich,sleverichcu@arizona.edu,South Dock Road,Traditional,2.1,basic member,payment wallets,App Notification,Search Engine,Fitness Enthusiasts,Low-Step Frames
+97766,Jenn,Harsum,jharsumcv@amazonaws.com,Kevin Street,Traditional,2.7,basic member,pay pal,Postal Mail,Online Advertisements,Frequent,Adaptive Bikes
+13809,Anetta,McElwee,amcelweecw@g.co,Merrion Square South,E-Bike,3.2,basic member,payment wallets,SMS,Online Advertisements,Frequent,Low-Step Frames
+95173,Yurik,Peeters,ypeeterscx@businessinsider.com,Lime Street,Traditional,1.4,premium member,cash,SMS,Online Advertisements,Fitness Enthusiasts,Audio Guides
+80146,Alley,Deaves,adeavescy@pbs.org,Mountjoy Square East,E-Bike,3.9,basic member,cash,SMS,Other,Occasional,Low-Step Frames
+96475,Krissie,Kilduff,kkilduffcz@springer.com,Wilton Terrace,E-Bike,1.0,premium member,debit card,Email,Social Media,Commuters,Audio Guides
+16359,Dawn,Domniney,ddomnineyd0@stanford.edu,Hardwicke Street,E-Bike,3.1,premium member,payment wallets,Postal Mail,Social Media,Occasional,Low-Step Frames
+67443,Kamilah,Chaperlin,kchaperlind1@walmart.com,Wilton Terrace,Traditional,1.7,premium member,cash,Email,Print Media,Commuters,Audio Guides
+36849,Carlota,Pridmore,cpridmored2@upenn.edu,Clarendon Row,Traditional,2.2,basic member,credit card,Phone Calls,Other,Commuters,Adaptive Bikes
+98196,Hedwiga,Stormouth,hstormouthd3@networkadvertising.org,Eccles Street East,E-Bike,3.0,premium member,apple pay,App Notification,Word-of-Mouth,Tourists,Sign Language Interpretation
+17344,Quent,De Normanville,qdenormanvilled4@sakura.ne.jp,Townsend Street,E-Bike,1.5,premium member,direct deposit,SMS,Word-of-Mouth,Frequent,None
+13623,Lavinie,Warmisham,lwarmishamd5@istockphoto.com,Grand Canal Dock,Traditional,3.1,premium member,debit card,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,None
+27533,Kyla,Daout,kdaoutd6@deviantart.com,Smithfield,E-Bike,1.8,basic member,apple pay,Phone Calls,Print Media,Fitness Enthusiasts,Low-Step Frames
+90616,Neville,MacFadyen,nmacfadyend7@ftc.gov,Parkgate Street,Traditional,3.2,premium member,cash,SMS,Online Advertisements,Regular,None
+29510,Rina,Zuanelli,rzuanellid8@businesswire.com,Blessington Street,Traditional,1.4,premium member,pay pal,SMS,Print Media,Occasional,Audio Guides
+27336,Felic,Orchard,forchardd9@privacy.gov.au,Parnell Street,Traditional,3.1,premium member,debit card,Email,Word-of-Mouth,Frequent,Audio Guides
+25249,Marie-ann,Effemy,meffemyda@yale.edu,Georges Quay,Traditional,2.5,basic member,cash,Phone Calls,Email Marketing Campaigns,Occasional,Low-Step Frames
+98542,Whitman,Bernardelli,wbernardellidb@howstuffworks.com,Grand Canal Dock,E-Bike,3.2,premium member,credit card,SMS,Other,Occasional,None
+59169,Kassey,Sein,kseindc@go.com,Fitzwilliam Square East,E-Bike,3.3,premium member,cash,Phone Calls,Other,Tourists,Low-Step Frames
+74484,Sydney,Vallender,svallenderdd@vinaora.com,Merrion Square South,Traditional,2.0,premium member,apple pay,App Notification,Social Media,Commuters,Audio Guides
+54968,Christoper,Pylkynyton,cpylkynytonde@devhub.com,Wilton Terrace,Traditional,2.3,basic member,credit card,Phone Calls,Search Engine,Regular,None
+80933,Raeann,Downing,rdowningdf@wisc.edu,Fenian Street,Traditional,1.6,premium member,cash,App Notification,Print Media,Commuters,Low-Step Frames
+68605,Sullivan,Vany,svanydg@salon.com,Hardwicke Place,E-Bike,2.7,basic member,debit card,Phone Calls,Word-of-Mouth,Occasional,Low-Step Frames
+35805,Krissy,Feifer,kfeiferdh@dailymotion.com,Heuston Station (Central),Traditional,3.6,basic member,cash,Postal Mail,Online Advertisements,Frequent,Sign Language Interpretation
+58858,Romy,Foddy,rfoddydi@soundcloud.com,Convention Centre,E-Bike,1.4,basic member,pay pal,Phone Calls,Email Marketing Campaigns,Seasonal,Audio Guides
+92147,Hayes,Thorogood,hthorogooddj@mac.com,Heuston Station (Car Park),E-Bike,2.6,premium member,pay pal,Postal Mail,Other,Fitness Enthusiasts,Audio Guides
+60566,Veradis,Duckit,vduckitdk@etsy.com,Dame Street,E-Bike,3.2,premium member,apple pay,Email,Social Media,Fitness Enthusiasts,Sign Language Interpretation
+29111,Shawn,Sleite,ssleitedl@github.com,St James Hospital (Luas),E-Bike,2.3,basic member,payment wallets,Email,Email Marketing Campaigns,Commuters,None
+65186,Gabriella,Hardcastle,ghardcastledm@intel.com,Heuston Station (Car Park),Traditional,3.4,premium member,apple pay,Phone Calls,Social Media,Seasonal,None
+11671,Nannie,Gaffey,ngaffeydn@home.pl,Custom House Quay,E-Bike,2.8,basic member,direct deposit,Postal Mail,Search Engine,Commuters,None
+37758,Haydon,Milsom,hmilsomdo@chron.com,Bolton Street,Traditional,3.5,premium member,payment wallets,Postal Mail,Social Media,Commuters,Audio Guides
+44998,Abram,Yearnsley,ayearnsleydp@mlb.com,Fenian Street,Traditional,2.2,basic member,credit card,Phone Calls,Print Media,Occasional,None
+77662,Gay,Matherson,gmathersondq@networksolutions.com,Emmet Road,Traditional,1.2,basic member,pay pal,Postal Mail,Print Media,Frequent,Low-Step Frames
+72741,Dacie,Stovell,dstovelldr@google.de,Talbot Street,E-Bike,2.5,basic member,direct deposit,App Notification,Search Engine,Regular,Sign Language Interpretation
+16267,Alasdair,Marzelli,amarzellids@wsj.com,The Point,Traditional,4.0,basic member,debit card,Phone Calls,Social Media,Commuters,Audio Guides
+42227,Ellette,Cahan,ecahandt@usa.gov,Western Way,E-Bike,1.5,premium member,credit card,SMS,Online Advertisements,Fitness Enthusiasts,Audio Guides
+36366,Demeter,Hyman,dhymandu@dmoz.org,Phibsborough Road,E-Bike,3.1,premium member,credit card,App Notification,Social Media,Tourists,None
+67318,Yale,Osgerby,yosgerbydv@com.com,Grattan Street,Traditional,1.1,premium member,payment wallets,Email,Word-of-Mouth,Occasional,Low-Step Frames
+87793,Blaire,Donnersberg,bdonnersbergdw@google.com,Bolton Street,E-Bike,3.7,premium member,debit card,App Notification,Email Marketing Campaigns,Regular,Audio Guides
+69023,Moina,Mineghelli,mmineghellidx@uol.com.br,Greek Street,Traditional,2.7,basic member,debit card,Email,Other,Regular,Adaptive Bikes
+52150,Dallas,Hodge,dhodgedy@t.co,Herbert Street,E-Bike,2.1,premium member,direct deposit,SMS,Social Media,Occasional,None
+33123,Glenn,Koles,gkolesdz@dropbox.com,Merrion Square South,E-Bike,1.5,premium member,cash,SMS,Word-of-Mouth,Occasional,Audio Guides
+34352,Karita,Moggie,kmoggiee0@ycombinator.com,Brookfield Road,E-Bike,1.3,premium member,payment wallets,Postal Mail,Other,Commuters,Sign Language Interpretation
+77627,Errick,Buzza,ebuzzae1@youtu.be,Sir Patrick's Dun,Traditional,3.1,basic member,credit card,Postal Mail,Other,Occasional,Audio Guides
+65261,Valida,Peyton,vpeytone2@furl.net,Collins Barracks Museum,Traditional,2.4,basic member,pay pal,App Notification,Social Media,Regular,Sign Language Interpretation
+76140,Jemmie,Mixter,jmixtere3@chicagotribune.com,The Point,Traditional,1.6,basic member,payment wallets,Email,Print Media,Frequent,Adaptive Bikes
+44421,Arlen,Cicchinelli,acicchinellie4@github.io,Fenian Street,Traditional,2.3,premium member,direct deposit,Email,Email Marketing Campaigns,Fitness Enthusiasts,Low-Step Frames
+58306,Sela,Rolfi,srolfie5@marketwatch.com,Herbert Street,Traditional,2.7,basic member,cash,App Notification,Other,Commuters,None
+18817,Octavius,Windas,owindase6@ning.com,Lime Street,E-Bike,2.4,premium member,apple pay,App Notification,Other,Seasonal,Audio Guides
+77907,Sidney,Boatman,sboatmane7@so-net.ne.jp,Grangegorman Lower (South),E-Bike,1.3,basic member,direct deposit,App Notification,Other,Frequent,Audio Guides
+50337,Orlando,Taggett,otaggette8@chronoengine.com,King Street North,E-Bike,1.9,basic member,debit card,SMS,Word-of-Mouth,Regular,Sign Language Interpretation
+91851,Luce,Hadlow,lhadlowe9@cisco.com,Custom House Quay,E-Bike,2.0,premium member,cash,SMS,Other,Fitness Enthusiasts,Adaptive Bikes
+41686,Mozes,Stempe,mstempeea@geocities.com,Western Way,Traditional,3.1,basic member,payment wallets,SMS,Social Media,Fitness Enthusiasts,None
+83769,Justin,Ridgedell,jridgedelleb@cpanel.net,John Street West,Traditional,1.5,basic member,direct deposit,Email,Print Media,Tourists,Adaptive Bikes
+46348,Sloane,Toping,stopingec@instagram.com,Grand Canal Dock,E-Bike,3.7,premium member,payment wallets,Email,Email Marketing Campaigns,Tourists,Sign Language Interpretation
+44027,Franklyn,Brigdale,fbrigdaleed@arizona.edu,Francis Street,E-Bike,1.2,basic member,credit card,Postal Mail,Word-of-Mouth,Frequent,Low-Step Frames
+58513,Willow,Jannequin,wjannequinee@odnoklassniki.ru,Kilmainham Gaol,E-Bike,3.8,premium member,apple pay,App Notification,Online Advertisements,Commuters,None
+64637,Ware,Giotto,wgiottoef@amazon.co.uk,City Quay,Traditional,3.6,basic member,direct deposit,Phone Calls,Other,Tourists,Audio Guides
+19921,Gwyneth,Graben,ggrabeneg@aol.com,Broadstone,Traditional,1.5,basic member,cash,Postal Mail,Search Engine,Fitness Enthusiasts,Sign Language Interpretation
+45615,Sig,Andrzejczak,sandrzejczakeh@ovh.net,Herbert Street,E-Bike,3.2,premium member,pay pal,App Notification,Other,Regular,Sign Language Interpretation
+93669,Veronique,Rothwell,vrothwellei@indiatimes.com,Merrion Square East,E-Bike,3.8,basic member,pay pal,Postal Mail,Word-of-Mouth,Commuters,Audio Guides
+96041,Patrice,Blest,pblestej@soup.io,High Street,Traditional,3.3,basic member,cash,SMS,Other,Frequent,None
+46792,Archambault,Beseke,abesekeek@princeton.edu,Georges Quay,E-Bike,3.5,premium member,direct deposit,Phone Calls,Social Media,Commuters,Audio Guides
+40918,Patty,Whordley,pwhordleyel@elpais.com,St. Stephen's Green South,E-Bike,2.6,basic member,direct deposit,SMS,Social Media,Seasonal,Adaptive Bikes
+67823,Whitman,Mcall,wmcallem@twitpic.com,Convention Centre,E-Bike,2.9,basic member,payment wallets,SMS,Other,Regular,Low-Step Frames
+90530,Aliza,Humphery,ahumpheryen@auda.org.au,James Street East,E-Bike,1.5,basic member,debit card,Postal Mail,Search Engine,Regular,Audio Guides
+81675,Giorgio,MacNess,gmacnesseo@prlog.org,Parnell Street,Traditional,1.9,basic member,apple pay,Phone Calls,Print Media,Tourists,Low-Step Frames
+59583,Kristel,Beckingham,kbeckinghamep@cyberchimps.com,Charlemont Street,E-Bike,3.9,premium member,direct deposit,SMS,Search Engine,Regular,None
+16137,Ulrike,Cleary,uclearyeq@japanpost.jp,Hanover Quay,Traditional,1.9,basic member,payment wallets,App Notification,Word-of-Mouth,Tourists,Adaptive Bikes
+97976,Wallache,Gilley,wgilleyer@epa.gov,Wilton Terrace,E-Bike,1.8,basic member,credit card,Email,Social Media,Commuters,Audio Guides
+32583,Blakelee,Tydeman,btydemanes@themeforest.net,Fownes Street Upper,E-Bike,2.6,premium member,direct deposit,Phone Calls,Search Engine,Commuters,Audio Guides
+15862,Drucill,Bagguley,dbagguleyet@bigcartel.com,Broadstone,Traditional,1.9,basic member,debit card,Phone Calls,Other,Fitness Enthusiasts,None
+78894,Edwina,Ghent,eghenteu@hatena.ne.jp,Portobello Harbour,Traditional,2.2,basic member,pay pal,App Notification,Other,Commuters,Sign Language Interpretation
+64218,Nial,Mendenhall,nmendenhallev@fc2.com,Fownes Street Upper,Traditional,2.4,basic member,credit card,Phone Calls,Email Marketing Campaigns,Frequent,None
+91977,Guglielma,Scholtz,gscholtzew@shutterfly.com,Lime Street,E-Bike,3.4,basic member,debit card,Email,Search Engine,Frequent,Audio Guides
+99672,Lesli,Esche,lescheex@upenn.edu,Clonmel Street,E-Bike,2.4,basic member,debit card,Email,Online Advertisements,Commuters,None
+24066,Brew,Michal,bmichaley@technorati.com,Pearse Street,E-Bike,2.4,basic member,apple pay,App Notification,Word-of-Mouth,Occasional,None
+32279,Dale,McDougald,dmcdougaldez@weebly.com,King Street North,E-Bike,2.7,basic member,payment wallets,SMS,Email Marketing Campaigns,Tourists,Adaptive Bikes
+99173,Deane,Pedel,dpedelf0@telegraph.co.uk,North Circular Road,E-Bike,2.2,basic member,direct deposit,SMS,Print Media,Frequent,Low-Step Frames
+17394,Beaufort,Grayley,bgrayleyf1@cbc.ca,Western Way,E-Bike,2.2,premium member,debit card,Email,Online Advertisements,Tourists,Audio Guides
+34796,Cleve,Lait,claitf2@usnews.com,Herbert Street,E-Bike,1.2,basic member,apple pay,App Notification,Search Engine,Frequent,Low-Step Frames
+16978,Jud,MacMarcuis,jmacmarcuisf3@fastcompany.com,The Point,E-Bike,3.6,basic member,payment wallets,Email,Search Engine,Seasonal,Low-Step Frames
+74170,Ernestus,Guage,eguagef4@storify.com,Wilton Terrace,E-Bike,2.6,basic member,cash,Phone Calls,Other,Seasonal,Adaptive Bikes
+19486,Woodrow,Castro,wcastrof5@theatlantic.com,Hanover Quay,Traditional,3.6,basic member,cash,SMS,Email Marketing Campaigns,Tourists,None
+18001,Fredericka,Ardy,fardyf6@netscape.com,Grangegorman Lower (Central),E-Bike,3.0,basic member,payment wallets,Phone Calls,Print Media,Occasional,Low-Step Frames
+57215,Daffi,MacPaik,dmacpaikf7@netvibes.com,Fitzwilliam Square East,Traditional,3.4,premium member,direct deposit,Phone Calls,Other,Regular,Adaptive Bikes
+74128,Gene,Bocking,gbockingf8@histats.com,Princes Street / O'Connell Street,E-Bike,1.5,premium member,direct deposit,SMS,Email Marketing Campaigns,Regular,Low-Step Frames
+94006,Tabby,Heppner,theppnerf9@foxnews.com,St James Hospital (Luas),E-Bike,2.3,basic member,cash,SMS,Print Media,Tourists,Adaptive Bikes
+37490,Klaus,Cromwell,kcromwellfa@shutterfly.com,Grangegorman Lower (North),Traditional,2.5,premium member,credit card,Phone Calls,Social Media,Tourists,Audio Guides
+17649,Bekki,Heale,bhealefb@unblog.fr,Mountjoy Square West,E-Bike,2.3,basic member,apple pay,Postal Mail,Social Media,Frequent,Adaptive Bikes
+69563,Bogey,Tacker,btackerfc@newsvine.com,Mater Hospital,Traditional,3.6,premium member,credit card,Email,Social Media,Regular,None
+56298,Carol-jean,Dahler,cdahlerfd@1und1.de,Eccles Street East,Traditional,2.6,basic member,credit card,Phone Calls,Word-of-Mouth,Commuters,Low-Step Frames
+72346,Claudie,Mooreed,cmooreedfe@usgs.gov,Benson Street,Traditional,1.3,basic member,direct deposit,SMS,Other,Commuters,Adaptive Bikes
+11619,Annette,Leeburn,aleeburnff@list-manage.com,Talbot Street,E-Bike,3.4,basic member,direct deposit,Email,Other,Fitness Enthusiasts,Sign Language Interpretation
+63363,Robert,Byas,rbyasfg@washingtonpost.com,Rathdown Road,Traditional,3.9,basic member,pay pal,App Notification,Word-of-Mouth,Frequent,Audio Guides
+25181,Faber,Marcinkus,fmarcinkusfh@shareasale.com,Avondale Road,E-Bike,2.5,premium member,apple pay,SMS,Email Marketing Campaigns,Regular,Adaptive Bikes
+73247,Olav,Beagin,obeaginfi@foxnews.com,Mount Brown,E-Bike,2.1,premium member,apple pay,App Notification,Word-of-Mouth,Occasional,None
+98152,Noble,Potkins,npotkinsfj@seesaa.net,Mount Street Lower,Traditional,1.2,basic member,cash,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,Audio Guides
+89212,Lizbeth,Burdon,lburdonfk@fastcompany.com,Custom House Quay,E-Bike,3.0,basic member,credit card,SMS,Email Marketing Campaigns,Regular,Sign Language Interpretation
+18829,Sella,Ligerton,sligertonfl@tinypic.com,Frederick Street South,Traditional,2.5,basic member,apple pay,App Notification,Social Media,Regular,Low-Step Frames
+70943,Fairfax,Stouther,fstoutherfm@tinypic.com,Lime Street,E-Bike,1.5,premium member,apple pay,App Notification,Word-of-Mouth,Frequent,Low-Step Frames
+22104,Kial,Cochet,kcochetfn@t-online.de,Heuston Station (Central),Traditional,2.9,basic member,debit card,Phone Calls,Search Engine,Regular,Sign Language Interpretation
+43672,Tina,Mullaney,tmullaneyfo@google.ca,Parnell Street,Traditional,3.9,basic member,payment wallets,Postal Mail,Social Media,Frequent,None
+54622,Gill,Perham,gperhamfp@alexa.com,Townsend Street,E-Bike,2.7,premium member,direct deposit,Email,Search Engine,Occasional,None
+36067,Kym,Drillingcourt,kdrillingcourtfq@freewebs.com,Parnell Square North,E-Bike,2.3,basic member,debit card,Email,Online Advertisements,Occasional,Low-Step Frames
+78874,Ericka,Arderne,eardernefr@de.vu,King Street North,Traditional,1.5,basic member,debit card,Phone Calls,Search Engine,Occasional,Audio Guides
+23159,Amity,De Miranda,ademirandafs@google.ru,Phibsborough Road,Traditional,1.2,premium member,payment wallets,Phone Calls,Other,Tourists,Low-Step Frames
+32752,Von,Buddle,vbuddleft@nyu.edu,Wilton Terrace,Traditional,1.5,basic member,pay pal,App Notification,Other,Seasonal,Audio Guides
+19412,Atlante,Zambon,azambonfu@soup.io,Greek Street,Traditional,3.4,premium member,direct deposit,Postal Mail,Other,Regular,Adaptive Bikes
+72642,Marni,Champagne,mchampagnefv@netvibes.com,Guild Street,Traditional,3.7,premium member,credit card,Email,Other,Frequent,None
+65933,Standford,Hassey,shasseyfw@si.edu,James Street East,E-Bike,2.4,premium member,direct deposit,SMS,Print Media,Seasonal,Sign Language Interpretation
+14078,Drake,Annetts,dannettsfx@businessinsider.com,Smithfield North,Traditional,3.8,basic member,pay pal,Phone Calls,Email Marketing Campaigns,Frequent,Audio Guides
+24040,Yuri,Stanion,ystanionfy@myspace.com,Mater Hospital,E-Bike,3.3,premium member,debit card,Phone Calls,Word-of-Mouth,Occasional,Sign Language Interpretation
+90207,Evyn,Mechem,emechemfz@java.com,St. Stephen's Green East,Traditional,3.1,basic member,pay pal,Phone Calls,Word-of-Mouth,Fitness Enthusiasts,Audio Guides
+56028,Sibley,Gentil,sgentilg0@is.gd,Collins Barracks Museum,Traditional,2.8,basic member,direct deposit,Email,Search Engine,Regular,Sign Language Interpretation
+92696,Bobette,Gatheridge,bgatheridgeg1@addthis.com,Herbert Place,Traditional,2.5,basic member,payment wallets,Email,Email Marketing Campaigns,Seasonal,Adaptive Bikes
+65535,Margi,Simson,msimsong2@paginegialle.it,Sandwith Street,Traditional,3.1,basic member,pay pal,Postal Mail,Email Marketing Campaigns,Seasonal,Adaptive Bikes
+69018,Bordie,Shorto,bshortog3@vkontakte.ru,Kilmainham Lane,E-Bike,2.2,basic member,debit card,Email,Word-of-Mouth,Commuters,Audio Guides
+96213,Reggy,Cordie,rcordieg4@meetup.com,Princes Street / O'Connell Street,E-Bike,1.9,basic member,payment wallets,Phone Calls,Online Advertisements,Commuters,Audio Guides
+41253,Adey,Roberds,aroberdsg5@opensource.org,New Central Bank,Traditional,3.8,basic member,payment wallets,Postal Mail,Print Media,Seasonal,None
+94398,Julian,Pounds,jpoundsg6@seattletimes.com,Royal Hospital,E-Bike,3.7,basic member,payment wallets,Postal Mail,Email Marketing Campaigns,Seasonal,Sign Language Interpretation
+34361,Evan,Geertz,egeertzg7@sina.com.cn,Parnell Street,E-Bike,1.6,premium member,apple pay,Postal Mail,Email Marketing Campaigns,Fitness Enthusiasts,Audio Guides
+86959,Gilberto,Werndley,gwerndleyg8@1688.com,Upper Sherrard Street,E-Bike,1.4,premium member,payment wallets,Email,Search Engine,Commuters,None
+38115,Elane,Castaneda,ecastanedag9@nih.gov,Grantham Street,E-Bike,2.4,basic member,pay pal,Email,Social Media,Regular,Adaptive Bikes
+38646,Patrice,Vasilchikov,pvasilchikovga@goo.ne.jp,Broadstone,Traditional,4.0,basic member,pay pal,App Notification,Word-of-Mouth,Frequent,Audio Guides
+30028,Gerty,Cufley,gcufleygb@so-net.ne.jp,York Street East,E-Bike,3.4,basic member,debit card,Phone Calls,Social Media,Commuters,Low-Step Frames
+31960,Bowie,Surphliss,bsurphlissgc@amazonaws.com,Collins Barracks Museum,E-Bike,3.6,basic member,apple pay,Phone Calls,Online Advertisements,Occasional,Adaptive Bikes
+40263,Georgianne,Kiernan,gkiernangd@jugem.jp,North Circular Road,Traditional,2.8,premium member,pay pal,SMS,Search Engine,Commuters,Adaptive Bikes
+24371,Dalt,Pray,dprayge@reference.com,Guild Street,Traditional,2.0,basic member,cash,Postal Mail,Word-of-Mouth,Seasonal,None
+70365,Barty,Chishull,bchishullgf@howstuffworks.com,Hatch Street,Traditional,1.7,basic member,direct deposit,Phone Calls,Social Media,Occasional,Audio Guides
+52806,Kessia,Vine,kvinegg@epa.gov,Greek Street,E-Bike,2.1,basic member,direct deposit,Postal Mail,Social Media,Seasonal,Adaptive Bikes
+64460,Dixie,Summerly,dsummerlygh@youku.com,Heuston Bridge (North),Traditional,2.9,premium member,credit card,Phone Calls,Search Engine,Fitness Enthusiasts,Low-Step Frames
+21292,Avigdor,Anthill,aanthillgi@reuters.com,Excise Walk,E-Bike,3.8,premium member,cash,App Notification,Word-of-Mouth,Occasional,Audio Guides
+83659,Clay,Delany,cdelanygj@examiner.com,Charlemont Street,E-Bike,1.2,basic member,debit card,Phone Calls,Search Engine,Fitness Enthusiasts,None
+93565,Izaak,Dodridge,idodridgegk@thetimes.co.uk,South Dock Road,E-Bike,1.6,basic member,payment wallets,Phone Calls,Online Advertisements,Seasonal,None
+10726,Miranda,Grigorescu,mgrigorescugl@4shared.com,Collins Barracks Museum,Traditional,2.5,premium member,apple pay,Postal Mail,Other,Fitness Enthusiasts,Adaptive Bikes
+88495,Katharyn,Petts,kpettsgm@census.gov,Wolfe Tone Street,Traditional,3.2,basic member,payment wallets,Email,Other,Frequent,Sign Language Interpretation
+33009,Clarence,Deekes,cdeekesgn@deviantart.com,Heuston Station (Central),E-Bike,1.4,premium member,cash,App Notification,Social Media,Occasional,Adaptive Bikes
+54881,Sella,Parnaby,sparnabygo@ftc.gov,Excise Walk,Traditional,1.7,premium member,debit card,Email,Word-of-Mouth,Tourists,None
+54526,Kirstyn,Delahunt,kdelahuntgp@naver.com,Mount Brown,Traditional,2.2,premium member,apple pay,Phone Calls,Search Engine,Regular,None
+44547,Aleta,Bwye,abwyegq@yahoo.co.jp,Market Street South,Traditional,2.2,premium member,pay pal,Phone Calls,Email Marketing Campaigns,Tourists,Adaptive Bikes
+46439,Christina,Powell,cpowellgr@netlog.com,Deverell Place,E-Bike,4.0,basic member,debit card,Email,Social Media,Frequent,Adaptive Bikes
+14726,Chicky,Cheetam,ccheetamgs@ted.com,Guild Street,E-Bike,3.8,basic member,debit card,Email,Print Media,Fitness Enthusiasts,Low-Step Frames
+19548,Ermina,Bodham,ebodhamgt@home.pl,Killarney Street,E-Bike,1.8,premium member,direct deposit,App Notification,Email Marketing Campaigns,Regular,Adaptive Bikes
+71105,Francisco,Servant,fservantgu@surveymonkey.com,Harcourt Terrace,E-Bike,2.8,basic member,direct deposit,Phone Calls,Email Marketing Campaigns,Occasional,Low-Step Frames
+86311,Courtenay,Hayle,chaylegv@eepurl.com,St. Stephen's Green South,E-Bike,1.3,basic member,direct deposit,App Notification,Word-of-Mouth,Seasonal,Low-Step Frames
+38427,Mahalia,Orman,mormangw@unc.edu,Charleville Road,Traditional,2.9,premium member,debit card,Phone Calls,Online Advertisements,Tourists,Low-Step Frames
+56888,Franni,Handyside,fhandysidegx@baidu.com,Broadstone,Traditional,1.2,basic member,payment wallets,Phone Calls,Search Engine,Occasional,None
+21706,Amabel,Loughnan,aloughnangy@addthis.com,The Point,E-Bike,3.2,premium member,cash,Phone Calls,Social Media,Tourists,None
+68369,Faun,Firbanks,ffirbanksgz@blogger.com,Custom House,E-Bike,3.2,premium member,direct deposit,Postal Mail,Email Marketing Campaigns,Frequent,Audio Guides
+29356,Tory,Hillen,thillenh0@tamu.edu,Denmark Street Great,Traditional,3.6,premium member,direct deposit,SMS,Online Advertisements,Regular,None
+37637,Sancho,Bremmell,sbremmellh1@google.com.br,Townsend Street,Traditional,3.6,basic member,payment wallets,App Notification,Email Marketing Campaigns,Occasional,Low-Step Frames
+89785,Haleigh,Charkham,hcharkhamh2@weibo.com,North Circular Road (O'Connell's),Traditional,1.4,basic member,direct deposit,App Notification,Word-of-Mouth,Frequent,Adaptive Bikes
+91300,Klaus,Livick,klivickh3@google.co.jp,Talbot Street,E-Bike,2.2,basic member,credit card,Phone Calls,Online Advertisements,Seasonal,None
+74032,Wren,Mazin,wmazinh4@geocities.com,North Circular Road,E-Bike,3.5,basic member,direct deposit,Postal Mail,Print Media,Tourists,None
+64032,Sunshine,Pahler,spahlerh5@nps.gov,Francis Street,E-Bike,2.6,basic member,payment wallets,SMS,Email Marketing Campaigns,Regular,Sign Language Interpretation
+24208,Olav,Readshall,oreadshallh6@lulu.com,Pearse Street,E-Bike,1.4,basic member,cash,Postal Mail,Print Media,Seasonal,Sign Language Interpretation
+84022,Andriette,Gresser,agresserh7@unesco.org,Sir Patrick's Dun,E-Bike,2.5,premium member,credit card,Postal Mail,Word-of-Mouth,Occasional,Audio Guides
+87836,Scarlett,Tumilson,stumilsonh8@yellowpages.com,New Central Bank,E-Bike,3.2,basic member,cash,Email,Search Engine,Commuters,Low-Step Frames
+48628,Windham,Frichley,wfrichleyh9@twitter.com,John Street West,E-Bike,3.2,premium member,payment wallets,Phone Calls,Word-of-Mouth,Commuters,Audio Guides
+23179,Sherwynd,Tofanini,stofaniniha@imageshack.us,Pearse Street,Traditional,1.3,basic member,pay pal,Phone Calls,Online Advertisements,Frequent,Sign Language Interpretation
+82143,Maynard,Squire,msquirehb@skyrock.com,Golden Lane,E-Bike,1.6,basic member,apple pay,Postal Mail,Other,Tourists,Sign Language Interpretation
+40736,Aubrey,Trotter,atrotterhc@hhs.gov,Fownes Street Upper,E-Bike,2.3,premium member,pay pal,Phone Calls,Email Marketing Campaigns,Frequent,Sign Language Interpretation
+80188,Vito,Ledingham,vledinghamhd@scribd.com,Charleville Road,E-Bike,2.7,premium member,direct deposit,Phone Calls,Email Marketing Campaigns,Tourists,None
+44587,Clio,Prall,cprallhe@chicagotribune.com,Portobello Road,Traditional,3.5,premium member,pay pal,App Notification,Online Advertisements,Regular,Audio Guides
+59507,Doyle,Denne,ddennehf@yellowpages.com,Smithfield,Traditional,3.2,basic member,pay pal,App Notification,Social Media,Frequent,Sign Language Interpretation
+14161,Miguelita,Jewell,mjewellhg@eepurl.com,St. Stephen's Green East,Traditional,1.4,basic member,debit card,Postal Mail,Social Media,Commuters,Sign Language Interpretation
+54854,Halsy,Hatwell,hhatwellhh@omniture.com,Grangegorman Lower (North),Traditional,3.7,premium member,debit card,Postal Mail,Social Media,Regular,Adaptive Bikes
+61396,Reg,Netley,rnetleyhi@china.com.cn,Georges Quay,E-Bike,3.6,premium member,payment wallets,Email,Other,Tourists,Sign Language Interpretation
+47011,Glen,Emmines,gemmineshj@virginia.edu,Upper Sherrard Street,Traditional,2.1,premium member,credit card,Phone Calls,Email Marketing Campaigns,Tourists,Adaptive Bikes
+80803,Claretta,Hoonahan,choonahanhk@free.fr,Heuston Bridge (South),E-Bike,2.4,basic member,cash,SMS,Online Advertisements,Commuters,None
+75780,Brynn,Worden,bwordenhl@feedburner.com,Hanover Quay,E-Bike,2.9,premium member,debit card,Email,Word-of-Mouth,Regular,Low-Step Frames
+93043,Hyatt,Pregel,hpregelhm@mysql.com,Phibsborough Road,E-Bike,3.6,basic member,direct deposit,App Notification,Print Media,Fitness Enthusiasts,Low-Step Frames
+87350,Wheeler,Boulstridge,wboulstridgehn@over-blog.com,Grand Canal Dock,E-Bike,1.5,premium member,pay pal,Phone Calls,Other,Fitness Enthusiasts,Low-Step Frames
+65669,Aliza,Feenan,afeenanho@vimeo.com,Christchurch Place,Traditional,2.0,premium member,cash,App Notification,Search Engine,Seasonal,None
+47491,Roseanna,Ridehalgh,rridehalghhp@yelp.com,Newman House,Traditional,1.0,basic member,cash,App Notification,Email Marketing Campaigns,Regular,None
+65371,Carley,Hatliffe,chatliffehq@g.co,Deverell Place,Traditional,1.8,premium member,cash,Phone Calls,Word-of-Mouth,Frequent,Audio Guides
+12378,Conny,Vinck,cvinckhr@ameblo.jp,Hardwicke Place,E-Bike,1.2,basic member,apple pay,Postal Mail,Email Marketing Campaigns,Occasional,None
+73731,Jennee,Collet,jcolleths@irs.gov,South Dock Road,E-Bike,2.5,premium member,pay pal,Phone Calls,Word-of-Mouth,Seasonal,Sign Language Interpretation
+21797,Babette,Salack,bsalackht@examiner.com,Merrion Square South,Traditional,3.8,premium member,payment wallets,SMS,Email Marketing Campaigns,Fitness Enthusiasts,Low-Step Frames
+11466,Ambrosi,McCarty,amccartyhu@e-recht24.de,Parnell Square North,Traditional,4.0,premium member,debit card,Postal Mail,Social Media,Fitness Enthusiasts,None
+64565,Nikolos,Lamperti,nlampertihv@miibeian.gov.cn,Guild Street,E-Bike,1.7,premium member,direct deposit,SMS,Email Marketing Campaigns,Tourists,Sign Language Interpretation
+48415,Maddie,Bisatt,mbisatthw@uol.com.br,Mater Hospital,E-Bike,1.6,premium member,cash,SMS,Online Advertisements,Regular,Adaptive Bikes
+14426,Benedikta,Bussel,bbusselhx@tiny.cc,Kevin Street,E-Bike,1.7,basic member,cash,App Notification,Email Marketing Campaigns,Tourists,None
+72591,Cristie,Corhard,ccorhardhy@tinypic.com,Exchequer Street,E-Bike,1.8,basic member,credit card,Email,Social Media,Frequent,Audio Guides
+12919,Mario,Tollemache,mtollemachehz@webmd.com,St James Hospital (Luas),Traditional,3.2,premium member,credit card,App Notification,Print Media,Tourists,Audio Guides
+23314,Sascha,Chatel,schateli0@dion.ne.jp,Herbert Street,Traditional,3.4,premium member,credit card,Email,Social Media,Occasional,Low-Step Frames
+75228,Raymond,Sinson,rsinsoni1@xrea.com,Greek Street,Traditional,1.7,premium member,payment wallets,Email,Social Media,Occasional,Audio Guides
+49974,Pacorro,Sawyers,psawyersi2@xinhuanet.com,Blessington Street,E-Bike,3.6,premium member,pay pal,Postal Mail,Other,Frequent,Audio Guides
+75158,Marcile,Tarzey,mtarzeyi3@angelfire.com,Fownes Street Upper,Traditional,3.7,basic member,payment wallets,Postal Mail,Print Media,Occasional,Sign Language Interpretation
+75320,Susy,Pessolt,spessolti4@51.la,King Street North,Traditional,3.0,basic member,payment wallets,Phone Calls,Print Media,Seasonal,Sign Language Interpretation
+84798,Kala,Attwool,kattwooli5@nymag.com,Blackhall Place,E-Bike,2.4,basic member,pay pal,App Notification,Email Marketing Campaigns,Tourists,Low-Step Frames
+58977,Melanie,Cavil,mcavili6@xinhuanet.com,Convention Centre,Traditional,2.6,basic member,pay pal,App Notification,Other,Fitness Enthusiasts,Adaptive Bikes
+95457,Hanni,Daine,hdainei7@virginia.edu,Heuston Bridge (South),Traditional,3.4,basic member,payment wallets,App Notification,Word-of-Mouth,Seasonal,Sign Language Interpretation
+76283,Marijn,Torrese,mtorresei8@cdbaby.com,Grand Canal Dock,E-Bike,2.6,premium member,pay pal,SMS,Print Media,Occasional,Audio Guides
+29978,Cary,Cheine,ccheinei9@technorati.com,Phibsborough Road,E-Bike,1.1,premium member,apple pay,App Notification,Word-of-Mouth,Commuters,None
+88744,Deina,Bills,dbillsia@aboutads.info,Sir Patrick's Dun,Traditional,2.5,basic member,apple pay,Email,Other,Fitness Enthusiasts,Sign Language Interpretation
+91700,Christoper,Kemme,ckemmeib@dyndns.org,James Street,Traditional,3.0,premium member,credit card,Postal Mail,Social Media,Frequent,None
+20177,Carita,Agass,cagassic@miitbeian.gov.cn,Mount Brown,E-Bike,2.8,basic member,debit card,Postal Mail,Print Media,Fitness Enthusiasts,Sign Language Interpretation
+24256,Darius,Huriche,dhuricheid@istockphoto.com,Kevin Street,Traditional,2.3,basic member,apple pay,Email,Word-of-Mouth,Frequent,Low-Step Frames
+16189,Juanita,Lanigan,jlaniganie@vimeo.com,Talbot Street,E-Bike,3.8,premium member,credit card,App Notification,Online Advertisements,Frequent,None
+98850,Bendix,Pancoust,bpancoustif@salon.com,Blessington Street,E-Bike,2.9,basic member,debit card,App Notification,Search Engine,Fitness Enthusiasts,None
+25219,Micki,Chadwell,mchadwellig@oracle.com,Kilmainham Lane,E-Bike,2.1,basic member,direct deposit,Phone Calls,Word-of-Mouth,Regular,None
+23913,Taber,Riguard,triguardih@loc.gov,City Quay,E-Bike,3.5,premium member,pay pal,App Notification,Print Media,Commuters,Audio Guides
+71810,Malcolm,Fattori,mfattoriii@wsj.com,Fenian Street,E-Bike,3.5,basic member,direct deposit,App Notification,Email Marketing Campaigns,Seasonal,None
+63319,Germain,Haistwell,ghaistwellij@theguardian.com,Georges Quay,Traditional,3.9,basic member,direct deposit,Phone Calls,Social Media,Tourists,Audio Guides
+24598,Olav,Strickler,ostricklerik@bbc.co.uk,George's Lane,E-Bike,2.6,basic member,debit card,Email,Search Engine,Frequent,Sign Language Interpretation
+54199,Orelle,Claus,oclausil@symantec.com,James Street East,Traditional,3.0,basic member,apple pay,App Notification,Online Advertisements,Occasional,Audio Guides
+76135,Jenda,Lethley,jlethleyim@netlog.com,Rothe Abbey,Traditional,1.7,premium member,credit card,SMS,Online Advertisements,Regular,Adaptive Bikes
+51987,Francyne,Whyte,fwhytein@google.it,Collins Barracks Museum,E-Bike,3.6,premium member,cash,SMS,Email Marketing Campaigns,Frequent,Sign Language Interpretation
+44929,Gilbertina,Elam,gelamio@joomla.org,Greek Street,Traditional,1.6,premium member,cash,Phone Calls,Print Media,Frequent,Sign Language Interpretation
+72952,Star,Curwen,scurwenip@elegantthemes.com,High Street,Traditional,3.0,premium member,debit card,Email,Search Engine,Frequent,None
+40065,Nealson,Udell,nudelliq@facebook.com,Parnell Street,Traditional,3.8,premium member,payment wallets,Phone Calls,Search Engine,Tourists,None
+59324,Valentine,Eastop,veastopir@jugem.jp,Charlemont Street,Traditional,1.6,basic member,cash,Postal Mail,Print Media,Occasional,Audio Guides
+38686,Karlyn,Domone,kdomoneis@mlb.com,Hanover Quay East,Traditional,3.1,premium member,pay pal,Postal Mail,Social Media,Regular,Low-Step Frames
+55152,Dari,Corns,dcornsit@cocolog-nifty.com,Phibsborough Road,Traditional,3.8,basic member,apple pay,Phone Calls,Print Media,Seasonal,None
+46159,Garold,Teers,gteersiu@skype.com,Georges Quay,E-Bike,3.4,basic member,apple pay,App Notification,Word-of-Mouth,Frequent,Audio Guides
+80042,Ellswerth,Goodyer,egoodyeriv@imageshack.us,Charleville Road,E-Bike,2.5,basic member,apple pay,SMS,Other,Frequent,None
+31662,Addy,Shrubshall,ashrubshalliw@naver.com,City Quay,E-Bike,1.8,premium member,pay pal,Email,Word-of-Mouth,Commuters,Audio Guides
+49323,Halley,Larne,hlarneix@histats.com,Portobello Harbour,Traditional,1.3,basic member,cash,Postal Mail,Print Media,Commuters,Low-Step Frames
+81670,Lynn,Watkiss,lwatkissiy@slideshare.net,Upper Sherrard Street,Traditional,3.6,basic member,payment wallets,Phone Calls,Other,Commuters,Low-Step Frames
+52800,Collete,Tessier,ctessieriz@google.co.uk,Fitzwilliam Square West,E-Bike,1.2,premium member,apple pay,SMS,Word-of-Mouth,Frequent,Sign Language Interpretation
+49803,Donalt,Iacovino,diacovinoj0@merriam-webster.com,St James Hospital (Luas),E-Bike,3.6,premium member,direct deposit,SMS,Online Advertisements,Occasional,Sign Language Interpretation
+42677,Mariquilla,McGowan,mmcgowanj1@constantcontact.com,Parnell Street,Traditional,3.3,basic member,debit card,App Notification,Social Media,Fitness Enthusiasts,Sign Language Interpretation
+32548,Pavla,Ridulfo,pridulfoj2@amazon.com,Ormond Quay Upper,E-Bike,3.9,basic member,apple pay,Postal Mail,Search Engine,Fitness Enthusiasts,Adaptive Bikes
+70792,Livvie,Karlicek,lkarlicekj3@google.com.au,Mountjoy Square East,Traditional,2.9,basic member,pay pal,SMS,Social Media,Regular,Adaptive Bikes
+35888,Klarika,McCrostie,kmccrostiej4@seattletimes.com,Lime Street,E-Bike,1.5,premium member,credit card,Postal Mail,Other,Commuters,Adaptive Bikes
+43296,Hunt,Goby,hgobyj5@ebay.co.uk,Mount Brown,E-Bike,2.4,basic member,pay pal,Email,Print Media,Fitness Enthusiasts,Low-Step Frames
+78970,Tracee,Ouslem,touslemj6@xing.com,Portobello Road,E-Bike,2.8,basic member,pay pal,Phone Calls,Search Engine,Tourists,Audio Guides
+94948,Mab,Alennikov,malennikovj7@umich.edu,Jervis Street,Traditional,1.6,basic member,payment wallets,App Notification,Email Marketing Campaigns,Tourists,Sign Language Interpretation
+33768,Patty,Absolon,pabsolonj8@cam.ac.uk,Rothe Abbey,Traditional,1.7,basic member,credit card,Postal Mail,Other,Occasional,None
+89366,Georgiana,Gullivan,ggullivanj9@ehow.com,Charleville Road,Traditional,1.8,basic member,pay pal,Postal Mail,Social Media,Regular,Adaptive Bikes
+54413,Clovis,Sholl,cshollja@woothemes.com,Hatch Street,Traditional,1.0,basic member,debit card,Phone Calls,Other,Regular,Adaptive Bikes
+53324,Teodoro,Norcop,tnorcopjb@jugem.jp,Phibsborough Road,E-Bike,3.2,premium member,debit card,Postal Mail,Email Marketing Campaigns,Occasional,Sign Language Interpretation
+84181,Larine,Feldhorn,lfeldhornjc@cnet.com,Dame Street,Traditional,3.6,basic member,credit card,Postal Mail,Social Media,Seasonal,Low-Step Frames
+68019,Broddy,Frisby,bfrisbyjd@wufoo.com,Bolton Street,Traditional,2.9,premium member,direct deposit,Phone Calls,Social Media,Frequent,None
+53556,Aurore,Waistell,awaistellje@qq.com,St. Stephen's Green East,Traditional,2.3,premium member,payment wallets,Postal Mail,Print Media,Tourists,None
+17060,Chelsae,Choat,cchoatjf@weather.com,Oliver Bond Street,Traditional,1.3,premium member,credit card,Postal Mail,Search Engine,Tourists,Adaptive Bikes
+68158,Krysta,Semper,ksemperjg@bizjournals.com,Broadstone,Traditional,1.3,premium member,credit card,Phone Calls,Search Engine,Seasonal,Audio Guides
+61359,Constantia,Cruden,ccrudenjh@hp.com,Frederick Street South,Traditional,2.7,premium member,payment wallets,App Notification,Social Media,Seasonal,Low-Step Frames
+24617,Krishna,Duplan,kduplanji@cisco.com,Hanover Quay,E-Bike,1.7,basic member,cash,Email,Word-of-Mouth,Regular,None
+74609,Nerita,Spering,nsperingjj@tamu.edu,Hatch Street,E-Bike,3.8,basic member,direct deposit,SMS,Other,Seasonal,None
+36833,Meredithe,Vatcher,mvatcherjk@paypal.com,Fownes Street Upper,E-Bike,2.3,premium member,pay pal,Postal Mail,Search Engine,Seasonal,Audio Guides
+79334,Aldin,Lawrenz,alawrenzjl@constantcontact.com,Grangegorman Lower (Central),Traditional,1.8,basic member,direct deposit,Phone Calls,Social Media,Seasonal,Adaptive Bikes
+35142,Jenny,Pinnegar,jpinnegarjm@baidu.com,Ormond Quay Upper,Traditional,1.4,premium member,cash,Phone Calls,Email Marketing Campaigns,Regular,Sign Language Interpretation
+81671,Gates,Caulcott,gcaulcottjn@bizjournals.com,Grattan Street,E-Bike,2.2,premium member,apple pay,Postal Mail,Print Media,Fitness Enthusiasts,Audio Guides
+44784,Patrizius,O'Cosgra,pocosgrajo@creativecommons.org,North Circular Road (O'Connell's),Traditional,1.5,premium member,pay pal,SMS,Online Advertisements,Fitness Enthusiasts,Sign Language Interpretation
+39545,Clementine,Leaney,cleaneyjp@goo.ne.jp,Mount Brown,E-Bike,2.7,premium member,cash,App Notification,Search Engine,Frequent,None
+24073,Krista,Mingard,kmingardjq@illinois.edu,Exchequer Street,E-Bike,1.0,basic member,payment wallets,Phone Calls,Word-of-Mouth,Seasonal,Low-Step Frames
+86955,Kakalina,Birdwhistle,kbirdwhistlejr@is.gd,Mount Street Lower,E-Bike,3.3,premium member,credit card,SMS,Word-of-Mouth,Seasonal,Adaptive Bikes
+26636,Ganny,Teall,gtealljs@deliciousdays.com,Brookfield Road,E-Bike,1.3,basic member,cash,App Notification,Email Marketing Campaigns,Seasonal,Audio Guides
+80603,Fee,Kittles,fkittlesjt@about.me,James Street East,Traditional,1.0,basic member,cash,Phone Calls,Other,Regular,Audio Guides
+85400,Whitney,Laughnan,wlaughnanju@businesswire.com,Clonmel Street,E-Bike,3.4,premium member,credit card,SMS,Social Media,Fitness Enthusiasts,Adaptive Bikes
+19833,Rosalyn,Hissett,rhissettjv@google.de,George's Lane,E-Bike,3.7,premium member,direct deposit,Phone Calls,Word-of-Mouth,Tourists,Sign Language Interpretation
+15521,Ceil,Twopenny,ctwopennyjw@tuttocitta.it,Phibsborough Road,Traditional,1.2,premium member,credit card,Postal Mail,Other,Seasonal,Audio Guides
+27805,Easter,Beckwith,ebeckwithjx@gizmodo.com,Guild Street,Traditional,2.0,premium member,apple pay,App Notification,Print Media,Occasional,Low-Step Frames
+60931,Phyllida,Newman,pnewmanjy@unicef.org,Georges Quay,Traditional,2.3,premium member,cash,Email,Social Media,Occasional,Audio Guides
+75904,Ryun,McCague,rmccaguejz@whitehouse.gov,George's Lane,Traditional,3.7,basic member,apple pay,Email,Other,Seasonal,Low-Step Frames
+31430,Ermanno,Cattrell,ecattrellk0@geocities.jp,James Street East,E-Bike,2.6,premium member,direct deposit,Phone Calls,Other,Occasional,Low-Step Frames
+69282,Geri,Story,gstoryk1@chron.com,Denmark Street Great,E-Bike,2.7,basic member,direct deposit,Phone Calls,Search Engine,Seasonal,None
+19554,Hayley,Curuclis,hcuruclisk2@slate.com,Heuston Bridge (South),E-Bike,1.9,premium member,credit card,App Notification,Online Advertisements,Frequent,Sign Language Interpretation
+42172,Joshia,Mattheissen,jmattheissenk3@sourceforge.net,Charleville Road,Traditional,1.5,basic member,pay pal,Email,Print Media,Commuters,Audio Guides
+45101,Kippie,Gunningham,kgunninghamk4@a8.net,Rothe Abbey,E-Bike,3.0,basic member,apple pay,Phone Calls,Email Marketing Campaigns,Tourists,Low-Step Frames
+54846,Rocky,Hooke,rhookek5@slashdot.org,Eccles Street,E-Bike,3.1,premium member,credit card,Postal Mail,Email Marketing Campaigns,Commuters,Audio Guides
+46810,Debor,Barrick,dbarrickk6@java.com,Wilton Terrace,Traditional,1.2,basic member,apple pay,App Notification,Email Marketing Campaigns,Frequent,None
+46221,Niall,Malyj,nmalyjk7@cloudflare.com,Phibsborough Road,E-Bike,3.0,premium member,direct deposit,App Notification,Email Marketing Campaigns,Fitness Enthusiasts,Sign Language Interpretation
+41444,Elroy,Bettanay,ebettanayk8@google.nl,Mount Brown,Traditional,4.0,basic member,debit card,App Notification,Social Media,Regular,None
+80409,Ado,Pitsall,apitsallk9@yolasite.com,Benson Street,Traditional,2.0,premium member,cash,Postal Mail,Online Advertisements,Frequent,Sign Language Interpretation
+31977,Rozalie,Licciardi,rlicciardika@upenn.edu,Fitzwilliam Square West,Traditional,3.2,premium member,direct deposit,Email,Other,Commuters,None
+35125,Joleen,Ferro,jferrokb@altervista.org,Merrion Square South,Traditional,3.1,basic member,direct deposit,Email,Other,Tourists,Adaptive Bikes
+41440,Caterina,Hayle,chaylekc@t-online.de,Rothe Abbey,E-Bike,2.5,basic member,pay pal,App Notification,Email Marketing Campaigns,Regular,None
+14762,Anissa,Warters,awarterskd@reuters.com,Western Way,Traditional,2.7,premium member,pay pal,App Notification,Search Engine,Tourists,Sign Language Interpretation
+66797,Leo,Morgon,lmorgonke@spotify.com,Herbert Street,E-Bike,3.2,premium member,debit card,App Notification,Email Marketing Campaigns,Fitness Enthusiasts,None
+17642,Ashton,Bradburn,abradburnkf@imgur.com,Killarney Street,Traditional,2.1,basic member,debit card,Email,Word-of-Mouth,Regular,Sign Language Interpretation
+15846,Paten,Burchess,pburchesskg@irs.gov,Wilton Terrace,E-Bike,2.0,premium member,cash,SMS,Search Engine,Frequent,Adaptive Bikes
+66027,Shirline,Wilber,swilberkh@1und1.de,North Circular Road (O'Connell's),E-Bike,1.6,basic member,direct deposit,Phone Calls,Other,Frequent,Sign Language Interpretation
+53531,Ferrel,Pogue,fpogueki@uol.com.br,Hanover Quay East,Traditional,2.5,premium member,payment wallets,SMS,Word-of-Mouth,Occasional,Sign Language Interpretation
+97016,Morna,Costard,mcostardkj@delicious.com,Deverell Place,E-Bike,2.5,basic member,debit card,SMS,Online Advertisements,Seasonal,Audio Guides
+28479,Nesta,Valentelli,nvalentellikk@eventbrite.com,North Circular Road,E-Bike,2.3,premium member,payment wallets,Postal Mail,Other,Seasonal,Audio Guides
+14347,Ephraim,Hornung,ehornungkl@geocities.com,Fenian Street,Traditional,3.4,basic member,pay pal,Email,Online Advertisements,Seasonal,Low-Step Frames
+13662,Mona,Reichelt,mreicheltkm@about.com,Georges Quay,Traditional,3.2,basic member,payment wallets,Postal Mail,Print Media,Commuters,Low-Step Frames
+22730,Paulita,Mariotte,pmariottekn@craigslist.org,Exchequer Street,E-Bike,3.2,basic member,direct deposit,Postal Mail,Search Engine,Seasonal,Adaptive Bikes
+14164,Deloria,Sambrok,dsambrokko@sfgate.com,Killarney Street,Traditional,3.5,premium member,pay pal,Email,Other,Tourists,None
+79927,Rochella,Lake,rlakekp@blogtalkradio.com,Cathal Brugha Street,E-Bike,1.1,premium member,payment wallets,Phone Calls,Online Advertisements,Fitness Enthusiasts,Low-Step Frames
+68836,Roland,Dunphy,rdunphykq@theglobeandmail.com,Emmet Road,Traditional,2.5,premium member,direct deposit,Email,Print Media,Seasonal,Adaptive Bikes
+81800,Carolee,Mathias,cmathiaskr@businessinsider.com,Herbert Street,Traditional,1.7,basic member,cash,App Notification,Other,Regular,Sign Language Interpretation
+95361,Hugo,Sarath,hsarathks@census.gov,Charleville Road,E-Bike,3.0,premium member,debit card,Email,Print Media,Fitness Enthusiasts,Low-Step Frames
+19205,Fayette,Stebbings,fstebbingskt@t.co,Fitzwilliam Square East,E-Bike,3.5,premium member,debit card,Email,Email Marketing Campaigns,Frequent,Sign Language Interpretation
+52174,Cordi,Duigan,cduiganku@patch.com,Merrion Square West,Traditional,3.0,basic member,pay pal,SMS,Other,Regular,Low-Step Frames
+30097,Eulalie,Telford,etelfordkv@woothemes.com,St. Stephen's Green South,Traditional,3.5,premium member,payment wallets,Email,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+15073,Shane,Outerbridge,souterbridgekw@amazonaws.com,Custom House Quay,Traditional,3.3,premium member,cash,SMS,Social Media,Occasional,Audio Guides
+52212,Tracie,Molineaux,tmolineauxkx@admin.ch,Parnell Square North,E-Bike,1.5,basic member,cash,Email,Search Engine,Seasonal,Audio Guides
+77477,Lonnard,Mattisson,lmattissonky@ted.com,Killarney Street,Traditional,3.4,premium member,apple pay,SMS,Other,Seasonal,Adaptive Bikes
+16953,Binky,Saxton,bsaxtonkz@china.com.cn,Herbert Place,E-Bike,2.8,premium member,pay pal,Phone Calls,Search Engine,Regular,None
+14018,Barbie,Imlen,bimlenl0@fotki.com,Parnell Street,Traditional,1.5,basic member,cash,SMS,Word-of-Mouth,Regular,Low-Step Frames
+72311,Austina,Revie,areviel1@networkadvertising.org,North Circular Road,Traditional,2.4,basic member,payment wallets,Phone Calls,Search Engine,Occasional,Audio Guides
+52321,Anselma,Tonner,atonnerl2@163.com,Heuston Station (Car Park),E-Bike,3.8,basic member,credit card,Email,Other,Frequent,Sign Language Interpretation
+97826,Phillis,Chafney,pchafneyl3@rakuten.co.jp,Golden Lane,E-Bike,3.6,basic member,cash,SMS,Print Media,Regular,Adaptive Bikes
+33697,Willem,Bartos,wbartosl4@loc.gov,Hardwicke Place,Traditional,2.9,premium member,debit card,Postal Mail,Social Media,Frequent,Adaptive Bikes
+42424,Tallie,Nel,tnell5@nationalgeographic.com,North Circular Road,E-Bike,1.2,premium member,pay pal,SMS,Word-of-Mouth,Tourists,Low-Step Frames
+59864,Kitty,Casham,kcashaml6@hc360.com,George's Lane,E-Bike,1.2,premium member,credit card,App Notification,Other,Seasonal,Low-Step Frames
+76361,Arabella,Linford,alinfordl7@twitpic.com,Heuston Station (Central),E-Bike,2.9,premium member,credit card,Postal Mail,Search Engine,Commuters,Adaptive Bikes
+35262,Gregorius,Kassidy,gkassidyl8@patch.com,Grangegorman Lower (North),Traditional,1.4,premium member,credit card,Email,Word-of-Mouth,Regular,Adaptive Bikes
+80711,Giralda,Diffley,gdiffleyl9@rakuten.co.jp,Kilmainham Lane,E-Bike,3.4,premium member,apple pay,Phone Calls,Search Engine,Occasional,Sign Language Interpretation
+82310,Murdoch,Seward,msewardla@google.ca,Jervis Street,E-Bike,3.5,premium member,credit card,Email,Email Marketing Campaigns,Regular,None
+66928,Willi,Eburne,weburnelb@constantcontact.com,Francis Street,Traditional,2.1,premium member,credit card,Postal Mail,Word-of-Mouth,Regular,Sign Language Interpretation
+50903,Bendix,Sparshatt,bsparshattlc@netlog.com,Greek Street,Traditional,2.6,premium member,cash,Email,Online Advertisements,Frequent,Audio Guides
+81041,Austine,McCree,amccreeld@paginegialle.it,Bolton Street,Traditional,2.4,premium member,pay pal,Email,Word-of-Mouth,Regular,Audio Guides
+53482,Lu,Verson,lversonle@state.gov,Sandwith Street,Traditional,2.6,premium member,apple pay,App Notification,Print Media,Regular,Audio Guides
+49097,Rochell,Klulicek,rkluliceklf@gizmodo.com,Mount Brown,E-Bike,2.9,basic member,apple pay,SMS,Online Advertisements,Fitness Enthusiasts,Low-Step Frames
+88337,Phoebe,Rivalland,privallandlg@uol.com.br,Wolfe Tone Street,E-Bike,3.6,premium member,apple pay,Postal Mail,Online Advertisements,Occasional,Low-Step Frames
+95872,Dalli,Oller,dollerlh@simplemachines.org,Emmet Road,E-Bike,2.8,basic member,cash,Postal Mail,Search Engine,Occasional,None
+26714,Quintina,Brownlie,qbrownlieli@histats.com,The Point,Traditional,2.3,premium member,pay pal,Postal Mail,Email Marketing Campaigns,Seasonal,Sign Language Interpretation
+14672,Huey,Bartosek,hbartoseklj@theatlantic.com,Convention Centre,Traditional,3.7,premium member,apple pay,Phone Calls,Online Advertisements,Commuters,Adaptive Bikes
+39010,Percy,Conyard,pconyardlk@biblegateway.com,Eccles Street,Traditional,1.6,premium member,debit card,Email,Search Engine,Frequent,Low-Step Frames
+51739,Jessa,Gowanson,jgowansonll@dailymotion.com,Grattan Street,E-Bike,2.1,basic member,payment wallets,App Notification,Print Media,Fitness Enthusiasts,Audio Guides
+18709,Cam,Dewes,cdeweslm@ox.ac.uk,North Circular Road (O'Connell's),Traditional,1.3,premium member,credit card,Email,Social Media,Fitness Enthusiasts,Low-Step Frames
+62261,Silvain,Schimpke,sschimpkeln@mayoclinic.com,Heuston Bridge (North),E-Bike,1.2,premium member,cash,Phone Calls,Email Marketing Campaigns,Tourists,Audio Guides
+89632,Kahlil,Turl,kturllo@arstechnica.com,Deverell Place,E-Bike,3.4,premium member,pay pal,Postal Mail,Online Advertisements,Tourists,Low-Step Frames
+42436,Faun,Sarfass,fsarfasslp@amazon.de,James Street,E-Bike,3.5,basic member,payment wallets,App Notification,Search Engine,Frequent,Audio Guides
+41618,Danyelle,Bunyan,dbunyanlq@hao123.com,Grangegorman Lower (South),E-Bike,2.0,basic member,payment wallets,App Notification,Print Media,Occasional,Audio Guides
+18474,Cayla,Inder,cinderlr@indiegogo.com,Newman House,Traditional,2.3,basic member,apple pay,App Notification,Print Media,Seasonal,Adaptive Bikes
+38292,Chevalier,Townsend,ctownsendls@simplemachines.org,Broadstone,Traditional,2.0,basic member,pay pal,App Notification,Social Media,Seasonal,Adaptive Bikes
+44322,Olva,Worsnip,oworsniplt@nps.gov,Grattan Street,Traditional,2.5,premium member,cash,App Notification,Search Engine,Fitness Enthusiasts,None
+59579,Ralina,Remmer,rremmerlu@theatlantic.com,Talbot Street,Traditional,3.5,premium member,direct deposit,Postal Mail,Print Media,Frequent,Sign Language Interpretation
+52977,Kean,Stillman,kstillmanlv@ft.com,Royal Hospital,E-Bike,3.9,basic member,cash,App Notification,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+27560,Michele,Jendrusch,mjendruschlw@tamu.edu,Grangegorman Lower (South),Traditional,3.9,premium member,apple pay,SMS,Email Marketing Campaigns,Seasonal,Audio Guides
+55811,Amandie,Winckles,awinckleslx@google.com.hk,Heuston Station (Car Park),E-Bike,3.2,premium member,cash,Email,Print Media,Seasonal,None
+58285,Amy,Twyning,atwyningly@thetimes.co.uk,Hardwicke Place,Traditional,3.8,basic member,payment wallets,Postal Mail,Other,Fitness Enthusiasts,None
+89824,Rolando,Thireau,rthireaulz@cbsnews.com,Deverell Place,Traditional,1.0,basic member,pay pal,App Notification,Search Engine,Fitness Enthusiasts,Adaptive Bikes
+67613,Robbert,Dubarry,rdubarrym0@nhs.uk,Parnell Street,Traditional,3.7,basic member,pay pal,Phone Calls,Social Media,Commuters,Low-Step Frames
+24404,Eveline,Vize,evizem1@globo.com,Mountjoy Square East,Traditional,2.8,basic member,apple pay,App Notification,Email Marketing Campaigns,Seasonal,Audio Guides
+69158,Bartholomeo,Febre,bfebrem2@rakuten.co.jp,Grand Canal Dock,Traditional,3.1,premium member,payment wallets,Phone Calls,Other,Commuters,None
+27313,Ramonda,Rushmer,rrushmerm3@sciencedaily.com,Hardwicke Street,E-Bike,3.3,basic member,credit card,Phone Calls,Search Engine,Regular,Audio Guides
+86229,Ramsey,Cristofano,rcristofanom4@unc.edu,Townsend Street,Traditional,4.0,basic member,apple pay,Email,Social Media,Frequent,Audio Guides
+28750,Noach,Mothersdale,nmothersdalem5@aboutads.info,Upper Sherrard Street,E-Bike,2.0,basic member,direct deposit,Postal Mail,Online Advertisements,Seasonal,None
+75978,Killian,Stoddart,kstoddartm6@amazon.co.jp,Mountjoy Square West,Traditional,1.1,premium member,payment wallets,Postal Mail,Online Advertisements,Commuters,Sign Language Interpretation
+93474,Grantham,Reinbach,greinbachm7@xinhuanet.com,Eccles Street,E-Bike,2.7,premium member,pay pal,Postal Mail,Print Media,Seasonal,Audio Guides
+41594,Rolando,Liveley,rliveleym8@msu.edu,Fitzwilliam Square East,E-Bike,2.0,basic member,cash,Phone Calls,Print Media,Tourists,None
+16137,Anya,Handford,ahandfordm9@earthlink.net,Charleville Road,E-Bike,1.0,basic member,pay pal,Phone Calls,Word-of-Mouth,Seasonal,Sign Language Interpretation
+90294,Domeniga,McCafferty,dmccaffertyma@bravesites.com,Western Way,E-Bike,2.5,basic member,credit card,SMS,Other,Seasonal,None
+36812,Godard,Lodder,gloddermb@twitter.com,Christchurch Place,Traditional,3.9,premium member,pay pal,Email,Social Media,Fitness Enthusiasts,Adaptive Bikes
+55369,Alan,Bern,abernmc@desdev.cn,Pearse Street,Traditional,2.5,premium member,pay pal,App Notification,Social Media,Regular,None
+68206,Wynn,Trinder,wtrindermd@paypal.com,Frederick Street South,E-Bike,2.4,premium member,direct deposit,Phone Calls,Other,Regular,None
+54288,Sile,Sproston,ssprostonme@fda.gov,Princes Street / O'Connell Street,Traditional,1.6,basic member,apple pay,App Notification,Word-of-Mouth,Frequent,Sign Language Interpretation
+74105,Sunny,Yurivtsev,syurivtsevmf@house.gov,Kilmainham Lane,E-Bike,3.0,premium member,debit card,Phone Calls,Word-of-Mouth,Regular,Sign Language Interpretation
+90725,Sutherlan,Henworth,shenworthmg@huffingtonpost.com,Grantham Street,Traditional,3.4,premium member,direct deposit,Email,Print Media,Tourists,Adaptive Bikes
+56770,Lombard,Erik,lerikmh@europa.eu,Francis Street,Traditional,2.3,basic member,direct deposit,Email,Word-of-Mouth,Regular,None
+67004,Adriena,Physic,aphysicmi@abc.net.au,Francis Street,E-Bike,1.0,premium member,credit card,Phone Calls,Print Media,Frequent,Audio Guides
+39550,Georgi,Strongman,gstrongmanmj@ow.ly,St. Stephen's Green East,E-Bike,3.5,basic member,direct deposit,Email,Word-of-Mouth,Tourists,Sign Language Interpretation
+50689,Karel,Adanet,kadanetmk@yale.edu,Grantham Street,E-Bike,2.6,premium member,cash,Phone Calls,Other,Regular,None
+79594,Cindelyn,Eskrick,ceskrickml@imdb.com,New Central Bank,E-Bike,2.4,basic member,cash,Phone Calls,Other,Frequent,None
+51018,Nichol,Huke,nhukemm@netscape.com,Jervis Street,E-Bike,3.6,basic member,cash,App Notification,Email Marketing Campaigns,Seasonal,None
+22421,Aubry,Kenner,akennermn@psu.edu,Grantham Street,Traditional,3.5,basic member,apple pay,SMS,Email Marketing Campaigns,Fitness Enthusiasts,Sign Language Interpretation
+58260,Laurel,McCreery,lmccreerymo@sitemeter.com,Smithfield,Traditional,1.1,premium member,direct deposit,SMS,Online Advertisements,Frequent,Sign Language Interpretation
+24750,Nessi,Rodolf,nrodolfmp@umn.edu,James Street East,E-Bike,2.5,basic member,credit card,Postal Mail,Social Media,Fitness Enthusiasts,None
+26392,Nathanial,Graalman,ngraalmanmq@cbc.ca,Grangegorman Lower (Central),Traditional,2.2,premium member,direct deposit,App Notification,Online Advertisements,Commuters,None
+71977,Barrie,Shane,bshanemr@ed.gov,Collins Barracks Museum,E-Bike,1.5,premium member,direct deposit,Postal Mail,Online Advertisements,Occasional,Low-Step Frames
+63188,Glenn,Pagin,gpaginms@free.fr,Mater Hospital,E-Bike,3.9,premium member,cash,Phone Calls,Other,Fitness Enthusiasts,Adaptive Bikes
+66921,Chalmers,Gogay,cgogaymt@com.com,Mater Hospital,E-Bike,1.7,premium member,apple pay,Email,Online Advertisements,Seasonal,None
+84271,Fredia,Darinton,fdarintonmu@arizona.edu,Francis Street,Traditional,2.0,basic member,credit card,App Notification,Online Advertisements,Tourists,Audio Guides
+97922,Karee,McCawley,kmccawleymv@noaa.gov,Guild Street,E-Bike,1.8,premium member,direct deposit,Phone Calls,Search Engine,Seasonal,Adaptive Bikes
+77581,Joyous,Girtin,jgirtinmw@google.it,Royal Hospital,Traditional,3.4,basic member,debit card,App Notification,Online Advertisements,Commuters,Low-Step Frames
+47265,Bradney,Ahrendsen,bahrendsenmx@pcworld.com,Denmark Street Great,Traditional,2.4,premium member,debit card,Phone Calls,Online Advertisements,Tourists,None
+26460,Faber,Hyrons,fhyronsmy@google.com.au,Frederick Street South,E-Bike,2.5,premium member,apple pay,Phone Calls,Email Marketing Campaigns,Fitness Enthusiasts,Audio Guides
+67136,Lauryn,Brosini,lbrosinimz@163.com,Hardwicke Place,Traditional,1.4,premium member,credit card,App Notification,Print Media,Commuters,Low-Step Frames
+85444,Consuelo,Mc Gaughey,cmcgaugheyn0@umich.edu,Dame Street,Traditional,3.4,basic member,payment wallets,SMS,Other,Frequent,Audio Guides
+93664,Leticia,Gowan,lgowann1@arizona.edu,Sir Patrick's Dun,E-Bike,3.8,premium member,direct deposit,SMS,Email Marketing Campaigns,Occasional,Adaptive Bikes
+87981,Sayre,Hingeley,shingeleyn2@trellian.com,Parkgate Street,Traditional,2.6,basic member,cash,App Notification,Search Engine,Frequent,Audio Guides
+88731,Ailene,Molson,amolsonn3@technorati.com,Denmark Street Great,Traditional,3.6,basic member,apple pay,Postal Mail,Email Marketing Campaigns,Regular,Sign Language Interpretation
+15374,Eric,Savine,esavinen4@ameblo.jp,South Dock Road,E-Bike,3.5,premium member,direct deposit,Email,Email Marketing Campaigns,Regular,Low-Step Frames
+26630,Cathyleen,Burtt,cburttn5@fema.gov,Sandwith Street,E-Bike,3.3,premium member,cash,Email,Print Media,Occasional,Audio Guides
+41920,Ryann,Mattielli,rmattiellin6@businessinsider.com,Wilton Terrace,Traditional,2.3,premium member,pay pal,SMS,Social Media,Commuters,Audio Guides
+63998,Dugald,Anfusso,danfusson7@cbc.ca,Leinster Street South,Traditional,1.1,basic member,pay pal,App Notification,Other,Regular,Low-Step Frames
+48368,Leonard,Milland,lmillandn8@prweb.com,Golden Lane,E-Bike,3.3,premium member,credit card,Email,Print Media,Seasonal,Audio Guides
+92943,Dorie,Maevela,dmaevelan9@bbc.co.uk,Charlemont Street,Traditional,2.5,basic member,credit card,Phone Calls,Print Media,Tourists,Audio Guides
+76141,Courtnay,Lanceley,clanceleyna@nydailynews.com,Rothe Abbey,E-Bike,2.8,premium member,direct deposit,Postal Mail,Social Media,Tourists,Low-Step Frames
+80052,Aaren,Polgreen,apolgreennb@de.vu,Kilmainham Gaol,E-Bike,1.6,basic member,direct deposit,App Notification,Email Marketing Campaigns,Frequent,Adaptive Bikes
+67845,Norbie,Merington,nmeringtonnc@alibaba.com,Market Street South,Traditional,2.0,premium member,cash,SMS,Word-of-Mouth,Regular,Audio Guides
+91513,Brandi,Northcliffe,bnorthcliffend@engadget.com,Rathdown Road,E-Bike,2.5,premium member,pay pal,Postal Mail,Other,Regular,Low-Step Frames
+84111,Clemens,Brock,cbrockne@wikipedia.org,Portobello Road,E-Bike,2.2,premium member,direct deposit,Postal Mail,Word-of-Mouth,Commuters,Low-Step Frames
+15695,Sigismondo,Coaker,scoakernf@google.com.au,Smithfield North,E-Bike,2.4,basic member,cash,App Notification,Word-of-Mouth,Frequent,None
+83342,Samara,Castel,scastelng@usgs.gov,Kilmainham Gaol,E-Bike,2.0,basic member,payment wallets,App Notification,Email Marketing Campaigns,Tourists,None
+21719,Abbie,Heijne,aheijnenh@wordpress.org,Charlemont Street,Traditional,2.5,basic member,credit card,Phone Calls,Online Advertisements,Frequent,Low-Step Frames
+34210,Terrye,Entwisle,tentwisleni@ovh.net,Newman House,Traditional,3.9,premium member,credit card,App Notification,Social Media,Occasional,Adaptive Bikes
+11626,Shaylynn,Ilive,silivenj@irs.gov,Collins Barracks Museum,Traditional,1.9,basic member,direct deposit,SMS,Print Media,Regular,Sign Language Interpretation
+17861,Dolly,Newlands,dnewlandsnk@yellowpages.com,Grantham Street,E-Bike,3.3,basic member,debit card,SMS,Other,Occasional,Adaptive Bikes
+50566,Maggi,Ruffell,mruffellnl@ycombinator.com,York Street West,E-Bike,3.5,basic member,pay pal,Postal Mail,Social Media,Regular,Sign Language Interpretation
+46594,Filberto,Stoacley,fstoacleynm@facebook.com,Eccles Street,E-Bike,1.8,basic member,credit card,Phone Calls,Word-of-Mouth,Frequent,Low-Step Frames
+62911,Eddie,Harcourt,eharcourtnn@home.pl,Wilton Terrace (Park),E-Bike,3.7,basic member,debit card,Email,Other,Tourists,Sign Language Interpretation
+92794,Iolanthe,Lowmass,ilowmassno@homestead.com,Wilton Terrace (Park),Traditional,3.6,basic member,cash,Email,Word-of-Mouth,Regular,Adaptive Bikes
+61196,Grete,Carabet,gcarabetnp@nsw.gov.au,Jervis Street,E-Bike,1.8,basic member,pay pal,Phone Calls,Other,Occasional,Low-Step Frames
+50984,Erena,Corradeschi,ecorradeschinq@mit.edu,Jervis Street,E-Bike,2.1,premium member,direct deposit,Phone Calls,Word-of-Mouth,Seasonal,Audio Guides
+37617,Ruggiero,Morbey,rmorbeynr@free.fr,Avondale Road,Traditional,3.6,premium member,credit card,SMS,Word-of-Mouth,Seasonal,Audio Guides
+79600,Nicolas,Tomicki,ntomickins@google.com.br,Heuston Station (Central),Traditional,2.4,premium member,cash,Email,Email Marketing Campaigns,Commuters,Low-Step Frames
+67295,Babs,LeEstut,bleestutnt@webnode.com,Wilton Terrace,Traditional,3.4,premium member,payment wallets,SMS,Search Engine,Commuters,Audio Guides
+90367,Lucina,Hasell,lhasellnu@dyndns.org,Dame Street,Traditional,3.9,premium member,direct deposit,App Notification,Word-of-Mouth,Occasional,Audio Guides
+70060,Fielding,Knappett,fknappettnv@constantcontact.com,Cathal Brugha Street,Traditional,2.5,basic member,debit card,SMS,Search Engine,Seasonal,None
+64364,Andreas,Bucknall,abucknallnw@tripod.com,Bolton Street,Traditional,3.8,basic member,pay pal,Email,Search Engine,Seasonal,Sign Language Interpretation
+71011,Helen-elizabeth,Gascard,hgascardnx@hubpages.com,Grangegorman Lower (South),Traditional,2.3,premium member,credit card,Phone Calls,Other,Tourists,None
+20785,Deanna,Junes,djunesny@pen.io,Heuston Station (Car Park),E-Bike,1.4,premium member,debit card,Email,Social Media,Occasional,Sign Language Interpretation
+64521,Caresse,Tewelson,ctewelsonnz@disqus.com,High Street,E-Bike,2.5,basic member,debit card,Postal Mail,Online Advertisements,Fitness Enthusiasts,Adaptive Bikes
+22498,Catrina,Moretto,cmorettoo0@twitter.com,Frederick Street South,E-Bike,2.8,premium member,payment wallets,Postal Mail,Print Media,Fitness Enthusiasts,Adaptive Bikes
+82660,Erika,Frankling,efranklingo1@dailymail.co.uk,Phibsborough Road,Traditional,3.8,premium member,pay pal,App Notification,Social Media,Commuters,Audio Guides
+19086,Daron,De Roeck,dderoecko2@wufoo.com,Clarendon Row,E-Bike,3.3,premium member,direct deposit,SMS,Social Media,Commuters,Sign Language Interpretation
+66331,Minny,McRuvie,mmcruvieo3@auda.org.au,Guild Street,E-Bike,1.9,basic member,pay pal,App Notification,Social Media,Tourists,Low-Step Frames
+24387,Julee,Gerrard,jgerrardo4@prnewswire.com,Western Way,E-Bike,1.6,premium member,credit card,Postal Mail,Word-of-Mouth,Seasonal,Audio Guides
+93395,Roanna,Sedworth,rsedwortho5@miibeian.gov.cn,Eccles Street,Traditional,3.0,premium member,cash,App Notification,Other,Regular,Sign Language Interpretation
+12592,Frederigo,Rigler,friglero6@amazonaws.com,St. Stephen's Green South,E-Bike,2.8,basic member,cash,Postal Mail,Social Media,Commuters,Audio Guides
+17406,Ivett,Chastelain,ichastelaino7@purevolume.com,Pearse Street,Traditional,1.9,basic member,cash,App Notification,Search Engine,Seasonal,Sign Language Interpretation
+70995,Aeriela,Schild,aschildo8@flavors.me,Harcourt Terrace,Traditional,2.3,basic member,payment wallets,Postal Mail,Search Engine,Fitness Enthusiasts,None
+89944,Madelon,Prendeguest,mprendeguesto9@friendfeed.com,Brookfield Road,Traditional,1.4,premium member,debit card,App Notification,Other,Tourists,None
+43534,Gerome,Giraudel,ggiraudeloa@arstechnica.com,New Central Bank,E-Bike,1.6,basic member,cash,Email,Online Advertisements,Commuters,Adaptive Bikes
+44078,Quint,Dottrell,qdottrellob@free.fr,James Street,Traditional,3.8,premium member,payment wallets,SMS,Other,Frequent,Adaptive Bikes
+29932,Ashien,Hultberg,ahultbergoc@msn.com,Heuston Station (Car Park),Traditional,3.3,basic member,pay pal,Email,Email Marketing Campaigns,Frequent,None
+50961,Daisie,Battrick,dbattrickod@accuweather.com,Golden Lane,Traditional,3.4,basic member,apple pay,Phone Calls,Social Media,Occasional,None
+21649,Shaine,Coudray,scoudrayoe@cpanel.net,Kevin Street,E-Bike,3.5,premium member,direct deposit,Phone Calls,Word-of-Mouth,Tourists,Low-Step Frames
+90730,Humberto,Echalie,hechalieof@sciencedaily.com,Portobello Road,E-Bike,2.4,basic member,cash,Email,Word-of-Mouth,Tourists,Audio Guides
+66662,Edi,Roycraft,eroycraftog@phpbb.com,Mountjoy Square West,E-Bike,1.1,premium member,pay pal,SMS,Search Engine,Seasonal,None
+90283,Vevay,Longega,vlongegaoh@quantcast.com,Merrion Square East,Traditional,3.5,premium member,pay pal,SMS,Social Media,Fitness Enthusiasts,None
+75651,Lenee,Baudon,lbaudonoi@jalbum.net,Mount Street Lower,Traditional,1.8,basic member,payment wallets,Postal Mail,Social Media,Regular,Low-Step Frames
+94892,Emanuel,Zappel,ezappeloj@marketwatch.com,King Street North,Traditional,2.8,premium member,payment wallets,App Notification,Word-of-Mouth,Commuters,None
+24521,Raquel,Sealeaf,rsealeafok@slate.com,Merrion Square South,Traditional,3.8,premium member,debit card,Phone Calls,Email Marketing Campaigns,Occasional,Audio Guides
+24542,Ranna,Lyddiatt,rlyddiattol@elpais.com,Hardwicke Street,E-Bike,2.1,basic member,apple pay,SMS,Word-of-Mouth,Frequent,Sign Language Interpretation
+10190,Betti,Rattenbury,brattenburyom@kickstarter.com,Guild Street,Traditional,2.2,basic member,payment wallets,Email,Other,Seasonal,None
+42824,Timotheus,Adams,tadamson@princeton.edu,Royal Hospital,E-Bike,2.5,premium member,apple pay,SMS,Social Media,Regular,Low-Step Frames
+19844,Hildagarde,Grayne,hgrayneoo@theglobeandmail.com,Smithfield North,E-Bike,3.3,basic member,payment wallets,Email,Social Media,Commuters,Sign Language Interpretation
+92349,Merrick,Prendiville,mprendivilleop@twitter.com,Cathal Brugha Street,Traditional,3.1,premium member,pay pal,App Notification,Social Media,Frequent,Adaptive Bikes
+89228,Fidelia,Bellhouse,fbellhouseoq@technorati.com,Cathal Brugha Street,E-Bike,2.9,premium member,direct deposit,Email,Social Media,Regular,Sign Language Interpretation
+95083,Eddie,Vasyukhnov,evasyukhnovor@hhs.gov,Charleville Road,Traditional,2.3,basic member,pay pal,Phone Calls,Other,Regular,None
+56921,Ellerey,Rudwell,erudwellos@ca.gov,Molesworth Street,E-Bike,1.5,premium member,apple pay,Phone Calls,Email Marketing Campaigns,Occasional,Audio Guides
+66220,Leonardo,Sidworth,lsidworthot@slashdot.org,Greek Street,Traditional,3.0,premium member,direct deposit,Phone Calls,Online Advertisements,Occasional,Sign Language Interpretation
+40053,Lester,Tomkies,ltomkiesou@macromedia.com,Cathal Brugha Street,Traditional,2.4,basic member,apple pay,Phone Calls,Word-of-Mouth,Occasional,Low-Step Frames
+19160,Ivy,Gabala,igabalaov@ebay.co.uk,Bolton Street,E-Bike,3.6,basic member,debit card,Postal Mail,Print Media,Seasonal,None
+32093,Maressa,Fleay,mfleayow@cocolog-nifty.com,Lime Street,Traditional,3.0,basic member,pay pal,App Notification,Social Media,Occasional,Low-Step Frames
+81785,Amalia,Leslie,aleslieox@vk.com,Sandwith Street,E-Bike,2.7,premium member,apple pay,SMS,Online Advertisements,Regular,None
+77758,Camille,Milmith,cmilmithoy@whitehouse.gov,Denmark Street Great,E-Bike,2.2,premium member,cash,SMS,Word-of-Mouth,Tourists,None
+99889,Catie,Byre,cbyreoz@canalblog.com,Broadstone,E-Bike,2.3,premium member,cash,Phone Calls,Print Media,Fitness Enthusiasts,Audio Guides
+96449,Chere,Chrippes,cchrippesp0@ox.ac.uk,Custom House Quay,Traditional,3.3,premium member,direct deposit,App Notification,Print Media,Fitness Enthusiasts,Low-Step Frames
+85215,Rachelle,Bohman,rbohmanp1@soup.io,Charleville Road,Traditional,3.5,premium member,debit card,Postal Mail,Email Marketing Campaigns,Commuters,Sign Language Interpretation
+28159,Dalenna,Suter,dsuterp2@naver.com,Kevin Street,E-Bike,1.4,basic member,credit card,Phone Calls,Online Advertisements,Fitness Enthusiasts,Adaptive Bikes
+91208,Dill,Kenneway,dkennewayp3@issuu.com,Mount Brown,E-Bike,3.4,premium member,debit card,Phone Calls,Online Advertisements,Occasional,Adaptive Bikes
+90589,Ermina,Novkovic,enovkovicp4@spiegel.de,Kilmainham Lane,E-Bike,3.8,basic member,credit card,Email,Search Engine,Tourists,Adaptive Bikes
+78455,Alvan,Crinage,acrinagep5@tmall.com,North Circular Road,Traditional,1.3,premium member,cash,Email,Social Media,Commuters,Audio Guides
+86041,Robinetta,Fairy,rfairyp6@cam.ac.uk,Portobello Harbour,E-Bike,2.9,basic member,credit card,Phone Calls,Word-of-Mouth,Seasonal,Low-Step Frames
+36622,Kassie,Glenton,kglentonp7@instagram.com,High Street,E-Bike,2.8,basic member,cash,Email,Print Media,Tourists,Sign Language Interpretation
+61648,Belita,Skone,bskonep8@eepurl.com,James Street,Traditional,2.0,premium member,payment wallets,Email,Online Advertisements,Tourists,Sign Language Interpretation
+66918,Shelli,Bavister,sbavisterp9@altervista.org,Grangegorman Lower (South),Traditional,2.9,basic member,apple pay,App Notification,Social Media,Tourists,Low-Step Frames
+94413,Gayel,Dohrmann,gdohrmannpa@engadget.com,Exchequer Street,E-Bike,3.1,premium member,credit card,SMS,Word-of-Mouth,Commuters,Sign Language Interpretation
+83700,Ashley,MacNeillie,amacneilliepb@gravatar.com,Eccles Street East,E-Bike,3.2,premium member,apple pay,SMS,Print Media,Tourists,Adaptive Bikes
+56604,Janette,Petofi,jpetofipc@squarespace.com,Smithfield,E-Bike,2.6,basic member,cash,App Notification,Search Engine,Regular,Sign Language Interpretation
+66870,Harrison,Cartmale,hcartmalepd@dmoz.org,Brookfield Road,E-Bike,1.4,basic member,credit card,SMS,Word-of-Mouth,Occasional,Sign Language Interpretation
+40418,Matelda,Kobera,mkoberape@archive.org,Royal Hospital,E-Bike,1.4,basic member,direct deposit,Email,Word-of-Mouth,Frequent,Sign Language Interpretation
+17835,Tricia,Blondin,tblondinpf@joomla.org,Mount Brown,E-Bike,2.7,basic member,payment wallets,Phone Calls,Other,Seasonal,Audio Guides
+80894,Wittie,Whatford,wwhatfordpg@wiley.com,Herbert Place,Traditional,3.5,premium member,cash,SMS,Search Engine,Occasional,Low-Step Frames
+78727,Jammal,Bresland,jbreslandph@hibu.com,St James Hospital (Luas),Traditional,3.8,premium member,debit card,SMS,Email Marketing Campaigns,Fitness Enthusiasts,Audio Guides
+64604,Noach,Lello,nlellopi@symantec.com,Deverell Place,Traditional,2.8,premium member,debit card,Email,Print Media,Commuters,None
+15052,Timothea,Baylis,tbaylispj@newsvine.com,Portobello Road,E-Bike,3.0,basic member,apple pay,Phone Calls,Email Marketing Campaigns,Seasonal,Low-Step Frames
+57739,Storm,Lifsey,slifseypk@indiatimes.com,North Circular Road (O'Connell's),E-Bike,3.0,premium member,apple pay,SMS,Word-of-Mouth,Frequent,Adaptive Bikes
+58591,Ruperta,Coutthart,rcoutthartpl@google.co.jp,Townsend Street,E-Bike,3.6,basic member,payment wallets,Email,Print Media,Regular,Audio Guides
+85795,Dulciana,Maydwell,dmaydwellpm@blogger.com,Herbert Street,Traditional,2.4,basic member,direct deposit,Email,Social Media,Regular,Low-Step Frames
+15916,Jayme,Donett,jdonettpn@ning.com,Greek Street,E-Bike,3.5,premium member,payment wallets,App Notification,Email Marketing Campaigns,Frequent,Adaptive Bikes
+74771,Doti,Greeno,dgreenopo@prnewswire.com,Kilmainham Lane,Traditional,1.6,basic member,cash,Email,Search Engine,Regular,Audio Guides
+57362,Merrily,Naerup,mnaeruppp@patch.com,Charlemont Street,E-Bike,4.0,basic member,direct deposit,Postal Mail,Word-of-Mouth,Commuters,Audio Guides
+35553,Gloriana,Vanichkin,gvanichkinpq@github.com,Smithfield,E-Bike,1.3,premium member,debit card,SMS,Other,Regular,Adaptive Bikes
+44016,Kara-lynn,Daveridge,kdaveridgepr@icq.com,Parnell Square North,E-Bike,3.6,premium member,payment wallets,Phone Calls,Print Media,Seasonal,Audio Guides
+14241,Alaine,Whitwell,awhitwellps@addthis.com,Royal Hospital,Traditional,1.3,premium member,direct deposit,SMS,Other,Regular,Sign Language Interpretation
+27232,Meir,Tregaskis,mtregaskispt@patch.com,Custom House Quay,Traditional,1.7,premium member,apple pay,Phone Calls,Search Engine,Commuters,Adaptive Bikes
+92595,Kaja,Le Jean,klejeanpu@woothemes.com,Blessington Street,E-Bike,2.3,premium member,apple pay,App Notification,Print Media,Commuters,None
+80502,Diego,Keniwell,dkeniwellpv@answers.com,North Circular Road (O'Connell's),Traditional,1.2,basic member,cash,Phone Calls,Email Marketing Campaigns,Regular,None
+78390,Dacie,Aherne,dahernepw@ow.ly,Wolfe Tone Street,E-Bike,2.2,basic member,payment wallets,App Notification,Search Engine,Regular,None
+16803,Trescha,McGrail,tmcgrailpx@issuu.com,Mountjoy Square East,Traditional,3.0,premium member,cash,App Notification,Other,Commuters,Audio Guides
+41768,Saba,Gilbeart,sgilbeartpy@ezinearticles.com,Kilmainham Gaol,Traditional,1.5,premium member,direct deposit,SMS,Online Advertisements,Frequent,None
+91409,Xerxes,Sangar,xsangarpz@wikipedia.org,Charleville Road,Traditional,1.1,premium member,apple pay,Postal Mail,Print Media,Seasonal,Adaptive Bikes
+76633,Beaufort,Browse,bbrowseq0@skype.com,Grangegorman Lower (South),E-Bike,2.6,basic member,cash,SMS,Email Marketing Campaigns,Frequent,Low-Step Frames
+62894,Doretta,Farrin,dfarrinq1@etsy.com,Mater Hospital,E-Bike,2.4,premium member,pay pal,App Notification,Email Marketing Campaigns,Seasonal,None
+80864,Rik,Iveson,rivesonq2@baidu.com,Portobello Harbour,Traditional,2.0,premium member,cash,App Notification,Other,Regular,None
+42900,Leann,Killich,lkillichq3@example.com,Ormond Quay Upper,Traditional,2.7,basic member,debit card,SMS,Email Marketing Campaigns,Tourists,Adaptive Bikes
+50543,Aldric,Hurn,ahurnq4@cbc.ca,Grattan Street,E-Bike,3.5,basic member,payment wallets,SMS,Search Engine,Regular,Audio Guides
+87653,Evangelia,McAlpine,emcalpineq5@networkadvertising.org,Portobello Harbour,E-Bike,1.3,premium member,direct deposit,Email,Email Marketing Campaigns,Occasional,Adaptive Bikes
+57752,Mathew,Winstanley,mwinstanleyq6@rambler.ru,Wolfe Tone Street,E-Bike,2.3,basic member,cash,Phone Calls,Other,Occasional,None
+59294,Aurie,Baptista,abaptistaq7@jimdo.com,Oliver Bond Street,E-Bike,2.6,basic member,payment wallets,App Notification,Social Media,Occasional,Audio Guides
+10897,Anica,Stainson,astainsonq8@vimeo.com,Heuston Bridge (North),E-Bike,1.6,basic member,payment wallets,App Notification,Word-of-Mouth,Seasonal,Adaptive Bikes
+45574,Corella,Scholz,cscholzq9@yolasite.com,Mount Street Lower,Traditional,1.3,premium member,pay pal,Postal Mail,Word-of-Mouth,Occasional,Low-Step Frames
+72774,Loren,Weeke,lweekeqa@yandex.ru,Rathdown Road,E-Bike,2.6,premium member,credit card,Phone Calls,Word-of-Mouth,Tourists,Low-Step Frames
+41405,Thor,Liddle,tliddleqb@addthis.com,Frederick Street South,Traditional,3.0,premium member,payment wallets,Phone Calls,Social Media,Occasional,Audio Guides
+25089,Neddie,Rosenau,nrosenauqc@xrea.com,Market Street South,E-Bike,4.0,basic member,credit card,Phone Calls,Other,Frequent,Adaptive Bikes
+57910,Arty,Lightbody,alightbodyqd@archive.org,Broadstone,E-Bike,1.4,basic member,direct deposit,Phone Calls,Online Advertisements,Regular,Sign Language Interpretation
+40050,Mariya,Yanshinov,myanshinovqe@soup.io,Grangegorman Lower (South),E-Bike,1.3,premium member,pay pal,Phone Calls,Email Marketing Campaigns,Seasonal,Adaptive Bikes
+16096,Kenon,Lehrer,klehrerqf@yellowbook.com,Bolton Street,E-Bike,3.9,basic member,payment wallets,SMS,Email Marketing Campaigns,Regular,Sign Language Interpretation
+51124,Mikkel,Hunter,mhunterqg@reference.com,New Central Bank,E-Bike,1.8,premium member,apple pay,SMS,Email Marketing Campaigns,Commuters,Adaptive Bikes
+14683,Ethyl,Chess,echessqh@cisco.com,Rothe Abbey,E-Bike,1.3,basic member,pay pal,App Notification,Print Media,Regular,Sign Language Interpretation
+80030,Lillis,Goggin,lgogginqi@surveymonkey.com,Royal Hospital,E-Bike,3.6,basic member,payment wallets,Phone Calls,Search Engine,Commuters,Adaptive Bikes
+48635,Teddy,Woakes,twoakesqj@paypal.com,Oliver Bond Street,Traditional,2.9,basic member,payment wallets,App Notification,Print Media,Frequent,Low-Step Frames
+43206,Lenard,Richardin,lrichardinqk@bravesites.com,Mount Brown,Traditional,1.6,basic member,credit card,SMS,Print Media,Commuters,None
+61940,Hadlee,Stithe,hstitheql@marketwatch.com,John Street West,E-Bike,2.2,premium member,direct deposit,Phone Calls,Other,Occasional,Audio Guides
+87654,Ulrick,Mugridge,umugridgeqm@webnode.com,Hatch Street,Traditional,2.7,premium member,direct deposit,Phone Calls,Search Engine,Seasonal,Low-Step Frames
+68474,Raynell,Batistelli,rbatistelliqn@ycombinator.com,Kilmainham Gaol,E-Bike,3.5,premium member,apple pay,App Notification,Search Engine,Seasonal,Adaptive Bikes
+72456,Griselda,Bonin,gboninqo@shareasale.com,Christchurch Place,E-Bike,1.4,basic member,cash,Phone Calls,Print Media,Regular,Adaptive Bikes
+74012,Jo-anne,Kearley,jkearleyqp@amazonaws.com,Pearse Street,E-Bike,3.4,basic member,cash,Email,Social Media,Regular,Sign Language Interpretation
+67551,Clayborn,Milligan,cmilliganqq@house.gov,Grattan Street,Traditional,2.1,basic member,direct deposit,Phone Calls,Search Engine,Tourists,Low-Step Frames
+92382,Darren,Gossage,dgossageqr@sun.com,Denmark Street Great,E-Bike,2.7,basic member,credit card,Email,Email Marketing Campaigns,Frequent,Audio Guides
+63922,Nicolais,Haps,nhapsqs@de.vu,Buckingham Street Lower,Traditional,2.4,basic member,apple pay,Phone Calls,Other,Tourists,Low-Step Frames
+47358,D'arcy,Nel,dnelqt@altervista.org,North Circular Road (O'Connell's),E-Bike,1.7,premium member,credit card,Postal Mail,Other,Regular,Audio Guides
+36745,Travers,Dolligon,tdolligonqu@t-online.de,Golden Lane,E-Bike,3.2,premium member,payment wallets,SMS,Social Media,Frequent,Low-Step Frames
+71157,Peirce,Branson,pbransonqv@army.mil,Smithfield,E-Bike,3.0,basic member,apple pay,Phone Calls,Social Media,Fitness Enthusiasts,Sign Language Interpretation
+37964,Manya,Lynes,mlynesqw@ihg.com,Upper Sherrard Street,E-Bike,3.2,premium member,debit card,Email,Word-of-Mouth,Frequent,Adaptive Bikes
+66694,Georgianna,Banthorpe,gbanthorpeqx@miitbeian.gov.cn,Grangegorman Lower (Central),Traditional,2.8,premium member,apple pay,SMS,Other,Fitness Enthusiasts,Adaptive Bikes
+88533,Elsbeth,Reynalds,ereynaldsqy@msu.edu,Benson Street,Traditional,1.5,basic member,direct deposit,Phone Calls,Social Media,Commuters,None
+26920,Mavis,Martusov,mmartusovqz@google.nl,St. Stephen's Green South,E-Bike,3.8,premium member,credit card,Postal Mail,Other,Occasional,None
+70020,Jess,Cansdale,jcansdaler0@mysql.com,Herbert Street,E-Bike,3.4,basic member,apple pay,SMS,Word-of-Mouth,Commuters,None
+79517,Shannah,Vedyashkin,svedyashkinr1@mail.ru,Mountjoy Square East,Traditional,1.4,basic member,cash,Email,Print Media,Seasonal,Sign Language Interpretation
+17446,Torrance,Davidovich,tdavidovichr2@macromedia.com,Princes Street / O'Connell Street,Traditional,1.2,basic member,pay pal,App Notification,Print Media,Regular,Low-Step Frames
+51177,Son,Kier,skierr3@mozilla.org,George's Lane,E-Bike,3.1,premium member,pay pal,App Notification,Print Media,Occasional,Audio Guides
+55414,Lira,Girt,lgirtr4@craigslist.org,Grangegorman Lower (Central),E-Bike,1.5,basic member,payment wallets,Phone Calls,Social Media,Commuters,None
+22921,Nanni,Corn,ncornr5@geocities.jp,Market Street South,Traditional,3.4,basic member,direct deposit,Postal Mail,Search Engine,Commuters,Audio Guides
+34607,Aldric,Muttock,amuttockr6@nyu.edu,Brookfield Road,E-Bike,1.4,basic member,apple pay,App Notification,Word-of-Mouth,Fitness Enthusiasts,Adaptive Bikes
+56574,Farand,O'Cassidy,focassidyr7@adobe.com,St. Stephen's Green East,Traditional,3.0,basic member,direct deposit,SMS,Print Media,Tourists,Low-Step Frames
+95902,Crystie,Wisby,cwisbyr8@patch.com,Eccles Street East,Traditional,2.2,premium member,direct deposit,Postal Mail,Other,Tourists,Low-Step Frames
+22384,Alexei,MacTrustie,amactrustier9@weather.com,Heuston Bridge (North),Traditional,1.1,basic member,pay pal,Email,Other,Regular,Low-Step Frames
+38794,Terrance,Gavozzi,tgavozzira@discuz.net,Pearse Street,Traditional,3.9,premium member,payment wallets,Email,Word-of-Mouth,Tourists,Low-Step Frames
+46196,Alix,Lightning,alightningrb@ucoz.ru,Kilmainham Gaol,E-Bike,1.6,premium member,debit card,Email,Other,Seasonal,Audio Guides
+45964,Colleen,Nisuis,cnisuisrc@wired.com,Eccles Street East,Traditional,2.9,premium member,cash,Email,Email Marketing Campaigns,Fitness Enthusiasts,Adaptive Bikes
+58156,Clarabelle,Jacobsen,cjacobsenrd@digg.com,Georges Quay,Traditional,2.0,basic member,pay pal,SMS,Social Media,Commuters,Adaptive Bikes
+90729,Layne,Shawyer,lshawyerre@goo.gl,Kilmainham Lane,Traditional,1.5,premium member,payment wallets,SMS,Online Advertisements,Commuters,Audio Guides
+75629,Walden,Shadfourth,wshadfourthrf@foxnews.com,Fownes Street Upper,E-Bike,2.6,premium member,pay pal,SMS,Social Media,Occasional,Sign Language Interpretation
+19938,Ferris,Hasker,fhaskerrg@apple.com,Bolton Street,E-Bike,2.4,premium member,pay pal,Postal Mail,Email Marketing Campaigns,Regular,Low-Step Frames
+94966,Emeline,Hakking,ehakkingrh@boston.com,Heuston Bridge (South),Traditional,2.8,basic member,credit card,Email,Word-of-Mouth,Fitness Enthusiasts,Low-Step Frames
+61660,Elden,Pettis,epettisri@wikimedia.org,High Street,Traditional,1.3,premium member,payment wallets,SMS,Online Advertisements,Tourists,Audio Guides
+46654,Freddi,Ciccotti,fciccottirj@myspace.com,Oliver Bond Street,Traditional,2.9,premium member,direct deposit,Postal Mail,Search Engine,Frequent,Adaptive Bikes
+88043,Cass,Mucklestone,cmucklestonerk@cyberchimps.com,Upper Sherrard Street,E-Bike,3.5,basic member,pay pal,Postal Mail,Social Media,Tourists,Sign Language Interpretation
+67800,Felicia,Wiltsher,fwiltsherrl@mediafire.com,Princes Street / O'Connell Street,Traditional,1.8,basic member,apple pay,Email,Other,Tourists,Sign Language Interpretation
+65471,Allegra,Budden,abuddenrm@mac.com,Custom House,Traditional,2.2,premium member,credit card,Postal Mail,Print Media,Seasonal,Adaptive Bikes
+74875,Archer,Mansford,amansfordrn@blogspot.com,Oliver Bond Street,Traditional,3.8,premium member,credit card,App Notification,Email Marketing Campaigns,Regular,Audio Guides
+45432,Eddy,Flode,eflodero@diigo.com,The Point,Traditional,2.6,basic member,cash,Phone Calls,Online Advertisements,Tourists,Low-Step Frames
+37457,Ave,Milsted,amilstedrp@berkeley.edu,Emmet Road,E-Bike,1.4,premium member,debit card,Phone Calls,Word-of-Mouth,Fitness Enthusiasts,Sign Language Interpretation
+89778,Molli,Bunstone,mbunstonerq@unicef.org,Leinster Street South,E-Bike,1.1,premium member,apple pay,App Notification,Email Marketing Campaigns,Occasional,Low-Step Frames
+80036,Cristie,Riach,criachrr@fema.gov,Herbert Street,E-Bike,2.5,premium member,pay pal,Email,Search Engine,Fitness Enthusiasts,Audio Guides

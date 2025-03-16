@@ -1,0 +1,28 @@
+name,commercial_name,cities,country_code
+rouen,cy'clic,['Rouen'],FR
+jcdecauxbike,,,
+toulouse,Vélô,['Toulouse'],FR
+luxembourg,Veloh,['Luxembourg'],LU
+dublin,dublinbikes,['Dublin'],IE
+valence,,,
+stockholm,Cyclocity,['Stockholm'],SE
+santander,Tusbic,['Santander'],ES
+lund,Lundahoj,['Lund'],SE
+maribor,,,
+bruxelles,villo,"['Anderlecht', 'Berchem-Sainte-Agathe', 'Bruxelles', 'Etterbeek', 'Forest', 'Ganshoren', 'Ixelles', 'Jette', 'Koekelberg', 'Molenbeek-Saint-Jean', 'Saint-Gilles', 'Saint-Josse-ten-noode', 'Schaerbeek', 'Uccle', 'Woluwe-Saint-Lambert', 'Woluwe-Saint-Pierre']",BE
+lyon,Vélo'V,"['Caluire-et-Cuire', 'Lyon', 'Vaulx-En-Velin', 'Villeurbanne']",FR
+amiens,Velam,['Amiens'],FR
+mulhouse,VéloCité,['Mulhouse'],FR
+lillestrom,Bysykkel,['Lillestrom'],NO
+ljubljana,Bicikelj ,['Ljubljana'],SI
+seville,,,
+nancy,vélOstan'lib,['Nancy'],FR
+namur,Li bia velo,['Namur'],BE
+creteil,Cristolib,['Créteil'],FR
+cergy-pontoise,Velo2,"['Cergy', 'Courdimanche', 'Eragny-sur-Oise', 'Neuville-sur-Oise', 'Pontoise', ""Saint-Ouen-L'Aumone"", 'Vauréal']",FR
+vilnius,Cyclocity,['Vilnius'],LT
+toyama,cyclocity,['Toyama'],JP
+marseille,Le vélo,['Marseille'],FR
+nantes,Bicloo,['Nantes'],FR
+brisbane,CityCycle,['Brisbane'],AU
+besancon,,,
